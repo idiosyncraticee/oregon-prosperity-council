@@ -144,6 +144,12 @@ h1.page-title { font-size: 2.05rem; line-height: 1.15; letter-spacing: -0.015em;
 .callout b { color: var(--forest-deep); }
 .callout code { font-family: var(--mono); font-size: 0.85em; background: #e6efe7; padding: 0.1em 0.35em; border-radius: 4px; }
 
+/* ── example agent prompts ──────────────────────────────── */
+.examples { margin: 1.6rem 0; }
+.examples-label { font-family: var(--sans); font-size: 0.8rem; letter-spacing: 0.04em; text-transform: uppercase; color: var(--muted); font-weight: 700; margin: 0 0 0.7rem; }
+.examples-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 0.5rem; }
+.examples-list li { font-family: var(--sans); font-size: 0.95rem; color: var(--ink-soft); border: 1px solid var(--line); border-left: 3px solid var(--forest); background: var(--paper-2); border-radius: 8px; padding: 0.6rem 0.85rem; }
+
 /* ── search ─────────────────────────────────────────────── */
 .search-box { width: 100%; font-family: var(--sans); font-size: 1.05rem; padding: 0.8rem 1rem; border: 1.5px solid var(--line); border-radius: 10px; background: var(--paper-2); color: var(--ink); }
 .search-box:focus { outline: none; border-color: var(--forest); box-shadow: 0 0 0 3px rgba(20,87,61,0.12); }

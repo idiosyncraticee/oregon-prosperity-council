@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     template: `%s · Oregon Prosperity Council Report`,
   },
   description:
-    "A progressive-disclosure index of the Oregon Prosperity Council Report (June 2026) — recommendations for Oregon's long-term competitiveness and prosperity. Navigable by topic, summarized per section, with every entry linking back to the exact source page. Built for AI agents and humans.",
+    "An unofficial, agent-readable index of the Oregon Prosperity Council Report (June 2026) — recommendations for Oregon's long-term competitiveness and prosperity. Not the official report and not meant for human reading: point an AI agent (Claude or ChatGPT) at this URL to navigate the 452-page document by topic, summarized per section, with every entry linking back to the exact source page.",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
