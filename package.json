@@ -8,6 +8,7 @@
     "prebuild": "node scripts/gen-public-assets.mjs",
     "build": "next build",
     "serve": "node serve.mjs",
+    "deploy:gov": "node scripts/deploy-gov.mjs",
     "lint": "next lint",
     "tree:build": "node scripts/build-outline.mjs && node \"$DOCTREE_SKILL/scripts/run.mjs\" plan --project-root . && node scripts/normalize-plan.mjs && node \"$DOCTREE_SKILL/scripts/run.mjs\" emit --project-root .",
     "tree:enrich": "node \"$DOCTREE_SKILL/scripts/run.mjs\" enrich --project-root . && node \"$DOCTREE_SKILL/scripts/run.mjs\" merge --project-root . && node \"$DOCTREE_SKILL/scripts/run.mjs\" rollup --project-root .",
