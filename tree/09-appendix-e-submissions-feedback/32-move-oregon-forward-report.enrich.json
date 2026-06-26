@@ -1,0 +1,160 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "09-appendix-e-submissions-feedback/32-move-oregon-forward-report",
+  "breadcrumb": [
+    "Appendix E: Submissions & Feedback",
+    "32. Move Oregon Forward — Report"
+  ],
+  "pageRange": [
+    296,
+    304
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:07:59.859Z",
+  "tldr": "Move Oregon Forward advocates for shifting Oregon's transportation investment strategy from traditional road expansion to multimodal transportation, targeted safety improvements, electrification, and grid upgrades. The submission argues that these investments deliver superior economic returns—generating more jobs per dollar, lowering household costs (up to $5,000/year), expanding labor-market access—while strengthening energy resilience by redirecting spending from imported fuel to local workers and utilities.",
+  "bullets": [
+    {
+      "text": "Road repair generates 16% more jobs per dollar than road expansion; every $1 in timely maintenance can avoid $5+ in later reconstruction costs.",
+      "page": 298
+    },
+    {
+      "text": "Oregon households spend 56% of income on housing and transportation combined; lowest-income households spend 30% on transportation alone; EVs cost 60-75% less to operate than gasoline vehicles.",
+      "page": 299
+    },
+    {
+      "text": "Public transit creates 31% more jobs per dollar than road construction; every $1 billion invested supports 41,400 jobs and generates $5 billion in long-term economic value.",
+      "page": 299
+    },
+    {
+      "text": "U.S. clean energy jobs grew 4.2% in 2023, with clean vehicle jobs growing 11.4%; clean energy added 1.5 million jobs globally in 2023 versus 940,000 in fossil fuels.",
+      "page": 300
+    },
+    {
+      "text": "National outdoor recreation generated $696.7 billion in GDP in 2024 (2.4% of economy); Oregon outdoor recreation contributed $12.4 billion to state GDP and supported 192,000 jobs.",
+      "page": 301
+    },
+    {
+      "text": "National motor vehicle crash costs reached $340 billion in 2019; Oregon diesel pollution caused 176 premature deaths and $1.6 billion in annual avoidable public health costs.",
+      "page": 302
+    },
+    {
+      "text": "Compact development reduces road infrastructure costs by 12% and water/sewer costs by 14% compared to sprawl development patterns.",
+      "page": 302
+    },
+    {
+      "text": "Only 27% of metropolitan workforce can reach a typical job by transit; 30% of Oregonians cannot or do not drive.",
+      "page": 303
+    },
+    {
+      "text": "U.S. charging infrastructure deployment could support 160,000 full-time equivalent jobs by 2032; transmission investment generates 13,000 FTE-years of employment per $1 billion invested.",
+      "page": 304
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "$5,000 per year",
+      "$13,318",
+      "$11,577 per year",
+      "30 percent",
+      "38 percent",
+      "60-75%",
+      "$1.32 per gallon",
+      "$5-6+ per gallon",
+      "31 percent more jobs per dollar",
+      "16 percent more jobs per dollar",
+      "10 jobs per $1 million",
+      "9.6 jobs per $1 million",
+      "7.8 jobs per $1 million",
+      "41,400 jobs",
+      "$3.1 billion in worker income",
+      "$251 million in tax revenue",
+      "$5 billion in long-term economic value",
+      "160,000 full-time equivalent jobs",
+      "78,000 in electrical installation, maintenance, and repair",
+      "12 jobs per $1 million",
+      "4.2 percent",
+      "11.4 percent",
+      "1.5 million jobs",
+      "940,000",
+      "$696.7 billion in GDP in 2024",
+      "2.4 percent",
+      "$15.7 billion",
+      "$20.6 billion",
+      "$12.4 billion",
+      "192,000 full- and part-time jobs",
+      "$0.31 in secondary economic activity",
+      "$34.1 billion",
+      "$138.5 billion",
+      "$447 million",
+      "5,000 jobs",
+      "230,000 bicycle recreation trips",
+      "$21.1 million",
+      "270 jobs",
+      "$900,000",
+      "$340 billion",
+      "$1.4 trillion",
+      "176 premature deaths",
+      "25,910 work-loss days",
+      "$1.6 billion annually",
+      "12 percent",
+      "14 percent",
+      "27 percent",
+      "10,700 to 18,200 jobs",
+      "$31 billion",
+      "$21,000",
+      "13,000 FTE-years",
+      "$2.4 billion",
+      "20% to 30%",
+      "7 percent",
+      "56 percent",
+      "30 percent"
+    ],
+    "ftes": [
+      "2024",
+      "2025",
+      "2022",
+      "early May 2026",
+      "2023",
+      "2019",
+      "2013",
+      "2014",
+      "2005",
+      "2035",
+      "2050",
+      "2032"
+    ],
+    "programs": [
+      "Community Paths Program",
+      "Historic Columbia River Highway State Trail",
+      "State Energy Strategy",
+      "Transportation Demand Management (TDM)",
+      "Congestion pricing"
+    ],
+    "bureaus": [
+      "Move Oregon Forward",
+      "ODOT",
+      "Climate Solutions",
+      "Rails-to-Trails Conservancy",
+      "Smart Growth America",
+      "APTA",
+      "ICCT",
+      "Brookings Institution",
+      "National Institute for Transportation and Communities",
+      "1000 Friends of Oregon",
+      "ECONorthwest",
+      "Center for Neighborhood Technology",
+      "Oregon Parks and Recreation",
+      "Oregon DEQ",
+      "Brattle",
+      "Victoria Transport Policy Institute",
+      "Cato Institute",
+      "OECD",
+      "MTA",
+      "Dean Runyan Associates"
+    ]
+  },
+  "confidence": "high"
+}

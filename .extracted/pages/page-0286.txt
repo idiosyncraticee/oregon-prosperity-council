@@ -1,0 +1,31 @@
+RECOMMENDATION 3: MONITOR AND USE OREGON LABOR MARKET DATA TO DRIVE
+RESULTS.
+Establish a shared, statewide dashboard that blends traditional measures (employment, wages,
+openings) with real-time signals on in-demand skills and hiring trends. Use these insights to set
+clear targets, prioritize investments, and adjust programs quickly when conditions change across
+regions and industries. Relevant resources from Microsoft include:
+• Access Trends through Labor Market Data specific to Oregon. Through LinkedIn’s Economic
+Graph, we can provide labor market insights to help states, regions, and workforce boards
+understand in-demand skills, emerging occupations, and workforce trends. These insights
+inform education planning, workforce investment, and economic development strategies.
+RECOMMENDATION 4: ENABLE WORKFORCE ORGANIZATIONS AND COMMUNITY COLLEGES
+TO DELIVER AI TRAINING TO PREPARE THE WORKFORCE.
+Equip workforce shared digital tools, and employer partnerships to scale short-term training tied to
+credentials and work-based learning. Align offerings to local demand using labor market data, and
+ensure wraparound supports (career navigation, childcare, transportation) so more Oregonians
+can complete training and transition into quality jobs.
+• Enable Workforce Boards with AI. In partnership with the National Association of
+Workforce Boards (NAWB), Microsoft Elevate supports workforce boards and American Job
+Centers with AI and digital skills training for jobseekers, dislocated workers, and incumbent
+workers—aligning training with real labor market demand.
+• Deliver AI Training through Community Colleges. In partnership with the American
+Association of Community Colleges, Microsoft offers training to community college leaders
+to help them build AI ready campuses.
+• Coming Soon: Enable In-demand Industries with AI (e.g., Construction). Microsoft
+supports targeted skilling and reskilling strategies for workers in industries experiencing
+disruption, such as construction, manufacturing, and logistics. AI-enabled tools and
+training can help workers transition into adjacent roles, improve safety and productivity,
+and access new career pathways.
+Microsoft Corporation
+One Microsoft Way | Redmond, WA 98052
+http://www.microsoft.com/

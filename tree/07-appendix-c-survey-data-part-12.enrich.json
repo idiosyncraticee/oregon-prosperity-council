@@ -1,0 +1,108 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "07-appendix-c-survey-data",
+  "breadcrumb": [
+    "Appendix C: Survey Data"
+  ],
+  "pageRange": [
+    66,
+    66
+  ],
+  "chunkIndex": 11,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:00:41.028Z",
+  "tldr": "Survey respondents identify workforce readiness and childcare access as critical barriers, alongside business climate friction (permitting delays, cumulative taxes, regulatory complexity). Business owners express concerns about specific policies: QSBS tax-incentive removal, Climate Protection Program compliance costs, and land-use restrictions limiting expansion. Rural communities report feeling excluded from economic planning. Common requests: streamlined permitting, support for small/local businesses, preschool/K-12 funding, higher wages in lower-paid sectors, and coordinated state agency leadership.",
+  "bullets": [
+    {
+      "text": "Childcare and preschool availability cited as major barrier to workforce participation, especially for women; respondents advocate free/subsidized programs like Preschool for All and NYC model",
+      "page": 66
+    },
+    {
+      "text": "QSBS (Qualified Small Business Stock) tax incentive removal described as existential threat to startup ecosystem and founder retention; Julie Scotland reports considering out-of-state move due to tax implications",
+      "page": 66
+    },
+    {
+      "text": "Climate Protection Program compliance costs cited as unsustainable; Lignetics reports $13,000/month per plant ($156,000 annually) in CPP costs with threat of plant closure if increases continue",
+      "page": 66
+    },
+    {
+      "text": "Outdoor recreation industry generates $16 billion in annual consumer spending and approximately 192,000 full- and part-time jobs; Oregon Wild advocates for mature/old-growth forest protections and climate solutions investment",
+      "page": 66
+    },
+    {
+      "text": "Rural communities report inadequate representation in economic planning; Pamela advocates for rural inclusion in Governor's plan execution and local economic development hubs as resource centers",
+      "page": 66
+    },
+    {
+      "text": "Permitting delays, regulatory complexity, and cumulative local/state/county tax layering identified as primary friction points; Springfield Chamber survey shows employers cite public safety (65%), state taxes (35%), reduced regulations (34%) as priorities",
+      "page": 66
+    },
+    {
+      "text": "Wage stagnation in lower-paid sectors (caregiving, healthcare, childcare) limits career advancement for women and working families; multiple respondents advocate increased minimum wages and sector-specific wage boosts",
+      "page": 66
+    },
+    {
+      "text": "Albert LePage proposes reframing economic policy around 'well-being economy' metrics (mental health, social capital, ecological integrity) instead of growth-only measures; cites global models and calls for integrated workforce/business/land-use strategy",
+      "page": 66
+    },
+    {
+      "text": "State workforce and economic development systems criticized as siloed, underfunded, and misaligned; calls for unified 'One Oregon' concept, single-entry support portals, and integrated data systems connecting education through employment",
+      "page": 66
+    },
+    {
+      "text": "Latino Network and BIPOC respondents cite lack of capacity, funding, and leadership representation in state agencies and workforce programs; advocate for statewide strategy and multi-year funding for Latine-led business/workforce development",
+      "page": 66
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "$16 billion in annual consumer spending",
+      "192,000 full- and part-time jobs",
+      "$13,000/month compliance costs",
+      "$156,000 annually",
+      "$4.9 billion",
+      "15% increase",
+      "4% tax",
+      "125,000 millionaires"
+    ],
+    "ftes": [
+      "2026",
+      "2-3 years",
+      "2025",
+      "2024",
+      "2025-2027 biennium"
+    ],
+    "programs": [
+      "QSBS",
+      "Climate Protection Program (CPP)",
+      "Preschool for All",
+      "PCEF",
+      "Future Ready Oregon",
+      "Prosperity Roadmap",
+      "Oregon's Economic Development Strategy",
+      "Cap and trade",
+      "One Oregon",
+      "Oregon Employability Skills curriculum"
+    ],
+    "bureaus": [
+      "Oregon Wild",
+      "Gravi AI",
+      "Bear Mountain Forest Products (Lignetics)",
+      "Walter Custom Homes",
+      "Motel Del Rogue",
+      "Latino Network",
+      "Springfield Area Chamber of Commerce",
+      "Business Oregon",
+      "Oregon Commerce Authority",
+      "Governor's Office",
+      "State Legislature",
+      "Multnomah County",
+      "City of Eugene",
+      "Portland",
+      "NALCAB"
+    ]
+  },
+  "confidence": "medium"
+}

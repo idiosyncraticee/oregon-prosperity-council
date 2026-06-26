@@ -1,0 +1,64 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "08-appendix-d-listening-session-facilitators-guide",
+  "breadcrumb": [
+    "Appendix D: Listening Session Facilitators' Guide"
+  ],
+  "pageRange": [
+    86,
+    91
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:03:20.565Z",
+  "tldr": "This appendix is a facilitators' guide instructing volunteers on how to conduct listening sessions to gather business and community input for the Oregon Prosperity Council's recommendations. The guide covers pre-meeting prep (location selection, invitations), during-meeting facilitation using structured agenda and prompts around three focus areas (Business Climate, Workforce, Tools for Growth), and post-meeting reporting via Google form. Sessions were scheduled for February-March 2026, with facilitators expected to synthesize local insights about barriers and solutions in Oregon's economic development landscape.",
+  "bullets": [
+    {
+      "text": "Facilitators must submit session notes via Google form by March 20, 2026.",
+      "page": 87
+    },
+    {
+      "text": "Council meetings began January 2026 and conclude June 2026 with delivery of Prosperity Council recommendations.",
+      "page": 89
+    },
+    {
+      "text": "Listening sessions facilitated between February - March 20, 2026 at selected in-person locations.",
+      "page": 87
+    },
+    {
+      "text": "Three focus areas organize the Council's work: Business Climate, Workforce, and Tools for Growth.",
+      "page": 89
+    },
+    {
+      "text": "Ground rules for sessions include: non-attribution of comments, protection of sensitive business information, and focus on actionable ideas.",
+      "page": 88
+    },
+    {
+      "text": "Core discussion questions address: challenges and barriers, recommended solutions, 2-3 year success metrics, required actors, existing useful programs, and best practices from other states.",
+      "page": 90
+    },
+    {
+      "text": "Facilitators' pre-meeting responsibilities include selecting location, inviting participants, and arranging for note-taker.",
+      "page": 87
+    }
+  ],
+  "entities": {
+    "dollars": [],
+    "ftes": [
+      "February - March 20, 2026",
+      "January 2026",
+      "June 2026"
+    ],
+    "programs": [
+      "Prosperity Council",
+      "Prosperity Roadmap"
+    ],
+    "bureaus": [
+      "Governor Kotek",
+      "Kath Nester"
+    ]
+  },
+  "confidence": "high"
+}

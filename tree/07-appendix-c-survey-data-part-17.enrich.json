@@ -1,0 +1,86 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "07-appendix-c-survey-data",
+  "breadcrumb": [
+    "Appendix C: Survey Data"
+  ],
+  "pageRange": [
+    71,
+    71
+  ],
+  "chunkIndex": 16,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:01:09.867Z",
+  "tldr": "Portland-area survey respondents overwhelmingly support Preschool for All as an economic engine for workforce development, citing research showing 3-to-1 returns on investment and 22% family income increases. Respondents prioritize affordable housing, equitable statewide education funding, and workforce training through apprenticeships. Many oppose unconstrained data center development and advocate for prevailing wage and local hiring standards on public projects.",
+  "bullets": [
+    {
+      "text": "Universal preschool cited by respondents as delivering 3-to-1 return on investment and raising family incomes by about 22% on average, described as three-generation poverty reducer",
+      "page": 71
+    },
+    {
+      "text": "Childcare costs and housing affordability identified as primary barriers to workforce participation and family economic stability",
+      "page": 71
+    },
+    {
+      "text": "Strong consensus to expand Preschool for All statewide beyond current Multnomah County rollout",
+      "page": 71
+    },
+    {
+      "text": "Respondent reports Preschool for All enabled $1,700 monthly savings that provided capital to launch restaurant business",
+      "page": 71
+    },
+    {
+      "text": "Advocates cite prevailing wage laws and local hire requirements on public projects in Washington and California as models",
+      "page": 71
+    },
+    {
+      "text": "Respondents criticize inequitable school funding distribution across Oregon and call for state-level equalization",
+      "page": 71
+    },
+    {
+      "text": "Multiple respondents reference New York City universal pre-K model and cite international examples including Quebec and New Mexico childcare systems",
+      "page": 71
+    },
+    {
+      "text": "Environmental protections emphasized; respondents oppose data center expansion without full environmental review and community input",
+      "page": 71
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "3-to-1 return on investment",
+      "22% on average",
+      "$1,700 a month"
+    ],
+    "ftes": [
+      "2030",
+      "2-3 years",
+      "10 years",
+      "generation"
+    ],
+    "programs": [
+      "Preschool for All",
+      "Universal Pre-K",
+      "Oregon Health Plan",
+      "Senate Bill 100",
+      "HB 4084",
+      "HB 3546",
+      "ODFW's Wildlife Action Plan",
+      "Integrated Water Resources Strategy",
+      "Career and Technical Education"
+    ],
+    "bureaus": [
+      "Governor Kotek",
+      "Oregon Legislature",
+      "Multnomah County",
+      "TriMet",
+      "ODFW",
+      "Metro",
+      "North Coast Carpenters Union",
+      "New York City"
+    ]
+  },
+  "confidence": "high"
+}

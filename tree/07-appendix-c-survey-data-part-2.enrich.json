@@ -1,0 +1,113 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "07-appendix-c-survey-data",
+  "breadcrumb": [
+    "Appendix C: Survey Data"
+  ],
+  "pageRange": [
+    56,
+    56
+  ],
+  "chunkIndex": 1,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:00:32.526Z",
+  "tldr": "Oregon respondents across business, workforce, housing, and environmental sectors identify key competitive challenges: high taxes and the elimination of state-level QSBS treatment deter founders and early-stage tech; fragmented local permitting and fees obstruct housing production; workforce development programs lack accountability; and the Climate Protection Program imposes significant costs on energy-intensive businesses. Recommendations cluster around tax reform, building-code modernization, statewide coordination on housing, decentralized workforce development, and infrastructure investment. A minority of respondents prioritize ecological restoration and degrowth frameworks over industrial expansion.",
+  "bullets": [
+    {
+      "text": "Climate Protection Program (CPP) estimated to cost Oregon natural gas consumers $4.9 Billion over the 11-year period (2025–2035), cited by manufacturers as major competitive disadvantage vs. other states",
+      "page": 56
+    },
+    {
+      "text": "Elimination of state-level QSBS treatment (SB 1507) identified by multiple founders as key factor discouraging startup formation and company retention in Oregon vs. peer states (Washington, Texas, Colorado, Massachusetts)",
+      "page": 56
+    },
+    {
+      "text": "Housing production constrained by fragmented local permitting, system development charges (SDCs), and unpredictable fee structures; respondents call for statewide guardrails, fee caps, standardized impact analysis, and advance notice of changes",
+      "page": 56
+    },
+    {
+      "text": "Building-code reforms (adopt ISO elevator standards, legalize interlocking stairs and single-stair buildings up to 6–8 floors) identified as levers to reduce construction costs and increase housing production at scale",
+      "page": 56
+    },
+    {
+      "text": "Workforce development fragmented across state agencies; recommendation to divest in state-level programs, empower local workforce development boards, and adopt Texas Workforce Commission model for accountability and regional intermediaries",
+      "page": 56
+    },
+    {
+      "text": "Small business barriers: limited access to contracts (especially public procurement), working capital lines of credit, and technical support; respondents praise Small Business TAP program and call for expansion and federal-state coordination",
+      "page": 56
+    },
+    {
+      "text": "Tax structure concerns: Portland/Multnomah County marginal income tax rates among highest in nation; respondents call for comprehensive tax reform, possible sales tax, limits on city/county income-tax variation, and extended QSBS incentives",
+      "page": 56
+    },
+    {
+      "text": "Biotech and innovation sector respondents request improved tax incentives, startup-retention tracking, and decentralized venture models; cite Pennsylvania's Ben Franklin Technology Partners and Maryland TEDCO as regional, hands-on alternatives",
+      "page": 56
+    },
+    {
+      "text": "Climate and environmental-justice respondents advocate for degrowth, ecological restoration, and redirection of economic-development funds to land trusts, care work, and community health—contrasting sharply with growth-focused business-climate submissions",
+      "page": 56
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "$4.9 Billion"
+    ],
+    "ftes": [
+      "2–3 years",
+      "2025–2035",
+      "2026"
+    ],
+    "programs": [
+      "QSBS",
+      "SB 1507",
+      "CPP",
+      "Climate Protection Program",
+      "Small Business TAP",
+      "Innovation Hubs",
+      "MetroHub",
+      "Oregon BEST",
+      "VertueLab",
+      "JobsOhio",
+      "Third Frontier Program",
+      "Ben Franklin Technology Partners",
+      "TEDCO",
+      "Texas Workforce Commission",
+      "Cleaner Air Oregon",
+      "Clean Water Oregon",
+      "Statewide Housing Production Goals",
+      "System Development Charges",
+      "Permit Streamlining & Shot Clocks",
+      "Pre-Approved Plan Programs",
+      "Carbon EO",
+      "SB 1586"
+    ],
+    "bureaus": [
+      "Business Oregon",
+      "Oregon State University",
+      "Legislature",
+      "Governor",
+      "DEQ",
+      "ODOT",
+      "Community colleges",
+      "Universities",
+      "Consolidated Precision Products Corp",
+      "Selmet, Inc",
+      "Pacific Cast Machinery and Defense Technologies, Inc",
+      "Acupro",
+      "north northeast business association",
+      "North Valley Computer Services",
+      "Solvers Collaborative",
+      "Panometric LLC",
+      "Southwest Washington Workforce",
+      "NW Natural Gas",
+      "Oregon Health Authority",
+      "Portland Clean Energy Fund",
+      "Oregon Office of Climate"
+    ]
+  },
+  "confidence": "medium"
+}

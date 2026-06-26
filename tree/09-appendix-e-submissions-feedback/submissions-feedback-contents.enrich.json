@@ -1,0 +1,99 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "09-appendix-e-submissions-feedback/submissions-feedback-contents",
+  "breadcrumb": [
+    "Appendix E: Submissions & Feedback",
+    "Submissions & Feedback — Contents"
+  ],
+  "pageRange": [
+    93,
+    94
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:03:30.774Z",
+  "tldr": "This page lists the 47 organizations, companies, individuals, and agencies that submitted feedback to the Oregon Prosperity Council during its consultation process. Submitters span the private sector (Microsoft, Pacific Power), agriculture and food production (Tillamook County Creamery, Oregon Farm Bureau), labor representatives (SEIU), universities, local government, and advocacy groups, arranged chronologically by submission date.",
+  "bullets": [
+    {
+      "text": "Total of 47 submitted documents in Appendix E",
+      "page": 93
+    },
+    {
+      "text": "Documents arranged chronologically by date of submittal",
+      "page": 93
+    },
+    {
+      "text": "Private sector participation from Microsoft Corporation and Pacific Power",
+      "page": 93
+    },
+    {
+      "text": "University sector well-represented: University of Oregon, Oregon State University, Oregon Tech, Oregon Public Universities",
+      "page": 93
+    },
+    {
+      "text": "Repeat submissions from same organizations: Portland Metro Chamber (3 times), Energy Trust of Oregon (2 times), Oregon State University (2 times), Oregon Business & Industry (2 times)",
+      "page": 93
+    },
+    {
+      "text": "Labor, agriculture, and advocacy sectors represented: SEIU, Oregon Farm Bureau, Tillamook County Creamery, Oregon Trails Coalition, Wild Salmon Center",
+      "page": 94
+    }
+  ],
+  "entities": {
+    "dollars": [],
+    "ftes": [],
+    "programs": [],
+    "bureaus": [
+      "University of Oregon Institute for Policy Research & Engagement",
+      "Oregon State Board of Agriculture",
+      "Oregon Workforce Partnership",
+      "NXTClean Fuels",
+      "Oregon State University",
+      "Oregon Business & Industry / DHM Research",
+      "Pacific Power",
+      "Westside Economic Alliance",
+      "Lois Neistat (Individual / Concerned Oregonians)",
+      "SEDCOR",
+      "Lois Cho, CHO Wines",
+      "Oregon Fire District Directors Association",
+      "Portland Metro Chamber (2026 State Legislative Action Plan)",
+      "Portland Metro Chamber (2026 Regional Policy Agenda)",
+      "Alice Dale (SEIU Labor Consultant)",
+      "Oregon Business Council",
+      "Portland Seed Fund",
+      "Oregon Tech Entrepreneurs & Investors",
+      "Energy Trust of Oregon",
+      "Clean and Resilient Economy Contributors",
+      "Portland Metro Chamber",
+      "Tillamook County Creamery Association",
+      "Jordan Pape (Individual, Eugene)",
+      "Oregon Business & Industry",
+      "Jacqueline Danos (Individual, Yachats)",
+      "Central Oregon Land Watch",
+      "Alice Dale (SEIU) & Robert Camarillo (Oregon State Building & Construction Trades Council)",
+      "Microsoft Corporation",
+      "Energy Trust of Oregon",
+      "Oregon Employer Coalition",
+      "Move Oregon Forward",
+      "Oregon Association of Nurseries",
+      "FuelCloud Founders",
+      "Cascadia High-Speed Rail Advocates",
+      "Oregon Forest Industries Council",
+      "Oregon Winegrowers Association",
+      "Oregon Public University Presidents",
+      "Oregon State University",
+      "Oregon Public Universities",
+      "Pew Charitable Trusts",
+      "Our Oregon",
+      "Oregon Semiconductor Industry Coalition",
+      "Oregon Farm Bureau",
+      "Oregon Trails Coalition",
+      "Building Resilience Coalition",
+      "Wild Salmon Center",
+      "Tax Fairness Oregon"
+    ]
+  },
+  "confidence": "high"
+}

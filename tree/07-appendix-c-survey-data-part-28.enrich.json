@@ -1,0 +1,103 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "07-appendix-c-survey-data",
+  "breadcrumb": [
+    "Appendix C: Survey Data"
+  ],
+  "pageRange": [
+    82,
+    82
+  ],
+  "chunkIndex": 27,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:03:00.455Z",
+  "tldr": "Survey responses from 40+ Oregon small business owners and organizational leaders document widespread concerns about the state's business climate. Primary criticisms focus on the Corporate Activity Tax (CAT), which taxes gross revenue rather than profit and disproportionately harms low-margin businesses; comparatively high overall taxes and complex regulations compared to competitor states (Texas, Florida, Idaho, Arizona, Utah); slow permitting and regulatory processes that create administrative burden; and workforce housing shortages. Respondents consistently advocate for CAT elimination or reform, conversion to profit-based taxation, simplified regulations, faster permitting timelines, and a shift in government stance to treat businesses as growth partners rather than revenue sources.",
+  "bullets": [
+    {
+      "text": "Corporate Activity Tax (CAT) widely criticized for taxing gross revenue rather than profit, creating disproportionate burden on low-margin industries including food service, retail, construction, and manufacturing.",
+      "page": 82
+    },
+    {
+      "text": "Multiple respondents cite Texas, Florida, Idaho, Arizona, and Utah as more attractive business environments due to lower taxes, fewer regulations, and faster permitting compared to Oregon.",
+      "page": 82
+    },
+    {
+      "text": "Workforce housing shortages, especially in rural and coastal areas, identified as major barrier to business growth and workforce recruitment.",
+      "page": 82
+    },
+    {
+      "text": "Permitting and regulatory processes criticized for being slow and burdensome, with at least one respondent reporting 3.5 years to obtain initial business permit.",
+      "page": 82
+    },
+    {
+      "text": "Personal property tax on equipment identified as excessive cost burden, with example cited of $15K annual tax on $1 million equipment purchases.",
+      "page": 82
+    },
+    {
+      "text": "Respondents advocate for CAT elimination or reform, conversion from gross receipts to profit-based taxation, and alignment of Oregon tax codes with federal standards.",
+      "page": 82
+    },
+    {
+      "text": "Workforce development partnerships between schools and employers, targeting 50% youth participation in job-role exploration programs, identified as critical priority.",
+      "page": 82
+    },
+    {
+      "text": "Overall sentiment reflects adversarial public-sector stance toward private business, with government viewed as treating businesses primarily as revenue sources rather than economic growth partners.",
+      "page": 82
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "$1 million",
+      "$15K per year",
+      "50%",
+      "30-50%",
+      "60%",
+      "100%",
+      "101-500 people",
+      "21-100 people",
+      "1-20 people",
+      "500-1000 people"
+    ],
+    "ftes": [
+      "3 years",
+      "2-3 years",
+      "5 years",
+      "3.5 years",
+      "late 1990s"
+    ],
+    "programs": [
+      "Corporate Activity Tax (CAT)",
+      "SB 1507",
+      "Climate Protection Program (CPP)",
+      "Student Success Act",
+      "CYBHI",
+      "Private Forest Accords",
+      "Enterprise Zone exemptions",
+      "Paid Leave",
+      "Oregon Saves",
+      "PSA tax",
+      "SHS tax",
+      "Small Business Development Centers",
+      "Brownfield redevelopment tax credit",
+      "Industrial symbiosis",
+      "Cap and Invest"
+    ],
+    "bureaus": [
+      "Oregon State Legislature",
+      "Governor's Office",
+      "Governor Kotek",
+      "Business Oregon",
+      "DEQ",
+      "ODOT",
+      "Beaverton Area Chamber of Commerce",
+      "Portland Community College",
+      "Columbia Corridor Association",
+      "SEDCOR",
+      "Travel Oregon"
+    ]
+  },
+  "confidence": "medium"
+}

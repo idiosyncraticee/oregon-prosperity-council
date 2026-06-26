@@ -1,0 +1,25 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "07-appendix-c-survey-data",
+  "breadcrumb": [
+    "Appendix C: Survey Data"
+  ],
+  "pageRange": [
+    55,
+    55
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-25T23:59:19.418Z",
+  "tldr": "This page is the title/header for Appendix C (Survey Data). No actual survey content, methodology, findings, or respondent data appears on this page.",
+  "bullets": [],
+  "entities": {
+    "dollars": [],
+    "ftes": [],
+    "programs": [],
+    "bureaus": []
+  },
+  "confidence": "low"
+}

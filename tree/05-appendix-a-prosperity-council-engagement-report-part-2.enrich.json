@@ -1,0 +1,100 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "05-appendix-a-prosperity-council-engagement-report",
+  "breadcrumb": [
+    "Appendix A: Prosperity Council Engagement Report"
+  ],
+  "pageRange": [
+    43,
+    50
+  ],
+  "chunkIndex": 1,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:00:08.585Z",
+  "tldr": "Appendix A documents stakeholder engagement feedback on Oregon's economic competitiveness. Key themes include: need for competitive tax incentives (CAT reform prioritized), streamlined permitting and regulatory systems, infrastructure investment (water, wastewater, energy), land-use law modernization, and integrated workforce development aligned with industry needs. Stakeholders emphasize addressing Portland's economic trajectory and structural barriers to workforce participation.",
+  "bullets": [
+    {
+      "text": "Stakeholders call for competitive incentives including Jobs Growth Tax Credit, expanded Enterprise Zones, and right-sized Strategic Investment Program; rural stakeholders note Opportunity Zones and New Markets Tax Credits have not effectively reached rural communities.",
+      "page": 43
+    },
+    {
+      "text": "CAT reform proposals range from administrative fixes (Department of Revenue rule interpretation) to structural replacement (Business Activity Tax or Value-Added Tax); stakeholders note CAT compounds at multiple points in supply chains and disproportionately impacts small businesses.",
+      "page": 44
+    },
+    {
+      "text": "Survey respondents call for comprehensive tax modernization through bipartisan task force; several propose low-rate broad-based sales tax paired with offsetting reductions in income and corporate taxes.",
+      "page": 44
+    },
+    {
+      "text": "Stakeholders recommend one-stop permitting systems, transparent dashboards, digital permitting, guaranteed permitting timelines, and fast-track pathways for strategic industries; wetland and floodplain permitting cited as particularly slow.",
+      "page": 45
+    },
+    {
+      "text": "CPP reform (pause, overhaul, or Cap and Invest replacement), RMA modernization, and agricultural labor regulation changes (overtime thresholds, OSHA heat rules, farmworker housing) proposed to reduce cost pressures.",
+      "page": 46
+    },
+    {
+      "text": "Water and wastewater capacity identified as binding constraint on business expansion in smaller communities; energy infrastructure (generation, transmission) increasingly cited as constraint on industrial competitiveness.",
+      "page": 47
+    },
+    {
+      "text": "Land-use system overhaul recommended; proposals include updating agricultural product definitions, reforming LUBA challenge rules, reevaluating EFU designations, and streamlining UGB expansions.",
+      "page": 47
+    },
+    {
+      "text": "Stakeholders recommend expanding Career and Technical Education from middle school through community college; workforce agencies consolidation and interagency data-sharing mandates proposed to improve coordination.",
+      "page": 48
+    },
+    {
+      "text": "Childcare affordability and availability, along with concerns about Paid Leave program, identified as barriers to workforce participation and retention.",
+      "page": 49
+    },
+    {
+      "text": "1:1 apprenticeship ratio requirement described as bottleneck for public construction projects; stakeholders recommend 2:1 or 3:1 ratios modeled from other states.",
+      "page": 49
+    }
+  ],
+  "entities": {
+    "dollars": [],
+    "ftes": [
+      "2026",
+      "1970s",
+      "2-3 years"
+    ],
+    "programs": [
+      "Jobs Growth Tax Credit",
+      "Enterprise Zone programs",
+      "Strategic Investment Program",
+      "Opportunity Zones",
+      "New Markets Tax Credits",
+      "CAT",
+      "Business Activity Tax",
+      "Value-Added Tax",
+      "Climate Protection Program",
+      "Cap and Invest",
+      "Recycling Modernization Act",
+      "H-2A",
+      "H-2B",
+      "LUBA",
+      "EFU",
+      "UGB",
+      "Career and Technical Education",
+      "LAUNCH program",
+      "Paid Leave program"
+    ],
+    "bureaus": [
+      "Oregon Legislature",
+      "Business Oregon",
+      "Department of Revenue",
+      "Regional Solutions Department",
+      "State Economists' office",
+      "Idaho",
+      "North Carolina",
+      "Mississippi",
+      "California"
+    ]
+  },
+  "confidence": "high"
+}

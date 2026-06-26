@@ -1,0 +1,60 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "09-appendix-e-submissions-feedback/06-oregon-business-industry-cover-letter-dhm-voter-survey",
+  "breadcrumb": [
+    "Appendix E: Submissions & Feedback",
+    "06. Oregon Business & Industry — Cover Letter (DHM Voter Survey)"
+  ],
+  "pageRange": [
+    127,
+    127
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:03:47.046Z",
+  "tldr": "Oregon Business & Industry submitted a cover letter presenting a statewide voter survey commissioned from DHM Research before the 2026 legislative session. The survey explored voter concerns about taxes, regulations, affordability, and economic competitiveness. OBI advocates for policies that improve Oregon's economic competitiveness and reduce cost pressures, citing findings showing voter concern about the state's direction.",
+  "bullets": [
+    {
+      "text": "OBI commissioned a statewide voter survey conducted by DHM Research",
+      "page": 127
+    },
+    {
+      "text": "Survey conducted in advance of the 2026 legislative session",
+      "page": 127
+    },
+    {
+      "text": "Survey focused on taxes, regulations, affordability, and economic competitiveness",
+      "page": 127
+    },
+    {
+      "text": "Findings indicate voters are concerned about state direction and seeking solutions for economic competitiveness and cost reduction",
+      "page": 127
+    },
+    {
+      "text": "Submitted by Angela Wilhelms, President & CEO of Oregon Business & Industry",
+      "page": 127
+    },
+    {
+      "text": "Submission date: January 30, 2026",
+      "page": 127
+    }
+  ],
+  "entities": {
+    "dollars": [],
+    "ftes": [
+      "Jan. 30, 2026",
+      "2026 legislative session"
+    ],
+    "programs": [
+      "DHM Voter Survey"
+    ],
+    "bureaus": [
+      "Oregon Business & Industry",
+      "DHM Research",
+      "Angela Wilhelms"
+    ]
+  },
+  "confidence": "high"
+}

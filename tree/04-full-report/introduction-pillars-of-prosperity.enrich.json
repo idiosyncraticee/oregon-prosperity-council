@@ -1,0 +1,64 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "04-full-report/introduction-pillars-of-prosperity",
+  "breadcrumb": [
+    "Full Report",
+    "Introduction: Pillars of Prosperity"
+  ],
+  "pageRange": [
+    9,
+    12
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-25T23:59:28.171Z",
+  "tldr": "The Oregon Prosperity Council introduction frames the state's economic crisis—stagnant incomes, population slowdown, business departures—and calls for urgent, bold reforms focused on jobs growth, accountability, and competitiveness. The recommendations emerge from a statewide engagement process spanning 1,000+ survey responses, 60+ listening sessions across 11 regions, and 45+ stakeholder submissions. Five growth sectors are identified: agriculture, forestry, applied AI, sports/outdoor industries, and life sciences/clean energy. The approach prioritizes proven strategies and measurable outcomes.",
+  "bullets": [
+    {
+      "text": "Public survey generated over 1,000 responses from participants representing nearly every county in Oregon",
+      "page": 12
+    },
+    {
+      "text": "More than 60 listening sessions held across all eleven economic development regions in the state",
+      "page": 11
+    },
+    {
+      "text": "Over 45 letters submitted representing advocacy organizations, industry perspectives, and community leaders",
+      "page": 12
+    },
+    {
+      "text": "Five key sectors identified as poised for growth: Agriculture & Food, Forestry & Wood Products, Applied/Physical AI, Sports & Outdoor Industries, and Life Sciences & Clean Energy Technologies",
+      "page": 11
+    },
+    {
+      "text": "Oregon faces stagnant incomes, slowed population growth, employers finding it harder to invest and expand, and fewer opportunities for workers and families",
+      "page": 10
+    },
+    {
+      "text": "Council calls for reforms that improve accountability, modernize government, and ensure public resources deliver measurable results for Oregonians",
+      "page": 10
+    },
+    {
+      "text": "Prosperity framework includes small businesses, entrepreneurs, family-owned businesses, and larger employers creating more and better-paying jobs",
+      "page": 11
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "over 1,000 responses",
+      "more than 60 listening sessions",
+      "over 45 letters"
+    ],
+    "ftes": [
+      "June 2026"
+    ],
+    "programs": [],
+    "bureaus": [
+      "Oregon Prosperity Council",
+      "Oregon Legislature"
+    ]
+  },
+  "confidence": "high"
+}

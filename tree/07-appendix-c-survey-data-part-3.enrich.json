@@ -1,0 +1,116 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "07-appendix-c-survey-data",
+  "breadcrumb": [
+    "Appendix C: Survey Data"
+  ],
+  "pageRange": [
+    57,
+    57
+  ],
+  "chunkIndex": 2,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-25T23:59:54.426Z",
+  "tldr": "Survey responses from 30+ Oregonians (business owners, workers, non-profits, consultants) about barriers to state prosperity. Dominant themes: workforce development and education costs, housing affordability and homelessness, business taxation (QSBS, CAT, CPP) and permitting complexity, public transit funding, health-care-employment decoupling, and need for coordinated state vision. Respondents span workforce issues, business climate, and tools-for-growth categories.",
+  "bullets": [
+    {
+      "text": "81% of 200 Central Oregon employers surveyed by Bend Chamber cite housing as #1 barrier to worker attraction and retention; 30% of regional workforce rent-burdened, 50% severely rent-burdened",
+      "page": 57
+    },
+    {
+      "text": "Multiple business respondents (Paxbytes, Ear Trumpet Labs, Generation Solar, Jordan Rice) cite QSBS tax treatment, CAT, and CPP as disincentives to starting or growing businesses in Oregon",
+      "page": 57
+    },
+    {
+      "text": "Workforce respondents (Chris Bloome, Steven Demarest, Steve Salman, Cindi Dale) advocate mandating Career Technical Education (CTE) in high schools within 4–5 years and reducing community college/higher education costs",
+      "page": 57
+    },
+    {
+      "text": "Lamb Weston (1000+ employees) warns that layered regulations (air, wastewater, CAT, CPP) and unclear compliance metrics are unsustainable in competitive global markets and risk business relocation",
+      "page": 57
+    },
+    {
+      "text": "Aaron Johnson (98683) proposes natural systems science (oceanography, forestry, climate data) as economic development anchor, citing Oregon's coastal research institutions and data assets",
+      "page": 57
+    },
+    {
+      "text": "Susan Bladholm (Frog Ferry) and multiple respondents flag public agency culture as barrier: lack of responsiveness to private-sector input, closed-door decision-making, and accountability gaps",
+      "page": 57
+    },
+    {
+      "text": "Anonymous respondent (97202) expresses disappointment that Council survey was poorly distributed and excludes working-class voices; advocates universal preschool and Oregon Health Plan expansion",
+      "page": 57
+    },
+    {
+      "text": "Rob Bennett proposes statewide tax overhaul: introducing modest sales tax, reducing corporate and individual income tax rates, and addressing property tax restrictions via constitutional amendment",
+      "page": 57
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "81%",
+      "30%",
+      "50%",
+      "$47k",
+      "28,000 individuals",
+      "$1-3 Million",
+      "11%",
+      "$5M",
+      "120% AMI",
+      "$100 million"
+    ],
+    "ftes": [],
+    "programs": [
+      "QSBS",
+      "CAT",
+      "CPP",
+      "Oregon Promise",
+      "Oregon Health Plan",
+      "WPCF",
+      "CTE",
+      "ERDC",
+      "SIP",
+      "R&D tax credit",
+      "angel investment tax credit",
+      "SEBB/PEBB",
+      "PFA",
+      "HB 4102",
+      "HB 4123",
+      "OHP",
+      "BAER",
+      "BACT"
+    ],
+    "bureaus": [
+      "Business Oregon",
+      "Oregon Department of Agriculture",
+      "OSU",
+      "OHSU",
+      "PSU",
+      "TriMet",
+      "DEQ",
+      "ODA",
+      "DMV",
+      "OED",
+      "Bend Chamber",
+      "Cisco Systems",
+      "Destination: Home",
+      "NOAA",
+      "USFS",
+      "Oregon Department of Forestry",
+      "Governor Kotek",
+      "Oregon Legislature",
+      "TiE Oregon",
+      "Prosper Portland",
+      "Craft3",
+      "Lamb Weston",
+      "Threemile Canyon Farms",
+      "Enterprise Mobility",
+      "Gunderson Employment Law",
+      "Groundswell Development",
+      "Generation Solar"
+    ]
+  },
+  "confidence": "medium"
+}

@@ -1,0 +1,126 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "07-appendix-c-survey-data",
+  "breadcrumb": [
+    "Appendix C: Survey Data"
+  ],
+  "pageRange": [
+    78,
+    78
+  ],
+  "chunkIndex": 23,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:02:56.750Z",
+  "tldr": "This survey data page presents 29 responses from individual Oregon residents and organizational representatives addressing state economic competitiveness. Dominant themes include: high taxes and regulatory burden as primary barriers to business investment; K-12 education ranking fallen to near-worst levels nationwide; fragmented workforce development system; housing affordability and permitting delays; rural areas feeling neglected; and support for infrastructure projects (notably Willamette River ferry service). Respondents frequently compare Oregon unfavorably to lower-tax competitor states like Idaho, Texas, Washington, and Florida. Survey responses span individual business owners, non-profit organizations, and local government entities, addressing Business Climate, Workforce, and Tools for Growth focus areas.",
+  "bullets": [
+    {
+      "text": "Multiple business respondents cite high taxes and regulations as primary barriers; CertaPro Painters owner Dennis Hodge states Oregon's tax system is \"unsustainable and encourages companies and individuals to relocate;\" similar concerns from Dwight Elder (design-build), Casey Nielsen, David Brown, and others across multiple counties",
+      "page": 78
+    },
+    {
+      "text": "Matthew Carter reports K-12 education ranking has fallen to \"dead last\" status comparable to Mississippi in 2012; attributes decline to failed programs and DEI-related policies; June Saragosa cites Oregon's schools rank 48th nationwide in proficiency",
+      "page": 78
+    },
+    {
+      "text": "Lucilla Valley (Bridgeway Community Health) identifies workforce system fragmentation as critical bottleneck with multiple programs having different eligibility rules, intake processes, and data systems; proposes unified intake through WorkSource Oregon and local workforce development boards",
+      "page": 78
+    },
+    {
+      "text": "Megan Fehrman (Greater Applegate Development Corporation) proposes \"Rural Development Hubs\" model with 6-8 year investment timelines for small rural businesses in agriculture, food systems, and local entrepreneurship in unincorporated areas",
+      "page": 78
+    },
+    {
+      "text": "Steve Pedery (Oregon Wild) documents Oregon has only 4% of land mass protected as wilderness compared to Washington (10%) and California (15%); advocates stronger environmental protections as economic engine attracting entrepreneurs and skilled workers to the state",
+      "page": 78
+    },
+    {
+      "text": "Jay Riley proposes structural tax reform including raising inheritance tax threshold to $4 million, implementing sales tax, establishing 5-year Enterprise Zones, and applying R&D Tax Credit Program to all six Targeted Industries",
+      "page": 78
+    },
+    {
+      "text": "At least eight respondents across multiple zip codes (97007, 97202, 97203, 97212, 97217, 97221, 97223) propose Willamette River ferry service (Frog Ferry concept) as transportation infrastructure and economic development solution for Portland metro area",
+      "page": 78
+    },
+    {
+      "text": "Cara Turano (Oregon Entrepreneurs Network) criticizes Oregon's decoupling of Qualified Small Business Stock (QSBS) from federal tax law as short-sighted policy that disincentivizes investment in scalable state businesses and startup entrepreneurs",
+      "page": 78
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "$4 million",
+      "$250,000",
+      "$20 million",
+      "$40 million",
+      "48th",
+      "4%",
+      "10%",
+      "15%",
+      "47 other states",
+      "100+ employees"
+    ],
+    "ftes": [
+      "2012",
+      "1970s",
+      "1998",
+      "2016",
+      "6-8 years",
+      "2-3 years",
+      "5 years",
+      "10 years"
+    ],
+    "programs": [
+      "CAT (Corporate Activity Tax)",
+      "Enterprise Zone",
+      "R&D Tax Credit Program",
+      "Sales Tax",
+      "QSBS (Qualified Small Business Stock)",
+      "HB 4084",
+      "Clean Fuels Program",
+      "WorkSource Oregon",
+      "Future Ready Oregon",
+      "WIOA",
+      "Measure 98 (High School Success Act)",
+      "Frog Ferry",
+      "Oregon Main Street",
+      "Food Innovation Center",
+      "Rural Opportunities Initiative",
+      "Ben Franklin Fund"
+    ],
+    "bureaus": [
+      "Business Oregon",
+      "Governor Tina Kotek",
+      "ODOT",
+      "OSFM",
+      "ODA",
+      "OSU",
+      "OHCS",
+      "HECC",
+      "Metro",
+      "DSL",
+      "ODF",
+      "ODFW",
+      "DEQ",
+      "Visit Newberg",
+      "Big River Community Land Trust",
+      "Bridgeway Community Health",
+      "Greater Applegate Development Corporation",
+      "Oregon Entrepreneurs Network",
+      "Oregon Wild",
+      "Dappled Tonic",
+      "CertaPro Painters of Portland",
+      "John Hyland Construction",
+      "i.e. Engineering, Inc.",
+      "Best Western Plus Columbia River Inn",
+      "Applied Construction Group",
+      "Chemeketa Community College",
+      "Beaverton School District",
+      "Malheur County",
+      "Dutch Bros",
+      "Representative Kropf"
+    ]
+  },
+  "confidence": "high"
+}

@@ -1,0 +1,82 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "04-full-report/chapter-3-permitting-regulations/priority-recommendations",
+  "breadcrumb": [
+    "Full Report",
+    "Chapter 3: Permitting & Regulations",
+    "Priority Recommendations"
+  ],
+  "pageRange": [
+    22,
+    24
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T02:01:34.360Z",
+  "tldr": "This chapter proposes Oregon strengthen its regulatory environment by establishing enforceable permitting timelines (\"shot clock\"), reducing regulatory burdens by 20% by 2029, coordinating multi-agency permitting to eliminate duplication, and adopting a market-based Cap and Invest greenhouse gas program aligned with California and Washington. The recommendations aim to improve business competitiveness while maintaining environmental and public health standards.",
+  "bullets": [
+    {
+      "text": "Establish statewide permitting timelines requiring agencies to approve or deny complete permit applications within clear statutory timelines, with accountability measures including public reporting and partial fee refunds for missed deadlines.",
+      "page": 23
+    },
+    {
+      "text": "Extend permitting timelines universally to all economic development permits, not only those meeting HB 4084's capital investment thresholds, to make predictable timelines standard across Oregon's permitting system.",
+      "page": 23
+    },
+    {
+      "text": "Reduce regulatory and administrative burdens by 20% by 2029 through removing outdated and duplicative regulations, with frontline employees identifying inefficiencies and leveraging HB 4084 analyses.",
+      "page": 23
+    },
+    {
+      "text": "Establish regulatory structure coordinating environmental permitting across state agencies to eliminate duplicative information submissions for air quality, water quality, wetlands, and land use reviews.",
+      "page": 23
+    },
+    {
+      "text": "Implement consolidated or parallel agency review processes rather than sequential reviews and eliminate duplicative reporting requirements across agencies.",
+      "page": 23
+    },
+    {
+      "text": "Adopt market-based Cap and Invest program for greenhouse gas emissions, with Governor repealing the Climate Protection Program upon implementation.",
+      "page": 23
+    },
+    {
+      "text": "Align Cap and Invest labor standards with California and Washington approaches, requiring family sustaining wages, registered apprenticeship participation, and nondiscrimination and workforce inclusion standards for public works and infrastructure.",
+      "page": 23
+    },
+    {
+      "text": "Virginia's Office of Regulatory Management (ORM), established in 2022, reduced 26% of regulatory requirements across the state in three years, exceeding its 25% reduction objective.",
+      "page": 23
+    },
+    {
+      "text": "PermitSF in San Francisco consolidated permitting systems, utilized artificial intelligence to support application reviews, and created a more transparent and user-friendly process, reducing delays for business and development projects.",
+      "page": 24
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "20%",
+      "25%",
+      "26%"
+    ],
+    "ftes": [
+      "2029",
+      "2022"
+    ],
+    "programs": [
+      "HB 4084",
+      "Climate Protection Program",
+      "Cap and Invest",
+      "Joint Permitting Council",
+      "PermitSF"
+    ],
+    "bureaus": [
+      "Oregon Prosperity Council",
+      "Virginia's Office of Regulatory Management",
+      "Governor",
+      "San Francisco"
+    ]
+  },
+  "confidence": "high"
+}

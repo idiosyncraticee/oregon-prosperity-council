@@ -1,0 +1,67 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "09-appendix-e-submissions-feedback/25-jacqueline-danos-individual-yachats-oregon",
+  "breadcrumb": [
+    "Appendix E: Submissions & Feedback",
+    "25. Jacqueline Danos (Individual, Yachats, Oregon)"
+  ],
+  "pageRange": [
+    263,
+    264
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:07:03.092Z",
+  "tldr": "Jacqueline Danos, a Yachats resident, urges the Prosperity Council to redefine prosperity beyond GDP and invest in education, local entrepreneurs, and regenerative agriculture rather than large corporations. She advocates maintaining Oregon's land conservation legacy and growing the outdoor economy while ensuring economic benefits remain local.",
+  "bullets": [
+    {
+      "text": "Submitter advocates for tax incentives and financial support strengthening K-12 schools, universities, colleges, and small business incubators rather than chasing large corporations",
+      "page": 263
+    },
+    {
+      "text": "Cites examples of sustainable local enterprises as models: Central Coast Food Web in Newport, Oo-Nee Sea Ranch, farm-to-fiber networks throughout the state, and Sustainable Northwest Wood",
+      "page": 263
+    },
+    {
+      "text": "Calls for regenerative farming and organic systems to be viewed as economic drivers worthy of investment to grow local jobs and economies",
+      "page": 264
+    },
+    {
+      "text": "Warns that prioritizing large corporations while de-funding education is 'a race to the bottom' with short-term economic gains but long-term livability decline",
+      "page": 264
+    },
+    {
+      "text": "Advocates building on Oregon's 50-year track record of Urban Growth Boundaries and land conservation work to maintain livability and quality of life",
+      "page": 264
+    },
+    {
+      "text": "Argues that investing locally keeps financial benefits within Oregon rather than enriching distant corporate headquarters",
+      "page": 263
+    },
+    {
+      "text": "Notes that Oregon's outdoor industry and tourism have grown to outweigh previous economic foundations in extractive industries such as timber",
+      "page": 264
+    }
+  ],
+  "entities": {
+    "dollars": [],
+    "ftes": [
+      "April 4, 2026"
+    ],
+    "programs": [
+      "Urban Growth Boundaries"
+    ],
+    "bureaus": [
+      "Jacqueline Danos",
+      "Governor Kotek",
+      "Oregon's Prosperity Council",
+      "Department of Land Conservation and Development",
+      "Central Coast Food Web",
+      "Oo-Nee Sea Ranch",
+      "Sustainable Northwest Wood"
+    ]
+  },
+  "confidence": "high"
+}

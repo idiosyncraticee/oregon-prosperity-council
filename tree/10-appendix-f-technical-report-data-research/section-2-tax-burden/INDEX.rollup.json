@@ -1,0 +1,8 @@
+{
+  "tldr": "This section compares Oregon's tax burden to neighboring states across multiple tax types: federal and state income taxes, FICA, payroll taxes, and sales taxes. Analysis shows Oregon's top marginal rate hits earliest among peers and its effective tax burdens rank highest for middle-income households, though future kicker impact modeling carries uncertainties.",
+  "input_hash": "sha256:e5e74dc0a8e97b99cb126b2e30106789",
+  "generated_at": "2026-06-26T02:17:31.376Z",
+  "model": "haiku",
+  "child_count": 7,
+  "children_with_tldr": 1
+}

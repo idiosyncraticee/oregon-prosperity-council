@@ -1,0 +1,96 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "07-appendix-c-survey-data",
+  "breadcrumb": [
+    "Appendix C: Survey Data"
+  ],
+  "pageRange": [
+    70,
+    70
+  ],
+  "chunkIndex": 15,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:02:22.694Z",
+  "tldr": "Page 70 of Appendix C: Survey Data contains individual responses from Oregon residents on prosperity drivers. Dominant themes: (1) Strong advocacy for universal Preschool for All, cited as delivering 3-to-1 return on investment and raising family incomes 22% on average; (2) High taxes and over-regulation blamed for business departures; (3) Permitting delays (40-day residential average), increased construction costs ($2,700-$3,000 per $450,000 home), and regulatory burdens; (4) Calls to preserve natural gas access; (5) Childcare affordability crisis (Oregon 49th of 50 states); (6) Workforce challenges and skills training needs.",
+  "bullets": [
+    {
+      "text": "Universal Preschool for All cited as delivering 3-to-1 return on investment and raising family incomes by 22% on average across multiple respondents",
+      "page": 70
+    },
+    {
+      "text": "Oregon ranks 49th out of 50 states for childcare affordability according to Anders Liljeholm",
+      "page": 70
+    },
+    {
+      "text": "Building permits increased 40% compared to 2024/2025 numbers, with residential permit lead time averaging 40 days, per Tristan Gillis",
+      "page": 70
+    },
+    {
+      "text": "Regulatory requirements added average of $2,700-$3,000 in costs to $450,000 homes per Tristan Gillis (PARR)",
+      "page": 70
+    },
+    {
+      "text": "Multiple respondents identify high taxes and over-regulation as primary drivers of business exodus from Oregon",
+      "page": 70
+    },
+    {
+      "text": "Respondents advocate for preservation of natural gas availability and oppose restrictions on its use",
+      "page": 70
+    },
+    {
+      "text": "Workforce challenges cited include difficulty finding reliable employees, childcare costs forcing departures, and need for skills training",
+      "page": 70
+    },
+    {
+      "text": "ERIC BRANT GILL reports Oregon had 3rd highest unemployment rate in the country with businesses unable to remain viable",
+      "page": 70
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "3-to-1 return on investment",
+      "22%",
+      "49th",
+      "40%",
+      "40 days",
+      "3rd highest",
+      "$2,700-$3,000",
+      "$450,000",
+      "$350,000",
+      "$70,000",
+      "$120,000",
+      "300"
+    ],
+    "ftes": [
+      "2024/2025"
+    ],
+    "programs": [
+      "Preschool for All",
+      "SB-6",
+      "974",
+      "HB 3918",
+      "Climate Protection Plan",
+      "Head Start",
+      "Preschool Promise programs",
+      "ERDC"
+    ],
+    "bureaus": [
+      "Governor Kotek",
+      "PARR",
+      "Heat and Frost Insulators Local 36",
+      "Rate Mortgage Company",
+      "World Explorers Preschool",
+      "NW Natural",
+      "Legislature",
+      "Energy Facilities Siting Council",
+      "ODOT",
+      "BOLI",
+      "State Superintendent of Public Schools",
+      "Multnomah County",
+      "PPS"
+    ]
+  },
+  "confidence": "medium"
+}

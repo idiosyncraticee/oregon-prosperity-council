@@ -1,0 +1,39 @@
+These examples are not offered as blueprints. Oregon’s political culture, economic structure, and
+administrative history differ in important ways. But, like a telescope in an astronomy experiment, these
+tools are effective when the conditions are right and can be valuable additions to Oregon’s policy toolbox.
+Oregon can evaluate, adapt, or repurpose these methods to suit its own goals, institutional capacity, and
+regions.
+We first describe the different types of organizational structures that states have and discuss their
+characteristics, advantages, and disadvantages. We then go over what tools and lessons were learned
+from the case study states.
+Case Study State Organizational Structure Analysis
+This section uses the above discussed organizational structures and applies them to each case study
+state.
+Pennsylvania
+Pennsylvania’s economic development ecosystem is anchored by a strong state-level department (the
+Department of Community and Economic Development, or DCED) that provides centralized leadership
+with significant input from the governor. This public sector-driven, hierarchical structure at the state level
+is complemented by a broad network of regional and local authorities.
+Every county has at least one economic development organization (often an Industrial Development
+Authority or nonprofit corporation) enabled by state law to issue bonds and finance projects. These
+county-level and multi-county entities serve as Regional Development Organizations, acting as
+intermediaries that deliver state programs (for example, certified county economic development
+organizations help administer state loans and grants).
+Pennsylvania also makes extensive use of public-private partnerships. At the statewide level, the
+nonprofit Team Pennsylvania Foundation—co-chaired by the Governor and a private-sector leader—
+convenes business, government, and civic partners to advance economic priorities. Major cities employ
+hybrid models as well (for instance, Philadelphia’s PIDC is a jointly governed city-chamber economic
+development corporation). Overall, Pennsylvania’s system is primarily centralized under DCED’s guidance,
+but it leverages regional authorities and public-private collaborations to implement projects at the local
+level.
+A potential challenge is ensuring coordination across this diverse landscape of agencies, though programs
+like the CEDO network aim to align local efforts with state strategy.
+New York
+New York’s ecosystem features a centralized state authority combined with structured regional input. The
+lead entity is Empire State Development (ESD), a state public-benefit corporation that serves as the
+central economic development agency. ESD’s hierarchical oversight is balanced by an innovative regional
+framework: the state is divided into ten Regional Economic Development Councils (REDCs), which are
+multi-sector advisory boards that develop regional plans and influence the distribution of state funding.
+This approach blends a Public Sector Driven, top-down strategy with Decentralized/Networked
+collaboration at the regional level. Each REDC is essentially a public-private partnership body—composed
+Economic Development Ecosystem Analysis June 2025 11

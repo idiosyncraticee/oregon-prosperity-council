@@ -1,0 +1,65 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "06-appendix-b-prosperity-council-survey-questions",
+  "breadcrumb": [
+    "Appendix B: Prosperity Council Survey Questions"
+  ],
+  "pageRange": [
+    51,
+    54
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-25T23:59:29.764Z",
+  "tldr": "Appendix B presents the survey instrument used by Governor Kotek's Prosperity Council—an outside advisory group developing recommendations on business climate, workforce, and tools for growth. The statewide survey, open through March 20, 2026, collected input from stakeholders across regions and industries through demographic questions, business/organization details, and structured prompts on challenges, solutions, and success metrics in each focus area. All responses became part of the public record.",
+  "bullets": [
+    {
+      "text": "Council meetings began January 2026 and conclude June 2026",
+      "page": 52
+    },
+    {
+      "text": "Survey was open through March 20, 2026 for stakeholder input",
+      "page": 52
+    },
+    {
+      "text": "Council includes representatives from different regions, key industries, and labor",
+      "page": 52
+    },
+    {
+      "text": "Three main focus areas: business climate, workforce, and tools for growth",
+      "page": 52
+    },
+    {
+      "text": "Survey approximately 15 minutes to complete",
+      "page": 52
+    },
+    {
+      "text": "All survey responses included in public record",
+      "page": 52
+    },
+    {
+      "text": "Respondents categorized by Oregon-based team headcount: 1-20, 21-100, 101-500, 500-1000, 1000+ people",
+      "page": 53
+    },
+    {
+      "text": "Survey asks who must act (legislature, local governments, employers, education/training partners) to implement solutions",
+      "page": 54
+    }
+  ],
+  "entities": {
+    "dollars": [],
+    "ftes": [
+      "January 2026",
+      "June 2026",
+      "March 20, 2026"
+    ],
+    "programs": [],
+    "bureaus": [
+      "Governor Kotek",
+      "Governor's Prosperity Council"
+    ]
+  },
+  "confidence": "high"
+}

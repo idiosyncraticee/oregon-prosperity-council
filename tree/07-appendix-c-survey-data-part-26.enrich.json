@@ -1,0 +1,97 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "07-appendix-c-survey-data",
+  "breadcrumb": [
+    "Appendix C: Survey Data"
+  ],
+  "pageRange": [
+    80,
+    80
+  ],
+  "chunkIndex": 25,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:02:29.873Z",
+  "tldr": "Survey responses from Oregon business owners, government representatives, and non-profit leaders on state economic competitiveness. Dominant themes: high tax burden (especially Corporate Activity Tax), excessive regulations and permitting delays unfavorably comparing to Texas, Arizona, Colorado, and Florida. Respondents advocate tax relief, streamlined permitting, apprenticeship/vocational education expansion, land use law updates, and stronger state economic development strategy. Workforce shortages noted as critical. Overall sentiment: Oregon's regulatory and tax environment is driving business departures and deterring investment relative to competitor states.",
+  "bullets": [
+    {
+      "text": "Corporate Activity Tax criticized by multiple business respondents as excessive burden disproportionately affecting small and medium enterprises",
+      "page": 80
+    },
+    {
+      "text": "Respondents cite permitting delays and complex regulatory compliance requirements as major barriers to business development and site readiness",
+      "page": 80
+    },
+    {
+      "text": "Future Ready Oregon program noted as approximately $200 million investment focused on workforce development, training, and equitable career pathways",
+      "page": 80
+    },
+    {
+      "text": "Multiple respondents recommend Enterprise Zone expansion with broader eligibility and tax incentives to compete with states like Texas and Arizona",
+      "page": 80
+    },
+    {
+      "text": "Apprenticeship program expansion and vocational education cited as critical workforce needs to address shortages and talent retention in Oregon",
+      "page": 80
+    },
+    {
+      "text": "Respondents compare Oregon unfavorably to Texas, Arizona, Colorado, and Florida on business-friendliness, regulatory burden, and cost of operations",
+      "page": 80
+    },
+    {
+      "text": "Climate Protection Program described by one respondent as costing businesses and consumers between $500 million to $1 billion annually",
+      "page": 80
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "$200 million",
+      "$76,000",
+      "$500 million to $1 billion",
+      "$40 million",
+      "$750k"
+    ],
+    "ftes": [
+      "2007",
+      "2022",
+      "2005",
+      "1971",
+      "2026"
+    ],
+    "programs": [
+      "Corporate Activity Tax",
+      "Climate Protection Program",
+      "Future Ready Oregon",
+      "Enterprise Zones",
+      "WIOA",
+      "SB 100",
+      "SB 1537",
+      "Extended Producer Responsibility",
+      "Regional Solutions",
+      "Strategic Reserve Fund",
+      "Registered Apprenticeship",
+      "Oregon Youth Works",
+      "Workforce Ready Grants"
+    ],
+    "bureaus": [
+      "Business Oregon",
+      "Governor Kotek",
+      "BOLI",
+      "DEQ",
+      "DLCD",
+      "WorkSource Oregon",
+      "Oregon Legislature",
+      "Stoller Wine Group",
+      "Beaverton Foods, Inc.",
+      "City of Sherwood",
+      "City of Gresham",
+      "Coos County",
+      "The Arc Oregon",
+      "Bullseye Glass Co.",
+      "Department of Energy",
+      "Oregon Health Plan"
+    ]
+  },
+  "confidence": "medium"
+}

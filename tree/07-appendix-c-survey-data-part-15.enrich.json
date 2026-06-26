@@ -1,0 +1,100 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "07-appendix-c-survey-data",
+  "breadcrumb": [
+    "Appendix C: Survey Data"
+  ],
+  "pageRange": [
+    69,
+    69
+  ],
+  "chunkIndex": 14,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:01:59.953Z",
+  "tldr": "Page 69 survey responses reveal sharp ideological divide on Oregon's prosperity: progressives strongly advocate for expanded Preschool for All (citing 3-to-1 ROI and 22% family income gains), universal childcare, and wealth-based taxation; conservatives demand business tax cuts (especially CAT elimination), deregulation, and faster permitting. Shared concerns span housing affordability, childcare costs exceeding wages, small-business sustainability, and public safety/homelessness.",
+  "bullets": [
+    {
+      "text": "Multiple respondents cite Preschool for All delivering '3-to-1 return on investment' and raising 'family incomes by about 22% on average,' described as a 'three-generation poverty reducer.'",
+      "page": 69
+    },
+    {
+      "text": "Progressive respondents advocate wealth-based taxation, referencing Washington State's Millionaire tax model, closing passive income loopholes, and state-funded non-profit housing.",
+      "page": 69
+    },
+    {
+      "text": "Conservative respondents demand CAT tax elimination, cuts to personal and corporate income taxes, gas tax reductions, and simplified tax codes.",
+      "page": 69
+    },
+    {
+      "text": "Permitting delays and high development costs cited as major barriers; respondents request streamlined approval processes, 25-40% faster timelines, reduced development fees, and BOLI law changes.",
+      "page": 69
+    },
+    {
+      "text": "Energy policy divide: conservatives advocate coal, natural gas, dam rebuilding, and logging expansion; progressives support hydro-electric and geothermal investment.",
+      "page": 69
+    },
+    {
+      "text": "Childcare affordability crisis documented with childcare costs exceeding mortgage payments; widespread advocacy for universal free childcare ages 0-5 and statewide Preschool for All expansion.",
+      "page": 69
+    },
+    {
+      "text": "Small business owners report high tax burden, slow permitting timelines, excessive development fees; request targeted tax credits, streamlined processes, and enterprise/opportunity zone incentives.",
+      "page": 69
+    },
+    {
+      "text": "Governor Kotek specifically criticized; calls for leadership change, state audit of spending and fraud investigation, and policy prioritizing workers and families over wealthy interests.",
+      "page": 69
+    },
+    {
+      "text": "Public safety and homelessness identified as prosperity barriers; concerns raised about street drug use, homeless encampments, insufficient law enforcement response, and immigration enforcement.",
+      "page": 69
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "3-to-1 return on investment",
+      "22% on average",
+      "$500",
+      "$250"
+    ],
+    "ftes": [
+      "2026",
+      "2015",
+      "20+ years",
+      "6 years later",
+      "3-5 years"
+    ],
+    "programs": [
+      "Preschool for All",
+      "CAT",
+      "Enterprise Zones",
+      "Opportunity Zones",
+      "Bank of Oregon",
+      "NEPA",
+      "BOLI",
+      "Healthcare for All Oregon",
+      "Millionaire tax"
+    ],
+    "bureaus": [
+      "Portland State University",
+      "ODOT",
+      "DEQ",
+      "ICE",
+      "Oregon legislature",
+      "Governor Kotek",
+      "Multnomah County",
+      "Silver Pine Software",
+      "Beaverton Foods Inc.",
+      "Oregon Tradeswomen Inc.",
+      "Converted Kitchen",
+      "Fresh N Local Foods",
+      "Walmart",
+      "Amazon",
+      "Washington State",
+      "New York"
+    ]
+  },
+  "confidence": "medium"
+}

@@ -1,0 +1,31 @@
+# dependencies / build output
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+next-env.d.ts
+
+# generated public assets (rebuilt by `prebuild` → scripts/gen-public-assets.mjs)
+/public/raw/
+/public/raw-page/
+/public/search-index.json
+/public/llms.txt
+/public/llms-full.txt
+/public/sitemap.xml
+/public/robots.txt
+
+# large source PDF (re-download from upstreamPdfUrl in doctree.config.json)
+/source/*.pdf
+
+# doctree extraction artifacts: keep raw pages + key json, ignore the rest
+/.extracted/*
+!/.extracted/pages/
+!/.extracted/metadata.json
+!/.extracted/empty-pages.json
+!/.extracted/outline.json
+!/.extracted/outline.original.json
+!/.extracted/appendix-e-subs.json
+/.extracted/enrich.log
+/.extracted/enrich-debug/
+
+.DS_Store

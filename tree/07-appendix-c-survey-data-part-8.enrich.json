@@ -1,0 +1,118 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "07-appendix-c-survey-data",
+  "breadcrumb": [
+    "Appendix C: Survey Data"
+  ],
+  "pageRange": [
+    62,
+    62
+  ],
+  "chunkIndex": 7,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:00:38.161Z",
+  "tldr": "Survey respondents across diverse backgrounds prioritize: universal Preschool for All and childcare access as workforce infrastructure; higher wages, union protections, and labor enforcement; progressive taxation (wealth, capital gains, income taxes on high earners) to fund public goods; affordable housing including public/social housing models; environmental protections especially limiting data-center incentives; and robust K-12 and higher-education funding. Some respondents call for lower business taxes and lighter regulation. One respondent critiques the Prosperity Council's composition as undemocratic and under-representative of workers and communities.",
+  "bullets": [
+    {
+      "text": "Preschool for All program cited repeatedly as essential public infrastructure for workforce development, with documented 3-to-1 return on investment and family income gains",
+      "page": 62
+    },
+    {
+      "text": "Respondents call for higher minimum wages, union triggers, and enforcement of labor laws; one proposes doubling Oregon union density from ~16% to 32%",
+      "page": 62
+    },
+    {
+      "text": "Progressive taxation proposals include wealth taxes, capital-gains taxes, and higher income-tax rates on high earners to fund childcare, education, and public housing",
+      "page": 62
+    },
+    {
+      "text": "Multiple respondents oppose tax incentives for data centers and call for moratoria on discretionary corporate tax breaks; SB 1507 (QSBS removal) criticized for discouraging startups",
+      "page": 62
+    },
+    {
+      "text": "K-12 and higher-education funding increases urged as critical workforce development; respondents note underfunding at PSU, SOU, PCC causing budget crises",
+      "page": 62
+    },
+    {
+      "text": "Housing affordability identified as major barrier; proposals include public/social housing (Seattle and Maryland models cited), rent control, and infill zoning",
+      "page": 62
+    },
+    {
+      "text": "Paid Leave Oregon and universal single-payer healthcare cited as successful worker-support models; one respondent cites Oregon's #1 Oxfam ranking on worker-friendly policy",
+      "page": 62
+    },
+    {
+      "text": "One detailed response proposes converting Oregon economy toward worker cooperatives and democratic economic governance, citing Quebec, Colorado, and other state models",
+      "page": 62
+    },
+    {
+      "text": "Respondent explicitly critiques Prosperity Council composition as undemocratic, citing unequal representation of workers, labor unions, and marginalized communities vs. business leaders",
+      "page": 62
+    },
+    {
+      "text": "Environmental protection priorities include strict regulations on data-center water/energy use, protection of farmland and forests, and opposition to new refineries",
+      "page": 62
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "$8 million in sales",
+      "~16%",
+      "32%",
+      "20% increase in take-home pay",
+      "3-to-1 return on investment",
+      "22% on average",
+      "50% cut in income tax"
+    ],
+    "ftes": [
+      "2-3 years",
+      "December 31, 2026",
+      "2027",
+      "10 years",
+      "2019"
+    ],
+    "programs": [
+      "Preschool for All",
+      "Paid Leave Oregon",
+      "SB 1507",
+      "QSBS",
+      "CAT",
+      "Future Ready Oregon",
+      "Career Connect",
+      "Oregon InC",
+      "Centers of Innovation Excellence",
+      "FastTrack",
+      "Oregon CHIPS",
+      "Oregon Growth Board",
+      "HB 2021",
+      "Climate Protection Program",
+      "SB 6355",
+      "Executive Order 25-29",
+      "Clean Fuels Program",
+      "HB 2475",
+      "Oregon Main Street Community Revitalization Grant"
+    ],
+    "bureaus": [
+      "Governor Kotek",
+      "Oregon Legislature",
+      "Business Oregon",
+      "Bureau of Labor and Industries",
+      "Oregon Department of Energy",
+      "Department of Human Services",
+      "Multnomah County",
+      "Portland State University",
+      "Southern Oregon University",
+      "Portland Community College",
+      "TriMet",
+      "Oregon Public Utility Commission",
+      "Restore Oregon",
+      "Oregon Environmental Council",
+      "Native American Youth and Family Center",
+      "Tvavium Inc.",
+      "Prosperity Council"
+    ]
+  },
+  "confidence": "medium"
+}

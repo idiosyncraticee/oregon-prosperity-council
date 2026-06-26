@@ -1,0 +1,84 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "09-appendix-e-submissions-feedback/01-university-of-oregon-institute-for-policy-research-engage",
+  "breadcrumb": [
+    "Appendix E: Submissions & Feedback",
+    "01. University of Oregon Institute for Policy Research & Engagement"
+  ],
+  "pageRange": [
+    105,
+    113
+  ],
+  "chunkIndex": 1,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:05:33.203Z",
+  "tldr": "The University of Oregon Institute for Policy Research & Engagement analyzes Oregon's fragmented economic development ecosystem (850+ organizations) against case studies from Pennsylvania, New York, Michigan, Colorado, and Kentucky. It advocates for Oregon to adopt a centralized/hierarchical model with gubernatorial leadership and Business Oregon as coordinating hub, establishing statewide priorities, measurable outcomes, formal regional structures, and integration with workforce and housing systems—mirroring successful approaches in the case study states.",
+  "bullets": [
+    {
+      "text": "Oregon's economic development ecosystem comprises more than 850 organizations operating within a decentralized/networked model without unified statewide strategy or shared outcomes",
+      "page": 110
+    },
+    {
+      "text": "Primary recommendation: transition to centralized/hierarchical + public sector driven structure led by Governor with Business Oregon as the coordinating agency and implementation hub",
+      "page": 111
+    },
+    {
+      "text": "All five case study states maintain clear state-level leadership with a central agency (DCED, ESD, MEDC, OEDIT, KCED) paired with formalized regional implementation structures",
+      "page": 108
+    },
+    {
+      "text": "Economic development should be formally recognized as a fourth state priority pillar alongside housing, education, and behavioral health",
+      "page": 111
+    },
+    {
+      "text": "Case study regional frameworks: New York has ten Regional Economic Development Councils; Kentucky has 15 Area Development Districts; Michigan has 14 planning regions",
+      "page": 109
+    },
+    {
+      "text": "Successful states integrate economic development with workforce, housing, and infrastructure; Michigan's place-based revitalization coordinates land use, education, and business development in distressed areas",
+      "page": 109
+    },
+    {
+      "text": "Oregon lacks shared planning capacity and technical resources in rural regions; states like Kentucky and Colorado invested in regional planning infrastructure to support under-resourced areas",
+      "page": 112
+    },
+    {
+      "text": "Oregon's Equitable Economic Recovery Plan outlined six strategic imperatives but did not result in a fully coordinated statewide framework and remains one of several disconnected efforts",
+      "page": 113
+    }
+  ],
+  "entities": {
+    "dollars": [],
+    "ftes": [
+      "2022",
+      "June 2025"
+    ],
+    "programs": [
+      "Equitable Economic Recovery Plan",
+      "Comprehensive Economic Development Strategies (CEDS)",
+      "Shaping Our Appalachian Region (SOAR)",
+      "Pure Michigan campaign",
+      "Business Oregon Priority 4: Lead Development in Oregon's Economic Development Strategies"
+    ],
+    "bureaus": [
+      "University of Oregon Institute for Policy Research and Engagement",
+      "Pennsylvania Department of Community and Economic Development (DCED)",
+      "New York Empire State Development (ESD)",
+      "Michigan Economic Development Corporation (MEDC)",
+      "Michigan Strategic Fund",
+      "Colorado Office of Economic Development and International Trade (OEDIT)",
+      "Kentucky Cabinet for Economic Development (KCED)",
+      "Kentucky Economic Development Partnership Board",
+      "Kentucky Workforce Innovation Board",
+      "Business Oregon",
+      "Philadelphia PIDC",
+      "Metro Denver Economic Development Corporation",
+      "Adams County Regional Economic Partnership",
+      "Michigan Association of Regions",
+      "Oregon Economic Development Districts"
+    ]
+  },
+  "confidence": "high"
+}

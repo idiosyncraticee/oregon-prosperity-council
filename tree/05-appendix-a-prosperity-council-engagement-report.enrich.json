@@ -1,0 +1,82 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "05-appendix-a-prosperity-council-engagement-report",
+  "breadcrumb": [
+    "Appendix A: Prosperity Council Engagement Report"
+  ],
+  "pageRange": [
+    34,
+    42
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-25T23:59:47.447Z",
+  "tldr": "This appendix describes the Prosperity Council's engagement process to gather stakeholder input on Oregon's economic competitiveness. Between February and May 2026, the Council conducted a public survey (2,833 responses), facilitated 60+ listening sessions across 11 regions, and collected 45+ letters and memoranda from diverse stakeholders. Respondents identified five priorities: reforming economic development tools, examining tax structure, accelerating permitting, increasing development-ready land, and integrating workforce systems. The analysis acknowledged limitations including compressed timelines, digital-access barriers, and non-representative sampling.",
+  "bullets": [
+    {
+      "text": "Survey conducted February 6 through March 25, 2026, receiving 2,833 responses; 1,039 included written feedback and were analyzed, 1,794 excluded",
+      "page": 36
+    },
+    {
+      "text": "More than 60 listening sessions held in over 25 locations across all 11 Oregon economic development regions between February 2 and May 22, 2026",
+      "page": 36
+    },
+    {
+      "text": "More than 45 letters and memoranda received from major employers, statewide business associations, universities, venture capital organizations, and advocacy groups",
+      "page": 37
+    },
+    {
+      "text": "Survey respondents represented all Oregon counties except Grant County, with participation from every region; however, response rates varied across the state",
+      "page": 41
+    },
+    {
+      "text": "Five subject areas identified from stakeholder feedback: reshaping economic development tools and incentives; examining tax structure; accelerating permitting and regulation; increasing supply of development-ready land; creating integrated workforce system",
+      "page": 39
+    },
+    {
+      "text": "Analysis employed deductive and inductive coding approaches using Atlas.ti software to systematically code responses against predefined categories and identify emergent themes",
+      "page": 38
+    },
+    {
+      "text": "Engagement conducted primarily through online channels and outreach networks; digital-access barriers may have excluded populations with limited internet access",
+      "page": 42
+    },
+    {
+      "text": "Broadly supported theme: stakeholders advocate transforming Business Oregon with independent organizational review, coordinated business recruitment plan, and return to statutory focus on business development",
+      "page": 42
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "2,833",
+      "1,039",
+      "1,794",
+      "60",
+      "25",
+      "11",
+      "45"
+    ],
+    "ftes": [
+      "February 6, 2026",
+      "March 25, 2026",
+      "February 2, 2026",
+      "May 22, 2026"
+    ],
+    "programs": [
+      "Prosperity Roadmap",
+      "Business Oregon",
+      "Arizona Commerce Authority"
+    ],
+    "bureaus": [
+      "Oregon Prosperity Council",
+      "Governor Tina Kotek",
+      "ECOnorthwest",
+      "Gard Communications",
+      "Chief Prosperity Officer",
+      "Regional Solutions"
+    ]
+  },
+  "confidence": "high"
+}

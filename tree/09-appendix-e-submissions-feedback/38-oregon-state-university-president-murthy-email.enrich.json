@@ -1,0 +1,80 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "09-appendix-e-submissions-feedback/38-oregon-state-university-president-murthy-email",
+  "breadcrumb": [
+    "Appendix E: Submissions & Feedback",
+    "38. Oregon State University — President Murthy Email"
+  ],
+  "pageRange": [
+    339,
+    340
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:08:28.504Z",
+  "tldr": "Oregon State University President Jayathi Murthy urges the Prosperity Council to designate universities as active economic development partners. OSU proposes three priorities: (1) increase public university funding to improve affordability, noting 85% of personal income tax is paid by degree holders and Oregon ranks 46th nationally in state university investment; (2) create workforce-aligned funding for targeted programs and work-based learning incentives; and (3) strengthen research and innovation through annual University Innovation Research Fund support ($10M/year), extension of the University Venture Development Fund tax credit, and startup funding for the Southern Willamette Valley Innovation Corridor ($1M) and Corvallis Microfluidics Tech Hub ($1M).",
+  "bullets": [
+    {
+      "text": "OSU contends that approximately 85% of personal income tax revenue is paid by those with bachelor's degrees or higher, directly linking university investment to the state's tax base.",
+      "page": 339
+    },
+    {
+      "text": "Oregon public universities have the highest tuition in the western region due to low state investment (46 in the nation) and higher-than-industry employee benefit costs affecting affordability.",
+      "page": 339
+    },
+    {
+      "text": "OSU proposes creating targeted funding streams for universities to expand capacity in high-demand programs, launch rapid credentialing and reskilling programs, and respond quickly to employer needs.",
+      "page": 339
+    },
+    {
+      "text": "OSU proposes establishing a statewide work-based learning initiative with incentives (grants or tax credits) for employers to provide paid internships, apprenticeships, and cooperative education opportunities.",
+      "page": 339
+    },
+    {
+      "text": "OSU requests at least $10M per year ($20M per biennium) to annually fund the University Innovation Research Fund, which provides matching funds for large federal innovation and economic development grants.",
+      "page": 340
+    },
+    {
+      "text": "OSU requests extension of the University Venture Development Fund tax credit, currently set to sunset December 31, 2027, which supports entrepreneurship programs and commercialization of research.",
+      "page": 340
+    },
+    {
+      "text": "OSU requests $1M in startup and early operational/staffing support for the Southern Willamette Valley Innovation Corridor to have it officially endorsed and launched by the state.",
+      "page": 340
+    },
+    {
+      "text": "OSU requests $1M in bridge funding for the Corvallis Microfluidics Tech Hub, a joint effort of OSU, University of Oregon, and Oregon Health Sciences University focused on commercializing microfluidics technologies for national security goals.",
+      "page": 340
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "85%",
+      "46 in the nation",
+      "$10M per year ($20M per biennium)",
+      "$1M"
+    ],
+    "ftes": [
+      "May 13, 2026",
+      "December 31, 2027"
+    ],
+    "programs": [
+      "University Innovation Research Fund",
+      "University Venture Development Fund tax credit",
+      "Southern Willamette Valley Innovation Corridor",
+      "Corvallis Microfluidics Tech Hub"
+    ],
+    "bureaus": [
+      "Oregon State University",
+      "Governor Kotek",
+      "Jayathi Y. Murthy",
+      "Lois Cho",
+      "Katie Fast",
+      "University of Oregon",
+      "Oregon Health Sciences University"
+    ]
+  },
+  "confidence": "high"
+}

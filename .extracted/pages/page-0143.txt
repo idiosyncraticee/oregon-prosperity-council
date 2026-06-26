@@ -1,0 +1,17 @@
+Most groups rate Oregon’s economic conditions as poor.
+Partisanship shapes perceptions of the economy.
+% who rate Oregon’s economic conditions as poor
+AREA
+Portland Metro 70%
+Willamette Valley 72%
+Rest of State 76%
+PARTY
+Democrat 58%
+Republican 89%
+NAV/Other 74%
+INCOME
+<$50k 69%
+$50k-$100k 75%
+$100k-$150k 78%
+$150k+ 71%
+11 DHM Research | OBI Legislative Survey | January 2026

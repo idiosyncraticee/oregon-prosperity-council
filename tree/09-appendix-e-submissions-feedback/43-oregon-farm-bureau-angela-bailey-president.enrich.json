@@ -1,0 +1,98 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "09-appendix-e-submissions-feedback/43-oregon-farm-bureau-angela-bailey-president",
+  "breadcrumb": [
+    "Appendix E: Submissions & Feedback",
+    "43. Oregon Farm Bureau (Angela Bailey, President)"
+  ],
+  "pageRange": [
+    372,
+    379
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:08:42.322Z",
+  "tldr": "The Oregon Farm Bureau (Angela Bailey, President) argues that agriculture is Oregon's underappreciated economic engine—generating $42 billion annually, 692,000 jobs, and 13% of GSP—yet the Prosperity Roadmap overlooks it. While praising the roadmap's commitment to permitting reform and business-friendly policy, the Farm Bureau urges the state to reduce regulatory and tax burdens on agriculture, a non-mobile, multi-generational industry where 69% of farmers operate at a net cash loss. They advocate integrating agriculture into sector strategies, applying FastTrack permitting to ag projects, supporting processing capacity, reforming the CAT, and treating farmland as productive infrastructure.",
+  "bullets": [
+    {
+      "text": "Oregon agriculture generates more than $42 billion in annual economic activity, supports more than 692,000 jobs statewide, and accounts for roughly 13% of gross state product.",
+      "page": 374
+    },
+    {
+      "text": "Oregon farmers and ranchers manage more than 15 million acres of working land with approximately 96% family-owned and operated; 30,000+ farms exist, with the majority between 10 and 50 acres.",
+      "page": 375
+    },
+    {
+      "text": "Nearly 69% of Oregon farmers report operating at a net cash loss; approximately 77% of farm household income comes from off-farm sources.",
+      "page": 375
+    },
+    {
+      "text": "Oregon is the second most agriculturally diverse state in the nation, producing more than 220 commodities with farm-gate value exceeding $6 billion; agriculture drives more than $2.5 billion in annual exports.",
+      "page": 375
+    },
+    {
+      "text": "More than 1,235 farms and ranches have remained in the same family for at least 100 years; 47 operations have more than 150 years of continuous family ownership.",
+      "page": 375
+    },
+    {
+      "text": "Farm Bureau recommends explicitly identifying production agriculture as a priority sector and ensuring agriculture is represented in implementation bodies, including the Governor's Prosperity Council.",
+      "page": 378
+    },
+    {
+      "text": "Farm Bureau calls for reform of the Corporate Activity Tax (CAT) and federal tax disconnect provisions, and urges revision of estate tax and succession policies to support multi-generational farm continuity.",
+      "page": 377
+    },
+    {
+      "text": "Farm Bureau advocates applying permitting reform and FastTrack concepts to agricultural projects, adopting risk-based regulatory approaches, and prioritizing investment in Oregon State University Extension and agricultural research.",
+      "page": 378
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "more than $42 billion in annual economic activity",
+      "more than 692,000 jobs statewide",
+      "roughly 13% of Oregon's gross state product",
+      "more than $2.5 billion in annual exports",
+      "approximately 15% of statewide sales activity",
+      "second most agriculturally diverse state in the nation",
+      "more than 220 commodities",
+      "farm-gate value exceeding $6 billion",
+      "more than 15 million acres of working land",
+      "approximately 96% family-owned and operated",
+      "30,000+ farms",
+      "More than 1,235 farms and ranches",
+      "47 operations",
+      "15th nationally in reliance on farm jobs",
+      "4th nationally for women principal farm operators",
+      "44% of Oregon farmers and ranchers",
+      "Nearly 69% of Oregon farmers",
+      "Approximately 77% of farm household income",
+      "168 people"
+    ],
+    "ftes": [
+      "May 18, 2026"
+    ],
+    "programs": [
+      "Oregon Prosperity Roadmap",
+      "Recycling and Modernization Act",
+      "Oregon Climate Protection Program",
+      "Clean Fuels Program",
+      "Corporate Activity Tax (CAT)",
+      "Oregon State University Extension",
+      "Experiment Stations",
+      "FastTrack programs"
+    ],
+    "bureaus": [
+      "Oregon Farm Bureau",
+      "Angela Bailey",
+      "Governor Kotek",
+      "Business Oregon",
+      "Oregon State University (OSU)",
+      "Oregon Department of Agriculture (ODA)",
+      "Governor's Office"
+    ]
+  },
+  "confidence": "high"
+}

@@ -1,0 +1,152 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "07-appendix-c-survey-data",
+  "breadcrumb": [
+    "Appendix C: Survey Data"
+  ],
+  "pageRange": [
+    81,
+    81
+  ],
+  "chunkIndex": 26,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:03:04.640Z",
+  "tldr": "Survey respondents on page 81 express deep concerns about Oregon's business climate, citing high taxes (CAT, income tax, gross revenue proposals), regulatory burden, and permitting delays as primary barriers to business development and job creation. Workforce development emerges as critical, with calls for K-12 education reform, industry-aligned training programs, and child care expansion. Regional economic strategies (citing Research Triangle model) and infrastructure investment are advocated. Some respondents prioritize environmental protection, while others emphasize tax reduction and deregulation as paths to competitiveness.",
+  "bullets": [
+    {
+      "text": "High taxes repeatedly cited as barrier: CAT, income tax, metro tax, gross revenue taxes, and proposals for additional levies on business and individuals",
+      "page": 81
+    },
+    {
+      "text": "Permitting delays and land-use regulations prevent industrial and commercial development; respondents call for streamlined, predictable processes under 30 days",
+      "page": 81
+    },
+    {
+      "text": "K-12 education system needs improvement in reading, math, achievement standards, and attendance requirements (85% minimum proposed)",
+      "page": 81
+    },
+    {
+      "text": "Workforce development through local boards and employer partnerships aligned with industry needs; Prosperity 10K and regional programs cited as proven models",
+      "page": 81
+    },
+    {
+      "text": "Child care shortages prevent workforce participation; respondents call for universal child care and expanded ERDC funding similar to K-12 education",
+      "page": 81
+    },
+    {
+      "text": "Portland revitalization requires clean streets, street lighting, safety infrastructure, and public gathering spaces to attract business and residents",
+      "page": 81
+    },
+    {
+      "text": "Regional economic development strategies modeled on Research Triangle (North Carolina) advocated; mid-sized cities like Corvallis need targeted support",
+      "page": 81
+    },
+    {
+      "text": "Environmental protection advocates call for stronger state regulations, increased DEQ and ODFW funding, and protection against pollution and sprawl",
+      "page": 81
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "$250,000",
+      "$10,000,000",
+      "$1,000,000",
+      "$24/ hour",
+      "$1000 grant/loan",
+      "$7.5Million",
+      "$2M",
+      "18-20%",
+      "98%",
+      "80%",
+      "89%",
+      "6.5%",
+      "2%",
+      "10%",
+      "85%",
+      "49 other states",
+      "11 other states",
+      "10,000 people trained",
+      "1,000 acres",
+      "hundreds of cities"
+    ],
+    "ftes": [
+      "2026",
+      "2010",
+      "2012",
+      "2020",
+      "2–3 years",
+      "2-3 years",
+      "5 years ago",
+      "44 years",
+      "1957",
+      "February 14, 2026",
+      "past decade",
+      "late 90's and 2000's",
+      "4 decades"
+    ],
+    "programs": [
+      "CAT",
+      "Metro Tax",
+      "Oregon Paid Leave tax",
+      "transportation bill",
+      "Bill 916",
+      "CPP",
+      "HB 3918",
+      "Enterprise Zone",
+      "Prosperity 10K",
+      "Employee Commute Options",
+      "CTR Law",
+      "CDBG",
+      "Transient Lodging Tax",
+      "Oregon's permitting reform efforts",
+      "Regional Solutions",
+      "BuildUpOregon"
+    ],
+    "bureaus": [
+      "Governor Kotek",
+      "Tim Boyle",
+      "Tina Kotek",
+      "Sophorn Cheang",
+      "State Department of Education",
+      "DLCD",
+      "ODFW",
+      "DEQ",
+      "Business Oregon",
+      "HECC",
+      "Local Workforce Development Boards",
+      "Portland City Council",
+      "Multnomah County",
+      "Washington County",
+      "Lane County",
+      "Kit Johnston Farms",
+      "Sapient Private Wealth Management",
+      "Westside Transportation Alliance",
+      "Perlo Construction",
+      "Pride Beaverton",
+      "Stonemonk Media",
+      "Pulse Impact Ventures",
+      "Macadam Forbes",
+      "Northwest Gas Association",
+      "Northwest Oregon Works",
+      "Southwestern Oregon Workforce Investment Board",
+      "Corvallis Chamber of Commerce",
+      "Willamette Valley Dermatology",
+      "INFORMATION-R-US",
+      "SKB",
+      "Wildlife Prosperity",
+      "Southern Willamette Valley Innovation Corridor Initiative",
+      "Elevate 2028",
+      "Research Triangle",
+      "Nike",
+      "Intel",
+      "US Bank",
+      "Wells Fargo",
+      "Oregon State University",
+      "City of Florence",
+      "1000 Friends of Oregon"
+    ]
+  },
+  "confidence": "high"
+}

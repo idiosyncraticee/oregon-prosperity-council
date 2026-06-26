@@ -1,0 +1,71 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "09-appendix-e-submissions-feedback/42-oregon-semiconductor-industry-coalition",
+  "breadcrumb": [
+    "Appendix E: Submissions & Feedback",
+    "42. Oregon Semiconductor Industry Coalition"
+  ],
+  "pageRange": [
+    369,
+    371
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:08:20.236Z",
+  "tldr": "The Oregon Semiconductor Industry Coalition advocates for six policy priorities to restore competitiveness with leading semiconductor states: reform the Corporate Activity Tax, protect emissions-intensive manufacturing under the Climate Protection Program, streamline Cleaner Air Oregon permitting, address cost-of-living drivers, preserve and expand the Strategic Investment Program and incentives, and scale workforce training. Without modernization, semiconductor investment will migrate out of Oregon.",
+  "bullets": [
+    {
+      "text": "Oregon's competitive position eroding relative to Arizona, New Mexico, and Ohio due to higher tax burden, greater regulatory complexity, and affordability challenges",
+      "page": 369
+    },
+    {
+      "text": "Corporate Activity Tax creates tax pyramiding that disproportionately impacts advanced manufacturing, uncommon among competitor states",
+      "page": 369
+    },
+    {
+      "text": "Cleaner Air Oregon is among the most complex and costly air toxics systems in the nation, covering hundreds of compounds with cumulative risk modeling and no defined permitting timelines",
+      "page": 370
+    },
+    {
+      "text": "Semiconductor industry has already invested decades in emissions abatement and operates at or near best-available technology limits with few remaining reduction pathways",
+      "page": 370
+    },
+    {
+      "text": "Climate Protection Program imposes compliance costs without corresponding technical solutions for further reductions, creating cost asymmetry with non-regulated competitor states",
+      "page": 370
+    },
+    {
+      "text": "Undefined permitting timelines under Cleaner Air Oregon create significant uncertainty and can delay or constrain R&D activities and manufacturing expansions",
+      "page": 370
+    },
+    {
+      "text": "Cost-of-living pressures including housing, taxes, and energy costs undermine recruitment and retention of technicians and early-career professionals",
+      "page": 370
+    },
+    {
+      "text": "Strategic Investment Program critical and must be preserved; competitor states offer broader monetizable incentive portfolios including R&D, capital investment, payroll, and infrastructure incentives",
+      "page": 371
+    },
+    {
+      "text": "Fragmented credentialing, limited training capacity, and inconsistent pathways constrain workforce responsiveness relative to peer states",
+      "page": 371
+    }
+  ],
+  "entities": {
+    "dollars": [],
+    "ftes": [],
+    "programs": [
+      "Corporate Activity Tax",
+      "Climate Protection Program",
+      "Cleaner Air Oregon",
+      "Strategic Investment Program"
+    ],
+    "bureaus": [
+      "Oregon Semiconductor Industry Coalition",
+      "DEQ"
+    ]
+  },
+  "confidence": "high"
+}

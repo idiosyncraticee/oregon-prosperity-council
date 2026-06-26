@@ -1,0 +1,71 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "09-appendix-e-submissions-feedback/26-central-oregon-landwatch-ben-gordon-executive-director",
+  "breadcrumb": [
+    "Appendix E: Submissions & Feedback",
+    "26. Central Oregon LandWatch (Ben Gordon, Executive Director)"
+  ],
+  "pageRange": [
+    265,
+    266
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:06:30.018Z",
+  "tldr": "Central Oregon LandWatch (Ben Gordon, Executive Director) urges the Prosperity Council to preserve Oregon's 50+ year land use program as foundational to economic vitality and quality of life. The program controls sprawl, preserves working farms and forests, and addresses affordable housing and wildfire through reforms like the Oregon Housing Needs Analysis (finalized December 2025). Agriculture contributes 13% of state GDP ($6.8B annually); Oregon leads in softwood lumber production. Outdoor recreation/tourism generates $16B annually and supports 190,000 jobs. Submission advocates maintaining the land use program's core pillars in forthcoming recommendations.",
+  "bullets": [
+    {
+      "text": "Central Oregon LandWatch urges the Prosperity Council to maintain Oregon's land use program as essential to economic development, quality of life, and livability of communities",
+      "page": 265
+    },
+    {
+      "text": "Oregon Housing Needs Analysis, finalized in December 2025, provides landmark housing reforms to increase production, affordability, and choice across Oregon's communities",
+      "page": 265
+    },
+    {
+      "text": "Agriculture contributes 13% of Oregon's gross state product and generates more than $6.8 billion annually in commodity production",
+      "page": 266
+    },
+    {
+      "text": "Oregon is the largest softwood lumber producer in the United States",
+      "page": 266
+    },
+    {
+      "text": "Outdoor recreation and related tourism spending generates $16 billion annually and supports over 190,000 jobs in Oregon",
+      "page": 266
+    },
+    {
+      "text": "Land use program limits development in wildland-urban interface to protect communities and property from catastrophic wildfire risk",
+      "page": 266
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "$6.8 billion in agricultural commodities annually",
+      "13%",
+      "$16 billion",
+      "190,000 jobs"
+    ],
+    "ftes": [
+      "April 7, 2026",
+      "December 2025",
+      "October 2025"
+    ],
+    "programs": [
+      "Oregon Housing Needs Analysis (OHNA)",
+      "Oregon's land use program",
+      "Executive Order No. 25-26"
+    ],
+    "bureaus": [
+      "Central Oregon LandWatch",
+      "Ben Gordon",
+      "Governor Tina Kotek",
+      "Tim Knopp",
+      "Oregon Department of Agriculture",
+      "Business Oregon"
+    ]
+  },
+  "confidence": "high"
+}

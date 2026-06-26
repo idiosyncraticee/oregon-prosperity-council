@@ -1,0 +1,87 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "01-cover-acknowledgments",
+  "breadcrumb": [
+    "Cover & Acknowledgments"
+  ],
+  "pageRange": [
+    1,
+    2
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-25T23:59:04.188Z",
+  "tldr": "Cover page and acknowledgments for the Oregon Prosperity Council's June 2026 report to Governor Tina Kotek titled 'Recommendations for Oregon's Long-Term Competitiveness & Prosperity.' The report is co-led by Renée James (Ampere Computing) and Curtis Robinhold (Port of Portland), with a 13-member council representing Oregon business, labor, and nonprofit sectors. It acknowledges support from ECOnorthwest and Gard Communications, and input from Oregonians throughout the engagement process.",
+  "bullets": [
+    {
+      "text": "Report published June 2026 by the Oregon Prosperity Council",
+      "page": 1
+    },
+    {
+      "text": "Prepared for Governor Tina Kotek",
+      "page": 2
+    },
+    {
+      "text": "Co-Chairs: Renée James (Ampere Computing) and Curtis Robinhold (Port of Portland)",
+      "page": 2
+    },
+    {
+      "text": "13 Council Members representing Oregon's business, labor, agricultural, construction, and nonprofit sectors",
+      "page": 2
+    },
+    {
+      "text": "Support from consultants ECOnorthwest and Gard Communications",
+      "page": 2
+    },
+    {
+      "text": "Report incorporates ideas and perspectives from many Oregonians throughout the engagement process",
+      "page": 2
+    }
+  ],
+  "entities": {
+    "dollars": [],
+    "ftes": [
+      "June 2026"
+    ],
+    "programs": [],
+    "bureaus": [
+      "Oregon Prosperity Council",
+      "Governor Tina Kotek",
+      "Renée James",
+      "Curtis Robinhold",
+      "ECOnorthwest",
+      "Gard Communications",
+      "David Booth",
+      "Alice Dale",
+      "Toby Luther",
+      "Robert Camarillo",
+      "Dave Drinkward",
+      "Laura Naumes",
+      "Lois Cho",
+      "Diane Fraiman",
+      "Brad DePuyt",
+      "Andrew Colas",
+      "Stephen Laffoon",
+      "Jordan Schnitzer",
+      "Richelle Luther",
+      "Ampere Computing",
+      "Port of Portland",
+      "Tillamook Creamery",
+      "SEIU",
+      "Lone Rock Resources",
+      "Oregon Building Trades",
+      "Hoffman Construction",
+      "Naumes, Inc.",
+      "Cho Wines",
+      "Voyager Capital",
+      "Fort George Brewing",
+      "Colas Construction",
+      "Penderia Technology",
+      "Schnitzer Properties",
+      "Columbia Sportswear"
+    ]
+  },
+  "confidence": "high"
+}

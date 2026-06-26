@@ -1,0 +1,112 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "09-appendix-e-submissions-feedback/46-wild-salmon-center",
+  "breadcrumb": [
+    "Appendix E: Submissions & Feedback",
+    "46. Wild Salmon Center"
+  ],
+  "pageRange": [
+    393,
+    396
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:09:02.103Z",
+  "tldr": "Wild Salmon Center submitted a comment to Oregon's Prosperity Council (June 1, 2026) urging integration of natural resource protection into the state's economic strategy. They argue healthy ecosystems—including forests, water, salmon, and outdoor recreation—are foundational to economic growth. They cite $16B in outdoor recreation spending (2022), $642M in commercial fisheries (2021), and demonstrate that habitat restoration generates significant local jobs and economic activity, calling for alignment with Governor's Executive Order 25-26.",
+  "bullets": [
+    {
+      "text": "Commercial fisheries in Oregon generated $642 million in 2021 alone",
+      "page": 393
+    },
+    {
+      "text": "Outdoor recreation in Oregon supported $16 billion in spending and 192,000 full or part-time jobs in 2022",
+      "page": 394
+    },
+    {
+      "text": "Fishing, hunting, and wildlife viewing contributed $1.2 billion in spending and supported 11,000 jobs, generating $385 million in labor income",
+      "page": 394
+    },
+    {
+      "text": "Oregon Coast captured 17% ($2.053 billion) of total statewide spending and 59% (17 million) of all visitors to Oregon in 2018",
+      "page": 394
+    },
+    {
+      "text": "Between 2001 and 2010, habitat restoration in Oregon generated up to 6,400 jobs and more than $977 million in economic activity",
+      "page": 395
+    },
+    {
+      "text": "Every $1 million invested in watershed restoration results in an average of 16 to 17 new jobs and $2.3 million in economic activity",
+      "page": 395
+    },
+    {
+      "text": "80 percent of Oregon Watershed Enhancement Board grant funding remains in the county where the project is located",
+      "page": 395
+    },
+    {
+      "text": "53% of Oregonians believe that maintaining a quality environment attracts people and companies to Oregon",
+      "page": 394
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "$642 million",
+      "$16 billion",
+      "192,000 full or part-time jobs",
+      "$1.2 billion",
+      "11,000 jobs",
+      "$385 million",
+      "$2.053 billion",
+      "17%",
+      "59%",
+      "17 million",
+      "29.1 million",
+      "6,400 jobs",
+      "$977 million",
+      "16 to 17 new jobs",
+      "$2.3 million",
+      "80 percent",
+      "95% to 99.5%",
+      "53%",
+      "63%",
+      "95%"
+    ],
+    "ftes": [
+      "2021",
+      "2022",
+      "2023",
+      "2019",
+      "2024",
+      "2018",
+      "2001 and 2010",
+      "June 1, 2026",
+      "21 October 2025"
+    ],
+    "programs": [
+      "Prosperity Roadmap",
+      "Oregon Watershed Enhancement Board",
+      "OWEB",
+      "Executive Order 25-26",
+      "Governor's Executive Order 25-26"
+    ],
+    "bureaus": [
+      "Wild Salmon Center",
+      "Governor's Prosperity Council",
+      "Office of Governor Tina Kotek",
+      "Tim Knopp, Chief Prosperity Officer",
+      "Oregon Department of Fish and Wildlife",
+      "Oregon Climate Change Research Institute",
+      "Oregon Parks and Recreation Department",
+      "Travel Oregon",
+      "Earth Economics",
+      "University of Oregon",
+      "Ecotrust",
+      "Governor Tina Kotek",
+      "Stacey Detwiler",
+      "Co-Chair James",
+      "Co-Chair Robinhold"
+    ]
+  },
+  "confidence": "high"
+}

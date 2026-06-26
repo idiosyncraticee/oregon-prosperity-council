@@ -1,0 +1,109 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "07-appendix-c-survey-data",
+  "breadcrumb": [
+    "Appendix C: Survey Data"
+  ],
+  "pageRange": [
+    74,
+    74
+  ],
+  "chunkIndex": 19,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:01:53.210Z",
+  "tldr": "Page 74 captures survey responses from Oregon residents and business representatives on economic competitiveness. Dominant themes: excessive tax and regulatory burden deter business formation; small businesses (82% of economy) need support; K-12 education ranked 41st-47th requires increased investment; Climate Protection Program threatens energy jobs and affordability; construction workforce shortage; agricultural land loss accelerating (120K-140K acres/year); rural communities neglected. Respondents advocate: consolidate state portals, streamline permitting, reform taxes (add sales tax, reduce income tax), protect farmland, enact worker-centered energy policy.",
+  "bullets": [
+    {
+      "text": "Small businesses represent 82% of Oregon's economy but face disproportionate regulatory burden; respondents cite need to consolidate multiple state websites into single portal with one login",
+      "page": 74
+    },
+    {
+      "text": "K-12 education ranking 41st-47th nationally; respondents call for legislative priority and investment, with one noting ranking improves to 24th when funding increases",
+      "page": 74
+    },
+    {
+      "text": "Climate Protection Program identified as highest carbon pricing in North America; union workers and energy employees cite $4.9 Billion cost to natural gas consumers over 2025-2035 period and threat to family-wage jobs",
+      "page": 74
+    },
+    {
+      "text": "Healthcare costs barrier for small businesses; respondents demand parity with large employers or regulation preventing tiered health plan offerings",
+      "page": 74
+    },
+    {
+      "text": "Oregon losing 120,000-140,000 acres agricultural land annually; landowners call for rezoning protections and equal voice in land-use decisions alongside data centers and solar/wind development",
+      "page": 74
+    },
+    {
+      "text": "Construction workforce shortage: apprentice-to-journeyman ratio needs increase from 1:1 to 1:2 to accelerate training capacity",
+      "page": 74
+    },
+    {
+      "text": "January 2026 QSBS tax policy change (revocation) called devastating to startup ecosystem; Oregon only state taking 10% of startup sale earnings",
+      "page": 74
+    },
+    {
+      "text": "Untapped talent pool (people with disabilities, reentry workers, justice-involved individuals) identified; respondents propose hiring incentives and recognition programs modeled on Missouri Inclusion Award",
+      "page": 74
+    },
+    {
+      "text": "Rural communities feel neglected by Salem; respondents propose rural-oriented Prosperity Council offshoot to address local workforce retention and economic development",
+      "page": 74
+    },
+    {
+      "text": "Tax structure disparity: 48 states have sales taxes; respondents call for Oregon to implement sales tax and reduce income tax to improve competitiveness and capture tourism revenue",
+      "page": 74
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "$10M",
+      "$4.9 Billion",
+      "$240k",
+      "10%"
+    ],
+    "ftes": [
+      "January 2026",
+      "2025-2035",
+      "1994",
+      "2017"
+    ],
+    "programs": [
+      "Climate Protection Program",
+      "QSBS",
+      "COBID",
+      "HB 2337",
+      "SB 35",
+      "Oregon Growth Fund",
+      "Business Oregon",
+      "ODOT",
+      "State Small Business Credit Initiative",
+      "BOLI",
+      "DAS"
+    ],
+    "bureaus": [
+      "Governor Kotek",
+      "Oregon Dept of Revenue",
+      "Department of Consumer and Business Services",
+      "Secretary of State",
+      "Saif Corporation",
+      "Oregon Div of Financial Regulation",
+      "NW Natural",
+      "PGE",
+      "Nike",
+      "Intel",
+      "OPEIU Local 11",
+      "PNUCC",
+      "Missouri",
+      "Washington State",
+      "Idaho",
+      "Texas",
+      "Pennsylvania",
+      "Oklahoma",
+      "Louisiana",
+      "West Virginia"
+    ]
+  },
+  "confidence": "medium"
+}

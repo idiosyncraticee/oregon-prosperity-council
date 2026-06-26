@@ -1,0 +1,89 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "07-appendix-c-survey-data",
+  "breadcrumb": [
+    "Appendix C: Survey Data"
+  ],
+  "pageRange": [
+    61,
+    61
+  ],
+  "chunkIndex": 6,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:00:18.999Z",
+  "tldr": "Survey respondents across Oregon cite workforce infrastructure—particularly childcare costs, wages, and education—as key barriers to economic competitiveness. Debate spans progressive vs. regressive taxation, business climate regulation, transit funding, energy infrastructure, and universal preschool expansion. Housing affordability, workforce development pathways, and balanced environmental/economic policy emerge as cross-cutting themes.",
+  "bullets": [
+    {
+      "text": "Childcare costs cited as $14,000/year minimum per child, forcing working parents out of labor force; Universal Preschool for All advocated as workforce retention and economic participation tool.",
+      "page": 61
+    },
+    {
+      "text": "Portland General Electric reports unbounded wildfire liability threatens credit ratings, insurance costs (up nearly 180% in five years), and utilities' ability to invest in grid infrastructure.",
+      "page": 61
+    },
+    {
+      "text": "Transit funding crisis: multiple respondents call for increased TriMet budget, bus/MAX frequency, protected bike lanes, and transit as essential workforce and livability infrastructure.",
+      "page": 61
+    },
+    {
+      "text": "Housing affordability tied to workforce retention and economic participation; respondents advocate for social housing, infill development, affordable rents, and reduced speculation.",
+      "page": 61
+    },
+    {
+      "text": "Sharp disagreement on taxation: progressive-tax advocates call for wealth taxes and higher corporate rates; pro-business respondents demand lower taxes and reduced regulation.",
+      "page": 61
+    },
+    {
+      "text": "Workforce development framed as reciprocal social contract requiring family-sustaining wages, universal childcare, debt-free education pathways, and union protections.",
+      "page": 61
+    },
+    {
+      "text": "Business climate concerns: respondents cite policy unpredictability, retroactive tax changes, permitting delays, and regulatory burden as deterrents to investment and founder retention.",
+      "page": 61
+    },
+    {
+      "text": "Energy infrastructure: clean energy transmission deployment and siting barriers, wildfire liability limits, and natural gas workforce transition identified as economic development bottlenecks.",
+      "page": 61
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "$14,000 a year per child",
+      "$4.6 billion in economic output",
+      "9,421 jobs",
+      "nearly 180%",
+      "$5,000,000,000.00 by the end of 2035",
+      "2% minimum wealth tax",
+      "3-1 return on investment"
+    ],
+    "ftes": [],
+    "programs": [
+      "Universal Preschool for All",
+      "SB 762",
+      "Oregon Climate Protection Program",
+      "Corporate Activity Tax",
+      "STIF",
+      "Oregon Promise Grant",
+      "Paid Leave Oregon",
+      "Future Ready Oregon"
+    ],
+    "bureaus": [
+      "Portland General Electric",
+      "TriMet",
+      "Multnomah County",
+      "Oregon Department of Energy",
+      "Department of Environmental Quality",
+      "Bureau of Labor and Industries",
+      "Governor Kotek",
+      "Prosper Portland",
+      "Business Oregon",
+      "Department of Revenue",
+      "Boys & Girls Club of Corvallis",
+      "Renewable Northwest",
+      "REAP"
+    ]
+  },
+  "confidence": "medium"
+}

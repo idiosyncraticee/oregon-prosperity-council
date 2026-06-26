@@ -1,0 +1,119 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "09-appendix-e-submissions-feedback/27-alice-dale-seiu-labor-consultant-robert-camarillo-oregon-",
+  "breadcrumb": [
+    "Appendix E: Submissions & Feedback",
+    "27. Alice Dale (SEIU Labor Consultant) & Robert Camarillo (Oregon State Building & Construction Trades Council)"
+  ],
+  "pageRange": [
+    267,
+    275
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:06:50.574Z",
+  "tldr": "Joint submission from SEIU labor consultant Alice Dale and Oregon State Building & Construction Trades Council Executive Secretary Robert Camarillo advocating for a 'high road' approach centered on raising per capita income for low- and moderate-income Oregonians through workforce education and sustainable public investment. Argues Oregon's economy outperforms nationally (Portland ranks 10th in prosperity), that minimum wage increases drove strong wage growth (37% for low-wage workers vs. 29% nationally since 2008), and that education is the single most powerful income lever, explaining 70% of per capita income variation across states. Criticizes the Governor's Prosperity Roadmap for omitting AI policy and failing to evaluate business tax expenditure effectiveness.",
+  "bullets": [
+    {
+      "text": "Portland ranks tenth overall in prosperity among large US metro areas, with seventh fastest growth in average annual wages over the past decade",
+      "page": 271
+    },
+    {
+      "text": "Oregon low-wage workers (tenth percentile) earned 37 percent more from 2008-2025 vs. US average of 29%; median workers earned 24 percent more vs. US 16 percent",
+      "page": 274
+    },
+    {
+      "text": "College degree attainment statistically explains seventy percent (70%) of the variation in per capita income across 50 US states",
+      "page": 274
+    },
+    {
+      "text": "Oregon Legislature adopted 20-40-40 education vision (20% high school, 40% associate's, 40% bachelor's) as official state policy in 2011 via ORS 350.014, targeting achievement by 2025",
+      "page": 270
+    },
+    {
+      "text": "Higher education tuition per FTE increased from $2,749 (1980) to $9,954 per year (2021), a 3.6-fold increase after inflation adjustment",
+      "page": 270
+    },
+    {
+      "text": "Certified apprenticeship program completion increases earnings by 49% regardless of occupational sector and demographics",
+      "page": 275
+    },
+    {
+      "text": "Intel and Nike directly laid off more than five thousand workers in 2025, significantly impacting Portland area employment",
+      "page": 273
+    },
+    {
+      "text": "Portland ranks 18th overall in inclusion measures among large metro areas, led by 14th fastest improvement in median earnings over the past decade",
+      "page": 271
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "$2,749",
+      "$9,954 per year",
+      "3.6-fold increase",
+      "37 percent",
+      "29 percent",
+      "24 percent",
+      "16 percent",
+      "49%",
+      "seventy percent (70%)",
+      "tenth overall",
+      "seventh fastest",
+      "12th fastest",
+      "16th largest improvement",
+      "18th overall",
+      "14th fastest",
+      "first"
+    ],
+    "ftes": [
+      "April 7, 2026",
+      "1980",
+      "2021",
+      "2008",
+      "2025",
+      "2007",
+      "2011",
+      "February 2026",
+      "March 2026",
+      "March 25, 2026",
+      "mid-90s"
+    ],
+    "programs": [
+      "The High Road to Prosperity for All Oregonians",
+      "Governor Kotek's Economic Prosperity Council",
+      "Governor's Prosperity Roadmap",
+      "20-40-40 education vision",
+      "ORS 350.014",
+      "Earned Income Tax Credit",
+      "Oregon minimum wage",
+      "AI guardrails and worker-centered policies"
+    ],
+    "bureaus": [
+      "Alice Dale",
+      "SEIU",
+      "Robert Camarillo",
+      "Oregon State Building & Construction Trades Council",
+      "Joe Cortright",
+      "Chuck Sheketoff",
+      "Lynn-Marie Crider",
+      "Barbara Dudley",
+      "Governor Kotek",
+      "Camoin & Associates",
+      "Oregon Business Council",
+      "Brookings Institution",
+      "Weiden+Kennedy",
+      "Economic Policy Institute",
+      "Bureau of Labor Statistics",
+      "Abt Associates",
+      "Urban Institute",
+      "Intel",
+      "Nike",
+      "Trump Administration",
+      "Pamela Baker-Miller"
+    ]
+  },
+  "confidence": "high"
+}

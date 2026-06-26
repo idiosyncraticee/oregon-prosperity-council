@@ -1,0 +1,35 @@
+employee range costs the state approximately $15 million in direct annual tax
+revenue (payroll, corporate, and personal income taxes), excluding secondary effects
+on vendors, landlords, and local services. Each company departure adds permanently
+to the annual loss. By year five, the conservative scenario of one departure per year
+results in $75M of tax revenue losses per year — every year — with no path to
+recovery.
+Scenario Companies Avg Annual Cumulative
+Departing (Yrs 1–5) Revenue Loss 5-Year Loss
+Low Case 1 per year ~$15M ~$225M
+Mid Case 3 per year ~$45M ~$675M
+High Case 5 per year ~$75M ~$1.125B
+2. New Company Formation Loss
+Nationally, venture capital firms are 74% more likely to invest in early-stage startups
+when the QSBS exclusion is available. In addition, since its expansion by President
+Obama, sectors eligible for QSBS have seen significantly higher rates of new
+business starts and overall employment growth than ineligible sectors. In speaking
+with many local investors and venture firms, many of their limited partners (“LPs”)
+invest in their funds because of the QSBS benefits and many have said that they
+would be less likely to invest if they no longer existed. This is not a hypothetical risk.
+Oregon VC funding has already collapsed from $2.8 billion in 2021 to approximately
+$586 million in 2024, dramatically outpacing the national slowdown.
+We modeled a representative Oregon early-stage startup as employing
+approximately 50 people at an average salary of $85,000, generating approximately
+$500,000 in annual Oregon income tax revenue — based on Oregon's 8.75% marginal
+rate applied across the employee base. This figure is deliberately conservative. It
+excludes employees earning above $250,000 who tip into Oregon's 9.9% top bracket,
+excludes founder income entirely, and excludes any corporate taxes the startup pays
+as it scales.
+Oregon attracts less than 1% of West Coast venture funding and SB 1507 would put
+Oregon entrepreneurs at an even bigger disadvantage when trying to raise capital.
+This bill accelerates a deterioration that is already well underway and gives investors
+another reason to invest elsewhere.
+Scenario Fewer Startups Revenue Lost Per Annual Tax
+Founded Per Year Startup Revenue Loss
+Letter to the Governor on SB 1507 4

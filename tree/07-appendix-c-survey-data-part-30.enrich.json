@@ -1,0 +1,142 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "07-appendix-c-survey-data",
+  "breadcrumb": [
+    "Appendix C: Survey Data"
+  ],
+  "pageRange": [
+    84,
+    84
+  ],
+  "chunkIndex": 29,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:04:05.918Z",
+  "tldr": "This survey-data page contains 30+ public comment submissions from business owners, non-profits, government officials, and individuals across Oregon. Dominant themes: CAT tax and regulatory burden discourage business; permitting processes overly complex; K-12 and higher education chronically underfunded; childcare system misaligned with working-family hours; sectoral constraints (marine industrial, agriculture, rural economies); and calls for economic development restructuring. Multiple respondents benchmark against Arizona, Texas, Florida, Idaho, Tennessee, and Washington as superior business climates.",
+  "bullets": [
+    {
+      "text": "CAT (Corporate Activity Tax) cited repeatedly by multiple respondents as major business burden; calls for elimination or reform",
+      "page": 84
+    },
+    {
+      "text": "Permitting complexity highlighted as critical barrier—example: single wetlands issue requires 3 agency approvals instead of 1",
+      "page": 84
+    },
+    {
+      "text": "K-12 education described as 'plummeted to one of the worst in the country'; calls for teacher wage tables and outcome-based funding",
+      "page": 84
+    },
+    {
+      "text": "Higher education funding lowest in nation; University of Oregon reports $15 ROI per $1 invested but state support inadequate",
+      "page": 84
+    },
+    {
+      "text": "Childcare system misaligned: state funds ~20,000 preschool children but programs operate 8:30-3:30 only; working families need 7am-6pm coverage",
+      "page": 84
+    },
+    {
+      "text": "Marine industrial businesses constrained by regulations/permitting along Willamette; Portland EOA analysis undercounts available industrial land",
+      "page": 84
+    },
+    {
+      "text": "Agricultural water parity requested: Oregon irrigates <1M acres from Columbia River vs. Washington/Idaho each irrigating 3M+ acres",
+      "page": 84
+    },
+    {
+      "text": "Tourism sector (Oregon's 3rd largest industry) lacks state strategy representation; transient lodging tax diverted from intended use",
+      "page": 84
+    },
+    {
+      "text": "Rural arts institutions generate $1.5M annual economic impact but face 30% ticket-sale decline due to lack of stable state funding",
+      "page": 84
+    },
+    {
+      "text": "SB 1507 concern: federal tax conformity loss (QSBS, bonus depreciation elimination) raises capital cost for early-stage venture-backed companies",
+      "page": 84
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "$10M",
+      "$22M",
+      "$1.5 million",
+      "$15 per $1 invested",
+      "$200",
+      "3-4%",
+      "<1/2 of 1%",
+      "7th most heavily regulated state",
+      "30% decline in ticket sales"
+    ],
+    "ftes": [
+      "June 2026"
+    ],
+    "programs": [
+      "CAT (Corporate Activity Tax)",
+      "SB 1507",
+      "QSBS",
+      "bonus depreciation",
+      "Paid Leave Oregon",
+      "Measure 5",
+      "Measure 50",
+      "Urban Growth Boundaries",
+      "Oregon Medical Insurance Pool",
+      "Oregon PreK",
+      "Early Head Start",
+      "Head Start",
+      "ERDC",
+      "DELC",
+      "Business Oregon",
+      "SBIRs/STTR",
+      "Venture Development Fund",
+      "Enterprise Zones",
+      "HECC",
+      "Capital Access Program (CAP)",
+      "Economics Opportunity Analysis (EOA)",
+      "Marine Industrial Land Analysis (MILA)",
+      "North Reach Plan",
+      "Tree Code",
+      "BOLI",
+      "PLO",
+      "SAIF",
+      "ACA",
+      "OHP",
+      "ETSF",
+      "UIRF",
+      "Travel Oregon",
+      "Oregon Main Street"
+    ],
+    "bureaus": [
+      "Governor Kotek",
+      "Business Oregon",
+      "Oregon Tech",
+      "University of Oregon",
+      "University of Oregon Foundation / Launch Oregon",
+      "Portland Community College",
+      "WaterWatch of Oregon",
+      "Working Waterfront Coalition",
+      "Lower Columbia River Watershed Council",
+      "Clatsop County Public",
+      "Roundhouse Foundation",
+      "Tillamook Bay Small Business Development",
+      "Southwestern Oregon SBDC",
+      "Florence Area Chamber of Commerce",
+      "Oregon Small Business Development Center",
+      "Visit Bend",
+      "NeighborImpact",
+      "Lane Workforce Partnership",
+      "Liberty Theatre",
+      "Oregon Symphony",
+      "Tigard Area Chamber of Commerce",
+      "Frog Ferry",
+      "Knight Campus for Accelerating Scientific Impact",
+      "State Police",
+      "State Prison System",
+      "Legislature",
+      "Department of Human Services",
+      "Oregon Arts Commission",
+      "Department of Forestry, Recreation and Tourism"
+    ]
+  },
+  "confidence": "medium"
+}

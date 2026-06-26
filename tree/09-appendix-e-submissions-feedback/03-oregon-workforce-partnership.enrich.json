@@ -1,0 +1,99 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "09-appendix-e-submissions-feedback/03-oregon-workforce-partnership",
+  "breadcrumb": [
+    "Appendix E: Submissions & Feedback",
+    "03. Oregon Workforce Partnership"
+  ],
+  "pageRange": [
+    116,
+    120
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:04:52.327Z",
+  "tldr": "The Oregon Workforce Partnership submits eight recommendations to align Oregon's workforce system with Governor Kotek's Prosperity Roadmap. Proposals include: modernizing Executive Order 13-08, streamlining state governance, aligning TANF employment training with WIOA, building unified performance systems, expanding WorkSource Oregon's data capacity, linking workforce delivery to fast-tracked projects, and creating Regional Industry Councils to consolidate employer engagement across education sectors. Actions are organized into immediate implementation (≤6 months) and 2027 legislative proposals, drawing on best practices from Texas, Florida, Michigan, and Colorado.",
+  "bullets": [
+    {
+      "text": "Support Prosperity Programs with $15M state investment for workforce development and talent development within existing companies.",
+      "page": 116
+    },
+    {
+      "text": "Modernize Executive Order 13-08 to codify LWDB roles as resource coordinators, clarify WTDB statewide policy authority, and create joint performance compact linked to Roadmap KPIs.",
+      "page": 116
+    },
+    {
+      "text": "Create an Office of Workforce System Performance to unify policy implementation, performance management, and reporting across all workforce programs.",
+      "page": 116
+    },
+    {
+      "text": "Pilot TANF–WIOA co-enrollment in two-three regions with shared intake, single employment plans, co-funded supports, and co-located services in WorkSource centers.",
+      "page": 117
+    },
+    {
+      "text": "Launch Oregon Talent Dashboard mirroring Colorado's model to display top jobs, credential gaps, equity metrics, and regional outcomes with quarterly WorkSource metrics.",
+      "page": 117
+    },
+    {
+      "text": "Expand WorkSource Oregon data system to enroll all high school and post-secondary graduates; codify requirement in 2027 statute.",
+      "page": 117
+    },
+    {
+      "text": "Create Regional Industry Councils (RICs) for high-demand sectors (Health, Construction, IT/Analytics, Advanced Manufacturing), staffed by LWDBs, to consolidate employer engagement across K–12, community colleges, and universities.",
+      "page": 117
+    },
+    {
+      "text": "Codify multi-agency workforce partnerships in 2027 statute, including HECC-OWI, OED, DHS, VR, BOLI, and Business Oregon, with unified reporting and data-sharing standards.",
+      "page": 119
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "$15M state investment"
+    ],
+    "ftes": [
+      "≤6 months",
+      "2027 legislative session",
+      "2024–2028 WIOA Combined State Plan",
+      "January–June 2026",
+      "0–90 days",
+      "90–180 days"
+    ],
+    "programs": [
+      "Prosperity Roadmap",
+      "Executive Order 13-08",
+      "Prosperity Programs (LC130)",
+      "WIOA",
+      "TANF",
+      "SNAP E&T",
+      "WorkSource Oregon",
+      "Regional Industry Councils (RICs)",
+      "TANF E&T",
+      "Oregon Talent Dashboard",
+      "TANF Choices",
+      "PATH",
+      "Colorado Works"
+    ],
+    "bureaus": [
+      "Oregon Workforce Partnership",
+      "Workforce and Talent Development Board (WTDB)",
+      "Local Workforce Development Boards (LWDBs)",
+      "Governor Kotek",
+      "Prosperity Council",
+      "HECC-OWI",
+      "OED",
+      "DHS",
+      "VR",
+      "BOLI",
+      "Business Oregon",
+      "ESD",
+      "Texas Workforce Commission",
+      "Florida CareerSource",
+      "Michigan LEO",
+      "Colorado CDLE"
+    ]
+  },
+  "confidence": "high"
+}

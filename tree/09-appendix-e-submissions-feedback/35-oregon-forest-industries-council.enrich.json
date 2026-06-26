@@ -1,0 +1,105 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "09-appendix-e-submissions-feedback/35-oregon-forest-industries-council",
+  "breadcrumb": [
+    "Appendix E: Submissions & Feedback",
+    "35. Oregon Forest Industries Council"
+  ],
+  "pageRange": [
+    323,
+    331
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:07:44.442Z",
+  "tldr": "The Oregon Forest Industries Council submits eight recommendations to the Prosperity Council, urging treatment of forest products as a priority traded sector. OFIC argues the sector sustains 62,300 jobs with above-average wages in rural Oregon, contributes external revenue, and should be strengthened through predictable regulation, respect for the Private Forest Accord, support for mass timber, industrial land protection, active forest management on state and federal lands, and carbon policies that account for wood product lifecycle benefits.",
+  "bullets": [
+    {
+      "text": "Oregon's forest sector directly employed 62,300 people in 2023 with average annual wage of $71,900, compared to state average of $68,283.",
+      "page": 325
+    },
+    {
+      "text": "Forest-sector employment comprises six percent of all employment in rural counties versus two percent in metropolitan counties.",
+      "page": 323
+    },
+    {
+      "text": "Close to 75 percent of Oregon wood products are sold outside the state, bringing external revenue rather than recirculating local spending.",
+      "page": 325
+    },
+    {
+      "text": "72 percent of Oregon's 2023 timber harvest came from private lands, despite private lands representing less than 50 percent of the forest base.",
+      "page": 324
+    },
+    {
+      "text": "Oregon hosts 18 of the nation's 77 engineered-wood manufacturing plants.",
+      "page": 328
+    },
+    {
+      "text": "The Oregon Plan for Salmon and Watersheds (1997-2021) resulted in roughly 20,000 projects, half of which were privately funded, to improve aquatic habitat.",
+      "page": 327
+    },
+    {
+      "text": "The Private Forest Accord forms the basis for more than 100 changes to Forest Practices Act rules, affecting around 10 million acres of private forestland.",
+      "page": 327
+    },
+    {
+      "text": "In 2023, Oregon voluntarily set aside nearly half of its publicly-owned timberlands as habitat conservation areas to comply with a federally approved habitat conservation plan.",
+      "page": 329
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "62,300 jobs",
+      "$71,900",
+      "$68,283",
+      "77 percent",
+      "72 percent",
+      "75 percent",
+      "15,000 board feet",
+      "2,200 square feet",
+      "6,800 square feet",
+      "18 of 77",
+      "20,000 projects",
+      "100 changes",
+      "10 million acres",
+      "161,293 wild spawners",
+      "125 percent",
+      "six percent",
+      "two percent",
+      "one in ten jobs"
+    ],
+    "ftes": [
+      "April 2026",
+      "1997",
+      "2021",
+      "2014",
+      "2023",
+      "2024"
+    ],
+    "programs": [
+      "Private Forest Accord",
+      "Oregon Plan for Salmon and Watersheds",
+      "Forest Practices Act",
+      "Oregon Coast Coho Conservation Plan",
+      "Habitat Conservation Plan",
+      "Corporate Activities Tax",
+      "incidental take permit",
+      "mass timber"
+    ],
+    "bureaus": [
+      "Oregon Forest Industries Council",
+      "Oregon Business and Industry",
+      "Governor Kotek",
+      "Oregon Employment Department",
+      "Oregon Department of Environmental Quality",
+      "Oregon Department of Forestry",
+      "Oregon Department of Fish and Wildlife",
+      "National Association of Home Builders",
+      "Oregon State University",
+      "Oregon Department of Land Conservation and Development"
+    ]
+  },
+  "confidence": "high"
+}

@@ -1,0 +1,87 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "09-appendix-e-submissions-feedback/23-jordan-pape-ceo-the-pape-group-individual-eugene",
+  "breadcrumb": [
+    "Appendix E: Submissions & Feedback",
+    "23. Jordan Papé, CEO, The Papé Group (Individual, Eugene)"
+  ],
+  "pageRange": [
+    254,
+    257
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:06:29.107Z",
+  "tldr": "Jordan Papé, CEO of The Papé Group, argues that Oregon's substantial natural and economic advantages are undermined by man-made barriers: restrictive land-use regulations, high taxes, underperforming K-12 education, and slow development approvals. He urges a fundamental reorientation toward growth-oriented planning, creation of a Commerce Department, comprehensive tax reform, regulatory streamlining, and K-12 improvement to restore Oregon's investment competitiveness.",
+  "bullets": [
+    {
+      "text": "Oregon ranks 7th highest regulated state nationally, with unique statewide zoning, Urban Growth Boundaries, and Exclusive Farm Use designations creating multiple layers of development vetoes",
+      "page": 255
+    },
+    {
+      "text": "K-12 NAICS ratings are in bottom decile despite per-student funding 50% above pre-Measure 5 levels (inflation-adjusted) and teacher pay in top quartile",
+      "page": 255
+    },
+    {
+      "text": "Oregon ranks last in economic development funding while ranking high in homelessness funding, creating fiscal unsustainability",
+      "page": 256
+    },
+    {
+      "text": "Proposes shift from restrictive to growth-oriented land-use system backed by 3-5 biennia budget forecasting to generate needed state revenue",
+      "page": 256
+    },
+    {
+      "text": "Recommends removing additional state-level wetlands restrictions on properly zoned land within UGBs that have already completed public review",
+      "page": 256
+    },
+    {
+      "text": "Advocates comprehensive tax reform to reduce income and estate taxes, which deter capital investment",
+      "page": 256
+    },
+    {
+      "text": "Proposes creation of Department of Commerce to oversee investment mandates, review regulatory barriers, and propose modernization",
+      "page": 256
+    },
+    {
+      "text": "Recommends sunset requirements for administrative rules and programs with thorough cost-benefit review before renewal",
+      "page": 256
+    },
+    {
+      "text": "Calls for reform of prevailing wage requirements and expanded shovel-ready industrial and commercial land funding",
+      "page": 256
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "7th highest regulated state in the country",
+      "bottom decile",
+      "top quartile",
+      "50% more funding per student than pre-Measure 5",
+      "last in economic development dollars"
+    ],
+    "ftes": [
+      "April 1, 2026"
+    ],
+    "programs": [
+      "Urban Growth Boundaries",
+      "Exclusive Farm Use designations",
+      "Measure 5",
+      "Ballot Measure System",
+      "Department of Commerce",
+      "Prevailing wage requirements",
+      "K-12 education system"
+    ],
+    "bureaus": [
+      "Jordan Papé",
+      "The Papé Group",
+      "Water Watch",
+      "1,000 Friends of Oregon",
+      "Economic Development Partnership of NC",
+      "North Carolina",
+      "Arizona"
+    ]
+  },
+  "confidence": "high"
+}

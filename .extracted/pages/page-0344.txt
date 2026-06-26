@@ -1,0 +1,2 @@
+$1 = $10
+For every $1 the state invests, Public Universities return $10 in economic impact.

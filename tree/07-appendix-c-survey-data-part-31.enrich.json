@@ -1,0 +1,104 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "07-appendix-c-survey-data",
+  "breadcrumb": [
+    "Appendix C: Survey Data"
+  ],
+  "pageRange": [
+    85,
+    85
+  ],
+  "chunkIndex": 30,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:03:55.971Z",
+  "tldr": "Diverse Oregon respondents—nonprofits, small businesses, individuals—identify workforce shortages and skill gaps as the dominant challenge, compounded by childcare and housing costs, excessive regulation, and insufficient arts/culture funding. Respondents advocate for business incentives and streamlined permitting to compete with Idaho/Utah/Texas, integrated education-workforce-community learning systems with flexible funding, dedicated arts/culture revenue mechanisms, and regional balance beyond I-5 corridors.",
+  "bullets": [
+    {
+      "text": "Sean Andries (Chehalem Cultural Center): Oregon ranks 'near the bottom in terms of State level support to Art and Culture per capita'; Oregon Cultural Trust tax credit has 'not kept up with inflation'",
+      "page": 85
+    },
+    {
+      "text": "Rob Freres (Freres Lumber): 400-employee company reports 20 workers absent daily; 40,000 hours missed annually; calls for elimination of DEQ, OSHA, BOLI",
+      "page": 85
+    },
+    {
+      "text": "Cheryl Viola (Pendleton Chamber of Commerce): Idaho and Utah 'very good at attracting businesses'; calls for business retention focus, workforce development, and permitting improvements",
+      "page": 85
+    },
+    {
+      "text": "Quinn Hanson (G.A. Rogers): Central Oregon needs '6-12 legit employers for every given sector'; Texas, Florida, Idaho 'attracting the majority of new investments'",
+      "page": 85
+    },
+    {
+      "text": "Allison French (Talent Maker City): Education and workforce systems 'operate in silos' with rigid funding; RISE internship program with Rogue Workforce Partnership demonstrates community-based model promise",
+      "page": 85
+    },
+    {
+      "text": "Elizabeth Farrar Campbell: All 36 Oregon counties should have at least '50% access to preschool'; references Preschool Promise and OPK programs; cites HB 2727 DLCD childcare planning recommendations",
+      "page": 85
+    },
+    {
+      "text": "Heather McNeill: Construction workforce shortage drives up costs and timelines; average worker age needs to drop 'from being in their 50s to their 30s'",
+      "page": 85
+    },
+    {
+      "text": "Lianne Thompson: Calls for overhauling 'legacy systems of taxation, land use, and permitting'; seeks balanced 'urban-rural approach' beyond I-5 population centers",
+      "page": 85
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "50%",
+      "40,000 hours",
+      "400 employees",
+      "20 people",
+      "100 million board feet",
+      "6-12",
+      "1/2",
+      "20%"
+    ],
+    "ftes": [],
+    "programs": [
+      "CAT",
+      "Oregon Cultural Trust tax credit",
+      "Minnesota's Arts and Culture Heritage Fund",
+      "Preschool Promise",
+      "OPK",
+      "RISE internship program",
+      "Employment Related Day Care",
+      "Baby Promise",
+      "HB 2727",
+      "Habitat Conservation Plan"
+    ],
+    "bureaus": [
+      "Chehalem Cultural Center",
+      "Laurel Bay Gardens Inc.",
+      "Arts Council of Pendleton",
+      "Pendleton Chamber of Commerce",
+      "All About Olives",
+      "Darlings Resort",
+      "Freres Lumber",
+      "Freres Timber Inc.",
+      "G.A. Rogers",
+      "Talent Maker City",
+      "Mighty Ripple Strategies",
+      "Rogue Workforce Partnership",
+      "Oregon Arts Commission",
+      "Oregon Heritage",
+      "Oregon Humanities",
+      "Oregon Historical Society",
+      "Oregon State Historic Preservation",
+      "DEQ",
+      "OSHA",
+      "BOLI",
+      "SAIF",
+      "Oregon Department of Forestry",
+      "Idaho Division of State Lands",
+      "DLCD",
+      "Evergreen Biopower LLC"
+    ]
+  },
+  "confidence": "medium"
+}

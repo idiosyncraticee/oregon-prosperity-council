@@ -1,0 +1,73 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "09-appendix-e-submissions-feedback/11-sedcor-email-forwarded-by-lois-cho-cho-wines",
+  "breadcrumb": [
+    "Appendix E: Submissions & Feedback",
+    "11. SEDCOR (email forwarded by Lois Cho, CHO Wines)"
+  ],
+  "pageRange": [
+    171,
+    172
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:04:59.042Z",
+  "tldr": "SEDCOR (via Abisha Romano) submitted three case studies of Oregon businesses constrained by regulatory barriers: Chapul Farms blocked by 18-month composting permits for innovative waste-to-feed operation; The Estate Bakery defeated by LUBA standing and agricultural-product classification; hazelnut processor facing multiple separate air-quality permits. SEDCOR also proposes simplifying BOLI prevailing-wage rules when projects are both state and federally funded.",
+  "bullets": [
+    {
+      "text": "Chapul Farms (McMinnville): DEQ requires 18-month composting facility certification for black soldier fly operation upcycling food waste into animal feed and fertilizer, causing funding and launch delays.",
+      "page": 171
+    },
+    {
+      "text": "The Estate Bakery (Yamhill County): Project collapsed after 1,000 Friends of Oregon challenged it at LUBA; owner faced tens of thousands in legal costs. Bread not classified as agricultural product (unlike jams/jellies/pies).",
+      "page": 172
+    },
+    {
+      "text": "Hazelnut processor: Requires three separate air-quality permits plus land and water permits from multiple state departments. SEDCOR cites Washington's Department of Ecology model as more efficient.",
+      "page": 172
+    },
+    {
+      "text": "BOLI prevailing-wage proposal: When projects are both state and federally funded, defer to higher wage instead of tracking hours per person per project, saving time and cost for construction and housing projects.",
+      "page": 172
+    },
+    {
+      "text": "SEDCOR reports 643+ business-support examples available beyond this short list.",
+      "page": 171
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "tens of thousands of dollars",
+      "643+"
+    ],
+    "ftes": [
+      "February 16, 2026",
+      "February 17, 2026"
+    ],
+    "programs": [
+      "BOLI prevailing wage",
+      "Davis Bacon",
+      "LUBA"
+    ],
+    "bureaus": [
+      "SEDCOR",
+      "DEQ",
+      "CHO Wines",
+      "Chapul Farms",
+      "The Estate Bakery",
+      "Port of Portland",
+      "1,000 Friends of Oregon",
+      "BOLI",
+      "Washington Department of Ecology",
+      "Abisha Romano",
+      "Erik Andersson",
+      "Lois Cho",
+      "Harry Clapsis",
+      "Emerald Bogue",
+      "Curtis Robinhold"
+    ]
+  },
+  "confidence": "high"
+}

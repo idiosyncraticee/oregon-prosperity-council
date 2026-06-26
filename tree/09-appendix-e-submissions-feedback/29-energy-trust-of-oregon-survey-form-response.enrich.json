@@ -1,0 +1,99 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "09-appendix-e-submissions-feedback/29-energy-trust-of-oregon-survey-form-response",
+  "breadcrumb": [
+    "Appendix E: Submissions & Feedback",
+    "29. Energy Trust of Oregon — Survey Form Response"
+  ],
+  "pageRange": [
+    287,
+    291
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:07:59.770Z",
+  "tldr": "Energy Trust of Oregon (non-profit serving 2.4M utility customers) advocates for a state-led clean energy workforce development strategy with consistent, long-term funding for training programs, especially in rural areas. They highlight labor shortages in electricians and HVAC trades, apprenticeship bottlenecks limiting worker pipeline growth, and uneven training access. Proposed solutions include embedded solar/efficiency training in community college programs, business incubation support, and coordination among state agencies, utilities, and training providers, citing New York's integrated system as a model.",
+  "bullets": [
+    {
+      "text": "Energy Trust serves 2.4 million customers of five utilities: Portland General Electric, Pacific Power, NW Natural, Cascade Natural Gas, and Avista in Oregon and Southwest Washington",
+      "page": 288
+    },
+    {
+      "text": "Jobs analysis for Oregon Energy Strategy identified critical need for greater employment in electricians and HVAC specialists for energy efficiency and renewable energy work",
+      "page": 289
+    },
+    {
+      "text": "Apprenticeship bottleneck: requirement of one journeyman per apprentice in carpentry and HVAC limits production of qualified workers and Energy Trust's project completion capacity",
+      "page": 289
+    },
+    {
+      "text": "Rural areas lack specialized workers and training infrastructure; contractors from outside communities needed, increasing travel, lodging, and logistical costs",
+      "page": 289
+    },
+    {
+      "text": "For every $1 Energy Trust invested in energy efficiency, utility customers saved $2.72; since 2002, participating customers saved $8.5 billion on energy bills",
+      "page": 291
+    },
+    {
+      "text": "Since 2002, Energy Trust's net economic benefits: $12.7 billion to Oregon's economy, $4.3 billion in wages, $699 million in small business income, and 93,600 full-time job equivalents",
+      "page": 291
+    },
+    {
+      "text": "Energy Trust's network includes 1,600+ trade ally contractors and 145 allied businesses employing approximately 17,500 people related to energy efficiency and renewable energy work",
+      "page": 291
+    },
+    {
+      "text": "Proposed state-led strategy should include consistent, long-term funding for community college apprenticeship and training programs, especially in rural areas, embedding energy efficiency and solar technology education",
+      "page": 290
+    },
+    {
+      "text": "Success metric: within 2–3 years, state-led clean energy workforce development strategy established and implemented, with training programs well-funded across state and workers connected to employment opportunities",
+      "page": 290
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "$2.72",
+      "$8.5 billion",
+      "$12.7 billion",
+      "$4.3 billion",
+      "$699 million",
+      "93,600 full-time jobs",
+      "17,500 people",
+      "2.4 million customers",
+      "1,600+ trade ally contractors",
+      "145 allied businesses"
+    ],
+    "ftes": [
+      "March 25, 2026",
+      "March 20, 2026",
+      "November 2025",
+      "2030",
+      "2002",
+      "2–3 years",
+      "2023"
+    ],
+    "programs": [
+      "Oregon Energy Strategy",
+      "Oregon Clean Energy Workforce Coalition",
+      "apprenticeship programs",
+      "pre-apprenticeship programs",
+      "business incubation programming"
+    ],
+    "bureaus": [
+      "Energy Trust of Oregon",
+      "Portland General Electric",
+      "Pacific Power",
+      "NW Natural",
+      "Cascade Natural Gas",
+      "Avista",
+      "Governor Kotek",
+      "Oregon Legislature",
+      "Pinnacle Economics",
+      "community colleges"
+    ]
+  },
+  "confidence": "high"
+}

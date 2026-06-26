@@ -1,0 +1,79 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "03-executive-summary",
+  "breadcrumb": [
+    "Executive Summary"
+  ],
+  "pageRange": [
+    4,
+    8
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-25T23:59:30.774Z",
+  "tldr": "The Oregon Prosperity Council, established by Governor Kotek in January 2026, proposes 10 priority recommendations to advance Oregon's long-term economic competitiveness and prosperity. After extensive statewide engagement (66 listening sessions, 1,000+ survey responses), the Council identifies critical challenges: 41% of residents below the ALICE threshold, 49th-worst employment growth, and 5.2% unemployment above the national rate. Priority recommendations span tax reform, permitting acceleration, regulatory relief, site readiness infrastructure ($250M/biennium), and talent alignment, requiring urgent coordinated action to modernize systems and ensure broad-based prosperity.",
+  "bullets": [
+    {
+      "text": "Governor Kotek established Prosperity Council in January 2026 to advise on Prosperity Roadmap strategies; conducted 66 listening sessions, engaged 25 communities, received 45 letters, and collected 1,000+ survey responses",
+      "page": 4
+    },
+    {
+      "text": "Oregon ranks 49th in non-farm employment growth and has 5.2% unemployment rate, above national average of 4.3%",
+      "page": 5
+    },
+    {
+      "text": "41% of Oregonians living below ALICE threshold—either in poverty or unable to afford basic expenditures in their communities",
+      "page": 5
+    },
+    {
+      "text": "Transform Business Oregon into Oregon Commerce Authority governed by board of business and innovation leaders",
+      "page": 6
+    },
+    {
+      "text": "Establish $250 million per biennium dedicated site readiness and infrastructure fund using bonding authority",
+      "page": 7
+    },
+    {
+      "text": "Reduce regulatory and administrative burdens by 20% by 2029 through removal of outdated and duplicative regulations",
+      "page": 7
+    },
+    {
+      "text": "Establish enforceable statewide permitting timelines requiring agencies to approve or deny complete applications within statutory deadlines",
+      "page": 6
+    },
+    {
+      "text": "Adopt market-based Cap and Invest program for greenhouse gas emissions; repeal Climate Protection Program upon implementation",
+      "page": 7
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "$250 million per biennium",
+      "$20 million per biennium"
+    ],
+    "ftes": [
+      "January 2026",
+      "June 2026",
+      "2029"
+    ],
+    "programs": [
+      "Prosperity Roadmap",
+      "Research & Development tax credit",
+      "Estate Tax",
+      "Corporate Activity Tax (CAT)",
+      "Qualified Small Business Stock (QSBS)",
+      "State and Local Tax (SALT)",
+      "Cap and Invest",
+      "Climate Protection Program",
+      "University Innovation Research Fund (UIRF)"
+    ],
+    "bureaus": [
+      "Governor Tina Kotek",
+      "Oregon Prosperity Council",
+      "Governor's Regional Solutions team"
+    ]
+  },
+  "confidence": "high"
+}

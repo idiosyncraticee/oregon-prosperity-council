@@ -1,0 +1,63 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "10-appendix-f-technical-report-data-research/section-1-economic-competitiveness/slide-25-oregon-ranks-near-the-top-of-expenditures-and-own-s",
+  "breadcrumb": [
+    "Appendix F: Technical Report — Data & Research",
+    "Section 1: Economic Competitiveness",
+    "Slide 25: Oregon ranks near the top of expenditures and own source revenue as a share of personal income"
+  ],
+  "pageRange": [
+    425,
+    425
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:10:10.208Z",
+  "tldr": "Oregon ranks near the top of states in state and local expenditures and own-source revenue as a share of personal income. In 2022, Oregon's combined state-local expenditures (including federal transfers) represented 24.7% of personal income, while own-source revenue (excluding federal transfers) ranked 44th nationally at 30.4% of personal income.",
+  "bullets": [
+    {
+      "text": "State and local expenditures as share of personal income (2022, including federal transfers): Oregon at 24.7%",
+      "page": 425
+    },
+    {
+      "text": "Own source revenue – State and Local combined: Oregon ranks 44th at 30.4%",
+      "page": 425
+    },
+    {
+      "text": "Own source revenue – State only: Oregon ranks 47th",
+      "page": 425
+    },
+    {
+      "text": "Own source revenue – Local only: Oregon ranks 31st at 19.5%",
+      "page": 425
+    },
+    {
+      "text": "Apples-to-apples comparison is challenging; unique factors like Oregon's Kicker and inconsistent state/local reporting affect interpretation",
+      "page": 425
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "24.7%",
+      "30.4%",
+      "19.5%",
+      "44th",
+      "47th",
+      "31st"
+    ],
+    "ftes": [
+      "2022"
+    ],
+    "programs": [
+      "Kicker"
+    ],
+    "bureaus": [
+      "U.S. Census Bureau",
+      "Urban Institute",
+      "U.S. Bureau of Economic Analysis"
+    ]
+  },
+  "confidence": "high"
+}

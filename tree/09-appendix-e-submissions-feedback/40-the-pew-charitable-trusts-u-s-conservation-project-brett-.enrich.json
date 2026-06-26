@@ -1,0 +1,98 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "09-appendix-e-submissions-feedback/40-the-pew-charitable-trusts-u-s-conservation-project-brett-",
+  "breadcrumb": [
+    "Appendix E: Submissions & Feedback",
+    "40. The Pew Charitable Trusts (U.S. Conservation project, Brett Swift)"
+  ],
+  "pageRange": [
+    358,
+    364
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:08:30.437Z",
+  "tldr": "The Pew Charitable Trusts (U.S. Conservation project, Brett Swift) submits four recommendations to the Prosperity Council: conduct an independent analysis of Oregon's permitting systems; reinvest in state and local planning capacity, particularly Oregon's Coastal Management Program; align prosperity recommendations with Governor Kotek's climate-focused executive orders; and engage with the Oregon Department of Energy's Natural Climate Solutions workforce program. Pew emphasizes that Oregon's natural and working lands generate $42+ billion annually in food and fiber production and support 120,000+ jobs in tourism alone.",
+  "bullets": [
+    {
+      "text": "Pew recommends independent analysis of Oregon state and local permitting operations to evaluate net benefits for Oregonians; 15% of 1,039 survey respondents mentioned permitting delays, zoning rules, or regulatory burden across 293 narrative responses",
+      "page": 360
+    },
+    {
+      "text": "Pew calls for reinvestment in state and local planning capacity due to decades of divestment in local planning creating barriers to predictable permitting outcomes in cities and counties",
+      "page": 360
+    },
+    {
+      "text": "In fall 2025, Pew partnered with DLCD/OCMP to host coastal resilience workshops in Pacific City and Coos Bay, bringing together staff from 14 coastal cities and Tillamook, Lincoln, and Coos Counties; participants emphasized coastal hazards increasing faster than local planning capacity",
+      "page": 361
+    },
+    {
+      "text": "Pew urges Council to align recommendations with Governor Kotek's Executive Order 25-26 (October 2025) directing state agencies to promote resilience of communities and natural and working lands and waters",
+      "page": 362
+    },
+    {
+      "text": "Oregon's food and fiber production accounts for more than $42 billion in annual output; tourism industry represents more than $14 billion and employs more than 120,000 Oregonians; outdoor recreation accounts for more than $9 billion in economic activity supporting more than 75,000 jobs",
+      "page": 362
+    },
+    {
+      "text": "Oregon's commercial fishing generated $1.2 billion in output and recreational fishing generated $321 million in output as of 2020-2021",
+      "page": 362
+    },
+    {
+      "text": "Oregon Department of Energy's Natural Climate Solutions program identified nearly 130,000 natural climate solutions-related jobs already in Oregon, with opportunities for additional training and worker engagement",
+      "page": 364
+    },
+    {
+      "text": "Pew recommends Council engage with Oregon Department of Energy staff to learn about Natural Climate Solutions Workforce Development and Training Programs Needs Study findings to surface workforce enhancement opportunities",
+      "page": 364
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "more than $42 billion in annual output",
+      "$1.2 billion",
+      "$321 million",
+      "more than $14 billion industry",
+      "more than 120,000 Oregonians",
+      "more than $9 billion of economic activity",
+      "more than 75,000 jobs",
+      "15%",
+      "nearly 130,000 natural climate solutions-related jobs"
+    ],
+    "ftes": [
+      "May 15, 2026",
+      "June 30, 2026",
+      "October 21, 2025",
+      "December 2025",
+      "November 18, 2025",
+      "fall 2025",
+      "2020-2021",
+      "2024"
+    ],
+    "programs": [
+      "HB 4084",
+      "House Bill 3409",
+      "Executive Order 25-26",
+      "Executive Order 25-29",
+      "Oregon's Statewide Land Use Planning Goals",
+      "Oregon's Coastal Management Program",
+      "Plan for a Resilient Oregon",
+      "Land-Based Net Carbon Inventory",
+      "Natural Climate Solutions Workforce Development and Training Programs Needs Study"
+    ],
+    "bureaus": [
+      "The Pew Charitable Trusts",
+      "Brett Swift",
+      "Governor Tina Kotek",
+      "Department of Land Conservation and Development",
+      "Oregon Department of Energy",
+      "Oregon Climate Action Commission",
+      "Tim Knopp",
+      "Brenda Ortigoza Bateman",
+      "Jamshed Suntoke"
+    ]
+  },
+  "confidence": "high"
+}

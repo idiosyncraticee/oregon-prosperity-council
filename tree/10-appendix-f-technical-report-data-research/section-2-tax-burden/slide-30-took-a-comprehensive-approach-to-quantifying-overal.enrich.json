@@ -1,0 +1,76 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "10-appendix-f-technical-report-data-research/section-2-tax-burden/slide-30-took-a-comprehensive-approach-to-quantifying-overal",
+  "breadcrumb": [
+    "Appendix F: Technical Report — Data & Research",
+    "Section 2: Tax Burden",
+    "Slide 30: Took a comprehensive approach to quantifying overall tax burden"
+  ],
+  "pageRange": [
+    430,
+    430
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:10:41.124Z",
+  "tldr": "This slide documents the methodology for calculating overall tax burden in a multi-state comparison. The analysis includes nine tax categories: federal income tax (after Child Tax Credit), FICA employee share, state personal income tax, state payroll taxes (Paid Leave, STT, PFML, Cares, SDI), state and local sales tax, Oregon kicker credit (15% weighted average), Idaho grocery credit, and Oregon CAT and Washington B&O pass-throughs (60% consumer burden). It excludes property tax due to locality variation, selective excises, employer payroll costs, unemployment insurance, health insurance contributions, and Portland-specific taxes.",
+  "bullets": [
+    {
+      "text": "Included: Federal income tax (after Child Tax Credit), FICA employee (6.2% Social Security, 1.45% Medicare), state income tax",
+      "page": 430
+    },
+    {
+      "text": "Included: State payroll taxes (Paid Leave, STT, PFML, Cares, SDI), state and local sales tax, Idaho grocery credit",
+      "page": 430
+    },
+    {
+      "text": "Included: Oregon CAT pass-through (60% consumer burden), Washington B&O pass-through, Oregon kicker credit (15% weighted average)",
+      "page": 430
+    },
+    {
+      "text": "Excluded: Property tax because it varies materially by locality and home value, and varies within households at same income level",
+      "page": 430
+    },
+    {
+      "text": "Excluded: Selective excise taxes (gasoline, alcohol, tobacco), employer-paid federal payroll (FUTA, employer FICA share), unemployment insurance",
+      "page": 430
+    },
+    {
+      "text": "Excluded: Employer health insurance contributions, Portland local income taxes (SHS, PFA), TriMet payroll tax due to scope or variation",
+      "page": 430
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "6.2%",
+      "1.45%",
+      "15%",
+      "60%"
+    ],
+    "ftes": [],
+    "programs": [
+      "Child Tax Credit",
+      "FICA",
+      "Social Security",
+      "Medicare",
+      "Paid Leave",
+      "STT",
+      "PFML",
+      "Cares",
+      "SDI",
+      "Idaho grocery credit",
+      "Oregon kicker credit",
+      "Oregon CAT",
+      "Washington B&O",
+      "FUTA",
+      "SHS",
+      "PFA"
+    ],
+    "bureaus": [
+      "TriMet"
+    ]
+  },
+  "confidence": "high"
+}

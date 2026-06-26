@@ -1,0 +1,135 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "07-appendix-c-survey-data",
+  "breadcrumb": [
+    "Appendix C: Survey Data"
+  ],
+  "pageRange": [
+    63,
+    63
+  ],
+  "chunkIndex": 8,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:01:10.345Z",
+  "tldr": "This appendix presents raw survey responses from individual Oregonians and organizational representatives on state prosperity priorities. Respondents identify workforce development (especially preschool and K-12 education), small business support, affordable housing, clean energy transition, healthcare workforce shortages, forest protection, and water management as critical challenges. Most advocate for increased public investment in education and childcare, stronger environmental protections, progressive taxation, and streamlined permitting processes.",
+  "bullets": [
+    {
+      "text": "Universal, free preschool for all Oregon children is advocated across multiple responses, citing 3-to-1 return on investment and 22% family income increases",
+      "page": 63
+    },
+    {
+      "text": "K-12 education funding inadequacy is frequently cited, with concerns about reading and math proficiency compared to other states",
+      "page": 63
+    },
+    {
+      "text": "Small business support versus large corporation subsidies is highlighted; small businesses comprise 90% of Oregon's businesses",
+      "page": 63
+    },
+    {
+      "text": "Clean energy transition barriers identified include limited electricity capacity, complex permitting, and transmission infrastructure needs",
+      "page": 63
+    },
+    {
+      "text": "Healthcare workforce shortages in nursing and long-term care are cited with calls for staffing mandates and training programs",
+      "page": 63
+    },
+    {
+      "text": "Homelessness is identified as harming tourism and small businesses; respondents advocate housing-first policies and addiction treatment",
+      "page": 63
+    },
+    {
+      "text": "Water use priorities: irrigated agriculture consumes 80% of diversions but provides 1.5% of GDP, while water-dependent businesses provide 30% of GDP with 6% of diversions",
+      "page": 63
+    },
+    {
+      "text": "Forest protection from logging and clear-cutting advocated for tourism, climate, and habitat protection; concerns about federal land privatization",
+      "page": 63
+    },
+    {
+      "text": "Permitting complexity cited as barrier to business and real estate development; uniform permitting processes proposed",
+      "page": 63
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "6% of all water diversions",
+      "30% of Oregon's GDP",
+      "80% of all water diversions",
+      "1.5% of Oregon's GDP",
+      "90% of the businesses",
+      "$16 billion in annual consumer spending",
+      "192,000 full- and part-time jobs",
+      "$14.8 billion in damages",
+      "247 documented deaths",
+      "3-to-1 return on investment",
+      "22% on average",
+      "41 climate or weather events since 1980",
+      "16 were droughts",
+      "50% of Oregon's land"
+    ],
+    "ftes": [
+      "2027",
+      "2023",
+      "1980",
+      "2025",
+      "10 years",
+      "15-year period",
+      "1 year"
+    ],
+    "programs": [
+      "Preschool for All",
+      "HB 2021",
+      "Climate Protection Program",
+      "Clean Fuels Program",
+      "CREP",
+      "Groundwater Management Areas",
+      "WIOA",
+      "Oregon Health Plan",
+      "PCEF",
+      "OMEP",
+      "Northwest Forest Plan",
+      "Roadless Rule",
+      "HB 3354",
+      "Cap and Invest",
+      "Future Ready legislation"
+    ],
+    "bureaus": [
+      "Tina Kotek",
+      "Keith Wilson",
+      "Legislature",
+      "ODOT",
+      "Portland Business Alliance",
+      "Office of Small Business",
+      "Boys and Girls Clubs",
+      "Paperjam Press",
+      "Department of Forestry",
+      "Trump administration",
+      "BLM",
+      "U.S. Forest Service",
+      "ICE",
+      "OCCRI",
+      "SEIU 49",
+      "OFNHP",
+      "BOLI",
+      "Sisters of the Road",
+      "NCEL",
+      "Water League",
+      "RISE Partnership",
+      "Expanse Massage and Bodywork LLC",
+      "Oregon Pack Works",
+      "Tvavium",
+      "Ralph M Cohen Consultancy",
+      "Oregon Coast Community College",
+      "Department of Commerce",
+      "OHCC",
+      "OSBN",
+      "ODHS",
+      "Kaiser",
+      "Legacy",
+      "OHSU"
+    ]
+  },
+  "confidence": "medium"
+}

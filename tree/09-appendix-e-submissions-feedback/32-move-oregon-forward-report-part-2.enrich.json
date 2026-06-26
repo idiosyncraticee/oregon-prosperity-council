@@ -1,0 +1,86 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "09-appendix-e-submissions-feedback/32-move-oregon-forward-report",
+  "breadcrumb": [
+    "Appendix E: Submissions & Feedback",
+    "32. Move Oregon Forward — Report"
+  ],
+  "pageRange": [
+    305,
+    312
+  ],
+  "chunkIndex": 1,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:08:09.627Z",
+  "tldr": "Move Oregon Forward advocates for transportation investment prioritizing congestion pricing, multimodal transit, walking/biking, and electrification, paired with stronger ODOT internal capacity and project accountability mechanisms. The submission argues these strategies deliver more economic value per dollar and cites research on state staffing effects, project delivery performance, and peer-state models from Virginia and Minnesota.",
+  "bullets": [
+    {
+      "text": "NYC congestion pricing study (Nature) found 57.1% of New Yorkers supported it before launch; support increased post-implementation rather than declining",
+      "page": 305
+    },
+    {
+      "text": "In Oregon fiscal year 2024, 60 percent of construction projects were delivered on time and 89 percent on budget",
+      "page": 306
+    },
+    {
+      "text": "Nearly 90 percent of surveyed state DOT procurement officials reported their agencies were moderately or severely understaffed",
+      "page": 306
+    },
+    {
+      "text": "One additional state DOT employee per 1,000 residents is correlated with 26% lower project-level costs for resurfacing",
+      "page": 306
+    },
+    {
+      "text": "Move Oregon Forward submitted SB 1542 (requiring 10-year investment plan and project scoring) and SB 1543 (strengthening OTC oversight) in 2026 legislative session; neither passed",
+      "page": 307
+    },
+    {
+      "text": "Virginia's SMART SCALE program scores projects using explicit criteria (safety, congestion, accessibility, land use, environment, economic development); Minnesota's MnSHIP emphasizes fix-it-first approach",
+      "page": 307
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "57.1%",
+      "60 percent",
+      "89 percent",
+      "26%",
+      "90 percent"
+    ],
+    "ftes": [
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "programs": [
+      "congestion pricing",
+      "SB 1542",
+      "SB 1543",
+      "SMART SCALE",
+      "MnSHIP",
+      "Inflation Reduction Act",
+      "Highway Safety Improvement Program",
+      "Oregon Community Paths Program"
+    ],
+    "bureaus": [
+      "Move Oregon Forward",
+      "Climate Solutions",
+      "Oregon Walks",
+      "Oregon Trails Coalition",
+      "Verde",
+      "Better Eugene Springfield Transportation",
+      "Oregon Environmental Council",
+      "Oregon Department of Transportation",
+      "Oregon Transportation Commission",
+      "Virginia Office of Intermodal Planning and Investment",
+      "Minnesota Department of Transportation",
+      "Metropolitan Transportation Authority",
+      "Smart Growth America",
+      "Brookings Institution",
+      "Eno Center for Transportation"
+    ]
+  },
+  "confidence": "high"
+}

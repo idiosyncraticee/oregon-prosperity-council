@@ -1,0 +1,130 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "07-appendix-c-survey-data",
+  "breadcrumb": [
+    "Appendix C: Survey Data"
+  ],
+  "pageRange": [
+    76,
+    76
+  ],
+  "chunkIndex": 21,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:03:04.062Z",
+  "tldr": "Survey responses from 30+ Oregon business owners, nonprofit leaders, government officials, and individuals identify three core barriers to prosperity: high taxes and regulation (CAT, income tax, permitting complexity); infrastructure gaps for housing and regional development; and underfunded workforce education. Respondents advocate tax reform (sales tax adoption paired with income tax reduction), streamlined permitting, infrastructure investment via state banks, and stronger workforce education partnerships, citing comparisons to lower-tax, faster-permitting states like Washington, Idaho, Texas, and Delaware.",
+  "bullets": [
+    {
+      "text": "Multiple respondents cite CAT tax as disproportionately unfair burden on businesses; calls include elimination or calculation on profit margin rather than gross sales (Hood River Distillers reports invoices of $125K+ for unclear purposes)",
+      "page": 76
+    },
+    {
+      "text": "Business climate respondents consistently propose sales tax adoption paired with income tax reduction, comparing Oregon unfavorably to Washington, California, Texas, Florida, Utah, Delaware, and other states",
+      "page": 76
+    },
+    {
+      "text": "Infrastructure funding gap identified as critical barrier: state infrastructure bank modeled on Washington and Virginia proposed to support water/sewer/transportation for cities and UGB expansions, with federal match assistance",
+      "page": 76
+    },
+    {
+      "text": "Permitting complexity and regulatory burden repeatedly cited as driving businesses away; respondents reference accelerated permitting in Georgia and Ohio as models, with one brewery noting 1-2 years to open",
+      "page": 76
+    },
+    {
+      "text": "Community college workforce development underfunded with reliance on one-time funding; calls for sustainable ongoing funding to support training and employer partnerships",
+      "page": 76
+    },
+    {
+      "text": "Downtown Portland crime and lawlessness cited as business retention barrier; respondent references SB passed during COVID restricting detention after arrest as policy driver",
+      "page": 76
+    },
+    {
+      "text": "DMV vehicle registration system cited as outdated competitive disadvantage; respondent proposes Vitu modernization to enable efficient fleet registration comparable to Washington, California, and Idaho",
+      "page": 76
+    },
+    {
+      "text": "Small and rural businesses report barriers to capital access, culturally appropriate business development services, and broadband access; nonprofit advocates for Business Oregon Economic Equity Investment Program model",
+      "page": 76
+    },
+    {
+      "text": "Immigration enforcement policy impact on agricultural labor cited; small farmer unable to compete on wages and unable to meet infrastructure costs for workforce systems",
+      "page": 76
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "$125K+",
+      "75%",
+      "3%",
+      "$0.5",
+      "40%",
+      "2 times",
+      "75% or better",
+      "95 percent",
+      "300"
+    ],
+    "ftes": [
+      "2028",
+      "2020",
+      "2019",
+      "2019-2021"
+    ],
+    "programs": [
+      "CAT",
+      "SB 1507",
+      "SB1507A",
+      "CPP",
+      "Bonus Depreciation on Capital Investments",
+      "Oregon JOBS Act",
+      "Business Oregon Economic Equity Investment Program",
+      "Oregon Promise",
+      "Future Ready Oregon",
+      "Semiconductor Talent Sustaining Fund",
+      "Workforce Pell",
+      "Clean Water and Drinking Water revolving loan funds",
+      "Unlocking Opportunities",
+      "Oregon Enterprise Zone",
+      "PTE",
+      "price floor on spirits"
+    ],
+    "bureaus": [
+      "City of Tualatin",
+      "City of West Linn",
+      "Portland Community College",
+      "Governor Kotek",
+      "Business Oregon",
+      "ODOT",
+      "OHA",
+      "DEQ",
+      "DMV",
+      "OLCC",
+      "NRCS",
+      "FSA",
+      "Energy Trust of Oregon",
+      "Vitu",
+      "Aspen Institute",
+      "Operating Engineers Local 701",
+      "BOLI",
+      "SEIU",
+      "AFT",
+      "Precision Castparts",
+      "Selmet",
+      "Pacific Cast",
+      "Leatherman Tool",
+      "Benchmade Knives",
+      "Orchid Orthopedics",
+      "Nvidia",
+      "Governor Tom McCall",
+      "Hood River Distillers",
+      "McKenzie Community Land Trust",
+      "Adelante Mujeres",
+      "The Next Door, Inc.",
+      "United Way of Jackson County",
+      "Oregon Induction and Thermal",
+      "Stack Metallurgical",
+      "Coraggio Group"
+    ]
+  },
+  "confidence": "high"
+}

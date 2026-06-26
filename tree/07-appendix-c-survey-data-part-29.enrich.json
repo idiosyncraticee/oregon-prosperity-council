@@ -1,0 +1,125 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "07-appendix-c-survey-data",
+  "breadcrumb": [
+    "Appendix C: Survey Data"
+  ],
+  "pageRange": [
+    83,
+    83
+  ],
+  "chunkIndex": 28,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:05:49.603Z",
+  "tldr": "Page 83 presents survey responses from approximately 30+ Oregon business owners, entrepreneurs, and workforce organizations. Respondents overwhelmingly identify high taxes (especially CAT and property tax), excessive regulation, and slow permitting as barriers to business growth. Secondary concerns include quality-of-life issues (crime, homelessness, housing costs), workforce shortages, and education system gaps. Most advocate tax reduction, deregulation, and cite Texas, Florida, Idaho, and Arizona as competitor models.",
+  "bullets": [
+    {
+      "text": "Damien Hall (97219) advocates veto of SB 1507, citing loss of bonus depreciation for small business growth",
+      "page": 83
+    },
+    {
+      "text": "Zachary Steele (Steele Insurance Agency, 1-20 employees) proposes 20 to 30% state spending reduction with income tax repeal and sales tax implementation",
+      "page": 83
+    },
+    {
+      "text": "Oregon ranks 47th nationally in business friendliness per MSNBC 2025 poll",
+      "page": 83
+    },
+    {
+      "text": "Jeff Nelson (BMCC SBDC, 21-100 employees) identifies rural workforce availability as major challenge for small business; proposes regional minimum wage variation",
+      "page": 83
+    },
+    {
+      "text": "Georgia Conrad (Oregon Workforce Partnership) recommends modernizing Executive Order 13-08 to consolidate fragmented workforce agencies and establish state-level Office of Workforce System Performance",
+      "page": 83
+    },
+    {
+      "text": "Travis Dawson (Cascade Automation, 21-100 employees) calls for fast-track industrial permitting program targeting 1-3% annual manufacturing employment growth; notes absence of state sales tax",
+      "page": 83
+    },
+    {
+      "text": "Alex Carpenter (Green Ridge Solar, 21-100 employees) proposes enforceable statewide permitting timelines, cross-jurisdictional standardization, and construction liability standards review",
+      "page": 83
+    },
+    {
+      "text": "Multiple respondents cite homelessness, crime, and quality-of-life decline in Portland and Eugene as economic deterrents causing business relocation",
+      "page": 83
+    },
+    {
+      "text": "Inheritance tax threshold unchanged since 2006 generates approximately $350m annually; multiple respondents call for threshold increases or restructuring",
+      "page": 83
+    },
+    {
+      "text": "Respondents consistently benchmark against Texas, Florida, Idaho, Arizona, Utah, Nevada, Tennessee, Georgia, North Carolina as states with superior business climate and lower taxes",
+      "page": 83
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "$150 annual",
+      "$.21 /gallon",
+      "$350m",
+      "20 to 30%",
+      "1-3%",
+      "47th"
+    ],
+    "ftes": [
+      "2006",
+      "2015",
+      "2024-2028",
+      "2027",
+      "2025",
+      "late 80s",
+      "10-15 years",
+      "30 year"
+    ],
+    "programs": [
+      "SB 1507",
+      "CAT",
+      "HR-1",
+      "Paid Leave Oregon",
+      "Clean Fuels program",
+      "WIOA",
+      "TANF/SNAP E&T",
+      "Business Oregon",
+      "Prosperity Roadmap",
+      "R&D tax credits",
+      "Enterprise Zones",
+      "MECOP",
+      "CTEC",
+      "Executive Order 13-08",
+      "WorkSource Oregon",
+      "RSIS",
+      "Energy Trust programs"
+    ],
+    "bureaus": [
+      "Governor Kotek",
+      "Legislature",
+      "Business Oregon",
+      "HECC-OWI",
+      "OED",
+      "DHS",
+      "VR",
+      "BOLI",
+      "DEQ",
+      "OHA",
+      "WRD",
+      "ODOT",
+      "Multnomah County",
+      "Metro",
+      "TriMet",
+      "LTD",
+      "Port of Portland",
+      "Local Workforce Development Boards",
+      "University of Oregon",
+      "Oregon State University",
+      "Portland State University",
+      "Salem Area Chamber of Commerce",
+      "BMCC SBDC",
+      "Oregon Workforce Partnership"
+    ]
+  },
+  "confidence": "medium"
+}

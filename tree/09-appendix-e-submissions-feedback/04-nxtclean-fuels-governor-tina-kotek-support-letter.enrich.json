@@ -1,0 +1,85 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "09-appendix-e-submissions-feedback/04-nxtclean-fuels-governor-tina-kotek-support-letter",
+  "breadcrumb": [
+    "Appendix E: Submissions & Feedback",
+    "04. NXTClean Fuels (Governor Tina Kotek support letter)"
+  ],
+  "pageRange": [
+    121,
+    122
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:04:04.860Z",
+  "tldr": "Governor Tina Kotek writes to the U.S. Army Corps of Engineers supporting the NXTClean Fuels facility at Port Westward in Columbia County. She argues this $3 billion renewable fuels project will generate significant economic benefits—3,000+ construction jobs, 240 permanent positions, and $45+ million annual tax revenue—while displacing 750 million gallons of fossil fuels annually and reducing 7+ million tons of CO₂ emissions. The facility has received state environmental permits; Kotek urges the federal agency to approve it promptly.",
+  "bullets": [
+    {
+      "text": "Project represents $3 billion private investment in renewable fuels facility",
+      "page": 121
+    },
+    {
+      "text": "Expected to generate over 3,000 union construction jobs and 240 permanent positions",
+      "page": 121
+    },
+    {
+      "text": "Will contribute more than $45 million annually in tax revenue plus over $5.5 million in fees to Port of Columbia County",
+      "page": 121
+    },
+    {
+      "text": "Received Removal-Fill Permit from Oregon Department of State Lands and 401 Water Quality Certification from Oregon Department of Environmental Quality",
+      "page": 121
+    },
+    {
+      "text": "Will produce Renewable Diesel and Sustainable Aviation Fuel, displacing up to 750 million gallons of fossil fuels annually",
+      "page": 121
+    },
+    {
+      "text": "Will reduce over 7 million tons of carbon dioxide emissions",
+      "page": 121
+    },
+    {
+      "text": "Will restore over 470 acres of adjacent land into wetlands along Columbia River",
+      "page": 122
+    },
+    {
+      "text": "Governor urges U.S. Army Corps of Engineers to give full and timely consideration to project",
+      "page": 122
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "$3 billion",
+      "over 3,000 union construction jobs",
+      "240 permanent positions",
+      "more than $45 million annually",
+      "over $5.5 million",
+      "up to 750 million gallons",
+      "over 7 million tons",
+      "over 470 acres"
+    ],
+    "ftes": [
+      "December 30, 2025"
+    ],
+    "programs": [
+      "NXTClean Fuels",
+      "Removal-Fill Permit",
+      "401 Water Quality Certification",
+      "Cleaner Air Oregon",
+      "Renewable Diesel",
+      "Sustainable Aviation Fuel"
+    ],
+    "bureaus": [
+      "Governor Tina Kotek",
+      "U.S. Army Corps of Engineers",
+      "Oregon Department of State Lands",
+      "Oregon Department of Environmental Quality",
+      "Oregon Department of Land Conservation and Development",
+      "NXTClean Fuels",
+      "Port of Columbia County"
+    ]
+  },
+  "confidence": "high"
+}

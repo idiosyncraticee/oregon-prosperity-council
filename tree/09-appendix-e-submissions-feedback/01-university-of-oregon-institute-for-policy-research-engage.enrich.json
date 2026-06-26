@@ -1,0 +1,88 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "09-appendix-e-submissions-feedback/01-university-of-oregon-institute-for-policy-research-engage",
+  "breadcrumb": [
+    "Appendix E: Submissions & Feedback",
+    "01. University of Oregon Institute for Policy Research & Engagement"
+  ],
+  "pageRange": [
+    95,
+    104
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:03:46.951Z",
+  "tldr": "The University of Oregon Institute for Policy Research & Engagement advocates for treating economic development as a core Oregon state priority with a coordinated statewide strategy. Despite ranking 9th nationally in innovation, Oregon's decentralized ecosystem has failed to retain businesses—68% of those targeted by out-of-state recruiters relocate or expand elsewhere. The authors propose adapting organizational models from Pennsylvania, New York, Michigan, Colorado, and Kentucky to strengthen coordination and outcomes.",
+  "bullets": [
+    {
+      "text": "68% of Oregon businesses contacted by out-of-state economic development entities ultimately chose to relocate or expand outside Oregon (IPRE Business Recruitment Report, 2024)",
+      "page": 97
+    },
+    {
+      "text": "Oregon ranked 9th nationally for innovation but 28th for overall economic strength and 48th for business friendliness in CNBC 2024 rankings",
+      "page": 98
+    },
+    {
+      "text": "Oregon ranked 43rd out of 50 in Chief Executive 2024 rankings and 49th in corporate tax environment (Tax Foundation 2025)",
+      "page": 98
+    },
+    {
+      "text": "Nearly one quarter of Oregon's workforce is over age 55, raising concerns about imminent loss of institutional knowledge and critical skillsets",
+      "page": 98
+    },
+    {
+      "text": "One in eight Oregon jobs connected to international trade as of 2023, showing state's position in global supply chains",
+      "page": 96
+    },
+    {
+      "text": "Oregon ranks near bottom among peers in per capita economic development spending when infrastructure is excluded (Council for Community and Economic Research)",
+      "page": 97
+    },
+    {
+      "text": "Identifies push factors driving business departure: regulatory complexity, tax burden, lack of industrial land, high housing costs, and workforce gaps",
+      "page": 99
+    },
+    {
+      "text": "Proposes examining five states' economic development structures: Pennsylvania (strong executive leadership), New York (regional approaches), Michigan (public-private partnerships), Colorado (high-tech plus rural), Kentucky (rural focus)",
+      "page": 104
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "68%",
+      "9th",
+      "28th",
+      "48th",
+      "43rd out of 50",
+      "49th",
+      "one in eight",
+      "one quarter"
+    ],
+    "ftes": [
+      "June 12, 2025",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "programs": [
+      "IPRE Business Recruitment Report"
+    ],
+    "bureaus": [
+      "University of Oregon Institute for Policy Research & Engagement",
+      "Jasper Riogeist",
+      "Robert Parker",
+      "Josh Bruce",
+      "Governor Kotek",
+      "Business Oregon",
+      "Oregon Employment Department",
+      "CNBC",
+      "Chief Executive",
+      "Tax Foundation",
+      "Council for Community and Economic Research",
+      "The Oregonian"
+    ]
+  },
+  "confidence": "high"
+}

@@ -1,0 +1,58 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "04-full-report/chapter-1-statewide-economic-development-strategy-structural/shared-vision",
+  "breadcrumb": [
+    "Full Report",
+    "Chapter 1: Statewide Economic Development Strategy & Structural Reform",
+    "Shared Vision"
+  ],
+  "pageRange": [
+    14,
+    15
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T02:00:44.568Z",
+  "tldr": "This section outlines Oregon's shared vision for economic competitiveness through institutional reform and the Priority Recommendation to transform Business Oregon into the Oregon Commerce Authority. The vision emphasizes modernizing economic development governance with board-level business leadership and private-sector engagement. The recommendation calls for consolidating economic, community development, workforce, energy, and innovation functions into a responsive agency with measurable statewide goals and a public transparency dashboard. Planning and implementation funding is requested for the next biennium, with Arizona and North Carolina cited as best-practice governance models.",
+  "bullets": [
+    {
+      "text": "Transform Business Oregon into the Oregon Commerce Authority, governed by a board of business and innovation leaders and the Governor",
+      "page": 14
+    },
+    {
+      "text": "Consolidate and integrate economic, community development, workforce, energy, innovation, research, and other key functions into the new Commerce Authority",
+      "page": 15
+    },
+    {
+      "text": "Establish measurable statewide economic development goals and maintain a public-facing dashboard tracking business growth, job creation, project timelines, regional investment, customer response times, and economic competitiveness outcomes",
+      "page": 15
+    },
+    {
+      "text": "Legislature should authorize planning and implementation resources in the next biennium to establish the Commerce Authority",
+      "page": 15
+    },
+    {
+      "text": "Arizona Commerce Authority and North Carolina Department of Commerce offer integrated economic development governance models as best practices",
+      "page": 15
+    }
+  ],
+  "entities": {
+    "dollars": [],
+    "ftes": [
+      "next biennium"
+    ],
+    "programs": [
+      "Business Oregon",
+      "Oregon Commerce Authority"
+    ],
+    "bureaus": [
+      "Business Oregon",
+      "Oregon Commerce Authority",
+      "Arizona Commerce Authority",
+      "North Carolina Department of Commerce"
+    ]
+  },
+  "confidence": "high"
+}

@@ -1,0 +1,74 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "09-appendix-e-submissions-feedback/30-coalition-of-oregon-employer-and-business-associations-or",
+  "breadcrumb": [
+    "Appendix E: Submissions & Feedback",
+    "30. Coalition of Oregon Employer and Business Associations (Oregon Employer Coalition)"
+  ],
+  "pageRange": [
+    292,
+    294
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:06:56.245Z",
+  "tldr": "The Coalition of Oregon Employer and Business Associations urges the Governor's Prosperity Council to preserve Oregon's workers' compensation system and SAIF Corporation. The coalition argues Oregon's system is a competitive economic asset—ranking 38th nationally for premium costs—and that SAIF's not-for-profit model has enabled stable premiums, strong worker benefits, and broad coverage for high-hazard and public-sector employers.",
+  "bullets": [
+    {
+      "text": "Oregon ranks 38th nationally for workers' compensation premiums; only twelve states have lower average rates",
+      "page": 292
+    },
+    {
+      "text": "SAIF Corporation operates as Oregon's not-for-profit public insurer, with all funds held in the Industrial Accident Fund exclusively for workers' compensation purposes",
+      "page": 293
+    },
+    {
+      "text": "Since 1990 system reforms, pure premium rates declined 83% while claims per 100 workers fell 73%",
+      "page": 293
+    },
+    {
+      "text": "SAIF insures nearly all public employers statewide, including school districts and the vast majority of first responders",
+      "page": 293
+    },
+    {
+      "text": "SAIF provides coverage for high-hazard, hard-to-insure industries: construction, agriculture, logging, trucking, and wood products",
+      "page": 293
+    },
+    {
+      "text": "SAIF operates at a loss using investment earnings to moderate premiums without compromising worker protections",
+      "page": 293
+    },
+    {
+      "text": "Coalition requests preservation of the current system and SAIF's role to maintain affordability and economic competitiveness",
+      "page": 294
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "38th",
+      "twelve states",
+      "83%",
+      "73%"
+    ],
+    "ftes": [
+      "May 4, 2026",
+      "1990"
+    ],
+    "programs": [
+      "workers' compensation system",
+      "SAIF Corporation",
+      "Industrial Accident Fund",
+      "Prosperity Roadmap"
+    ],
+    "bureaus": [
+      "Coalition of Oregon Employer and Business Associations",
+      "Governor Tina Kotek",
+      "Tim Knopp",
+      "Oregon Department of Consumer and Business Services",
+      "SAIF Corporation"
+    ]
+  },
+  "confidence": "high"
+}

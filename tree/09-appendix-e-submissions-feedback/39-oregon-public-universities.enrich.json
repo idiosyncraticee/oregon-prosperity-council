@@ -1,0 +1,71 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "09-appendix-e-submissions-feedback/39-oregon-public-universities",
+  "breadcrumb": [
+    "Appendix E: Submissions & Feedback",
+    "39. Oregon Public Universities"
+  ],
+  "pageRange": [
+    341,
+    357
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:07:54.527Z",
+  "tldr": "Oregon Public Universities submitted this advocacy presentation arguing they deliver on state goals and generate significant economic return: $10 billion annually with 30,000+ employees, a $10 return for every $1 of state investment, and 85% of income taxes from degree-holders. They contend higher education is essential for future workforce (72% of 2031 jobs will require postsecondary education) while highlighting rising costs, particularly operational expenses outpacing inflation and revenue.",
+  "bullets": [
+    {
+      "text": "$10 billion+ in annual economic impact; 30,000+ employees in Oregon; nearly 500,000 alumni",
+      "page": 342
+    },
+    {
+      "text": "Return on investment: $1 state investment generates $10 in economic impact",
+      "page": 344
+    },
+    {
+      "text": "85% of income taxes paid by those with a bachelor's degree or higher",
+      "page": 345
+    },
+    {
+      "text": "By 2031, 72% of US jobs will require postsecondary education and/or training",
+      "page": 347
+    },
+    {
+      "text": "State appropriation per FTE: $626.2 million; Net tuition per FTE: $551.63 million",
+      "page": 351
+    },
+    {
+      "text": "Nearly 80% of university costs directed toward personnel",
+      "page": 357
+    },
+    {
+      "text": "OPE (operational/post-secondary education) costs rising faster than inflation and revenue",
+      "page": 357
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "$10 billion",
+      "$1 = $10",
+      "30,000+ employees",
+      "nearly 500,000 alumni",
+      "85%",
+      "72%",
+      "$626.2 million",
+      "$551.63 million",
+      "80%"
+    ],
+    "ftes": [
+      "2031"
+    ],
+    "programs": [
+      "40/40/20 goals"
+    ],
+    "bureaus": [
+      "Oregon Public Universities"
+    ]
+  },
+  "confidence": "medium"
+}

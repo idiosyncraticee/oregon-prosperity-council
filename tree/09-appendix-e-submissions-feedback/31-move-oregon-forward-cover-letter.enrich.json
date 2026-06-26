@@ -1,0 +1,53 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "09-appendix-e-submissions-feedback/31-move-oregon-forward-cover-letter",
+  "breadcrumb": [
+    "Appendix E: Submissions & Feedback",
+    "31. Move Oregon Forward — Cover Letter"
+  ],
+  "pageRange": [
+    295,
+    295
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:06:57.068Z",
+  "tldr": "Move Oregon Forward, a coalition of transportation and environmental advocacy organizations, submits its report \"Smarter Investing in Transportation for a Stronger Oregon Economy\" to advocate that transportation policy is economic policy. They recommend Oregon shift from expansion-focused spending to disciplined investment in system maintenance, safety, transit, active transportation, electrification, and efficient land use to strengthen the economy.",
+  "bullets": [
+    {
+      "text": "Transportation policy is economic policy; Oregon's investment approach directly affects economic strength and success",
+      "page": 295
+    },
+    {
+      "text": "Recommend disciplined investment approach focusing on maintenance and repair of current system rather than costly expansion",
+      "page": 295
+    },
+    {
+      "text": "Five key investment priorities: improved safety infrastructure, expanded transit and active transportation, transportation electrification and charging infrastructure, clean energy from Northwest powering EVs, and efficient land use",
+      "page": 295
+    },
+    {
+      "text": "Claim that providing transportation options and electrifying the system will lower household costs, connect more workers to jobs, improve customer access, and generate more economic value per public dollar",
+      "page": 295
+    },
+    {
+      "text": "Call for Council to connect Oregon's economic strategy with its transportation strategy, treating safety, transit, biking, and electrification as core economic infrastructure",
+      "page": 295
+    }
+  ],
+  "entities": {
+    "dollars": [],
+    "ftes": [],
+    "programs": [
+      "Move Oregon Forward",
+      "Smarter Investing in Transportation for a Stronger Oregon Economy"
+    ],
+    "bureaus": [
+      "Move Oregon Forward",
+      "Governor's Prosperity Council"
+    ]
+  },
+  "confidence": "high"
+}

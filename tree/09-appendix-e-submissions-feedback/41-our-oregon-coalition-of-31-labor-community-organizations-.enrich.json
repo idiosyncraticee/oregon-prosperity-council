@@ -1,0 +1,89 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "09-appendix-e-submissions-feedback/41-our-oregon-coalition-of-31-labor-community-organizations-",
+  "breadcrumb": [
+    "Appendix E: Submissions & Feedback",
+    "41. Our Oregon (coalition of ~31 labor/community organizations and individuals, incl. SEIU Oregon, Oregon Labor Federation, OCPP)"
+  ],
+  "pageRange": [
+    365,
+    368
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:09:38.744Z",
+  "tldr": "Our Oregon, a coalition of ~31 labor and community organizations and state legislators (including SEIU Oregon, Oregon Labor Federation, Oregon Education Association), submitted a letter opposing the Prosperity Council's draft recommendations. They argue the recommendations prioritize corporate tax cuts and deregulation rather than benefiting working families, pointing to 40 years of failed trickle-down economics. They specifically oppose cutting top marginal income tax rates, streamlining the corporate activities tax that funds schools, reducing regulations by 20%, and proposing a sales tax (rejected 9 times). Instead, they advocate for investments in workforce pipelines, schools, and quality of life, emphasizing that care workers—healthcare, childcare, behavioral health—overwhelmingly women and people of color, should be economic priorities.",
+  "bullets": [
+    {
+      "text": "Since 1979, wages for the top 1% have grown nearly three times faster than wages for workers at the bottom",
+      "page": 365
+    },
+    {
+      "text": "Intel received billions in property tax exemptions and direct funding; Nike received custom tax deal worth over $2 billion across 30 years, yet both subsequently laid off thousands of workers",
+      "page": 365
+    },
+    {
+      "text": "Coalition opposes draft recommendations to cut Oregon's top marginal income tax rates in a year when Oregon's wealthiest residents recorded the highest incomes in state history",
+      "page": 366
+    },
+    {
+      "text": "Coalition opposes streamlining of the corporate activities tax that funds children's schools",
+      "page": 366
+    },
+    {
+      "text": "Coalition opposes cutting regulations by an arbitrary 20% without naming specific regulations",
+      "page": 366
+    },
+    {
+      "text": "Coalition opposes a sales tax, noting Oregon voters have rejected it nine times",
+      "page": 366
+    },
+    {
+      "text": "Oregon's fastest-growing jobs—healthcare, home care, childcare, behavioral health—are performed overwhelmingly by women and people of color but barely mentioned in the Council's work",
+      "page": 366
+    },
+    {
+      "text": "Submission signed by approximately 31 organizations including SEIU Oregon, Oregon Labor Federation, and Oregon Education Association, plus individual signatories including state legislators",
+      "page": 368
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "$2 billion across 30 years",
+      "billions",
+      "nearly three times",
+      "highest incomes in state history",
+      "nine times"
+    ],
+    "ftes": [
+      "May 18, 2026",
+      "1979"
+    ],
+    "programs": [
+      "Oregon Prosperity Council",
+      "Corporate activities tax",
+      "Sales tax",
+      "Medicaid"
+    ],
+    "bureaus": [
+      "Governor Tina Kotek",
+      "Renée James",
+      "Curtis Robinhold",
+      "Our Oregon",
+      "SEIU Oregon",
+      "Oregon Labor Federation, AFL-CIO",
+      "Oregon Education Association",
+      "American Federation of Teachers - Oregon",
+      "Intel",
+      "Nike",
+      "Trump administration",
+      "Khanh Pham",
+      "Jeff Golden",
+      "Lesly Muñoz",
+      "Farrah Chaichi"
+    ]
+  },
+  "confidence": "high"
+}

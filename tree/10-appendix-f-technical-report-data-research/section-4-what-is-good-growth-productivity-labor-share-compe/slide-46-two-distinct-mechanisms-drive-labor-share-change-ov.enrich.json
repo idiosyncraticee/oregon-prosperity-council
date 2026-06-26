@@ -1,0 +1,62 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "10-appendix-f-technical-report-data-research/section-4-what-is-good-growth-productivity-labor-share-compe/slide-46-two-distinct-mechanisms-drive-labor-share-change-ov",
+  "breadcrumb": [
+    "Appendix F: Technical Report — Data & Research",
+    "Section 4: What Is Good Growth? Productivity, Labor Share & Compensation",
+    "Slide 46: Two distinct mechanisms drive labor share change over time"
+  ],
+  "pageRange": [
+    446,
+    446
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:10:40.652Z",
+  "tldr": "The slide explains that declining labor share—workers' share of GDP—results from two mechanisms. Structural mechanisms involve workers capturing smaller shares within industries due to market power, automation, offshoring, and weakened collective bargaining (U.S. manufacturing fell from 62% to 54%, 1998–2024). Compositional mechanisms involve industry mix shifts: as low-labor-share sectors like finance expand, they mechanically lower national averages (finance grew from 7.5% to 8.9% of GDP but retains only 28% labor share versus the 51% national average).",
+  "bullets": [
+    {
+      "text": "U.S. manufacturing labor share fell from 62% (1998) to 54% (2024)",
+      "page": 446
+    },
+    {
+      "text": "Manufacturing, retail, information, and wholesale sectors all experienced within-sector wage compression",
+      "page": 446
+    },
+    {
+      "text": "Structural labor share decline driven by market power, monopsony, automation, offshoring, and declining collective bargaining",
+      "page": 446
+    },
+    {
+      "text": "Finance sector GDP share increased from 7.5% to 8.9%",
+      "page": 446
+    },
+    {
+      "text": "Finance labor share is 28%, significantly below the 51% national average",
+      "page": 446
+    },
+    {
+      "text": "Compositional labor share decline occurs when low-labor-share sectors (finance, real estate) expand faster than high-labor-share sectors",
+      "page": 446
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "62%",
+      "54%",
+      "7.5%",
+      "8.9%",
+      "28%",
+      "51%"
+    ],
+    "ftes": [
+      "1998",
+      "2024"
+    ],
+    "programs": [],
+    "bureaus": []
+  },
+  "confidence": "high"
+}

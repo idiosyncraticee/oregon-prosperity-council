@@ -1,0 +1,118 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "07-appendix-c-survey-data",
+  "breadcrumb": [
+    "Appendix C: Survey Data"
+  ],
+  "pageRange": [
+    77,
+    77
+  ],
+  "chunkIndex": 22,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:02:25.673Z",
+  "tldr": "Page 77 contains survey responses from Oregon business owners, workers, and community leaders identifying tax burdens, regulations, education outcomes, and sectoral gaps as key competitiveness challenges. Dominant themes: payroll/income taxes and licensing fees are prohibitive; child care, food manufacturing workforce, rural development, and arts/culture infrastructure need state investment; peer states (Texas, Florida, Washington, Kentucky, Michigan) offer models for tax reform, employer partnerships, and targeted subsidies. Many respondents frame economic competitiveness against a perceived business-unfriendly regulatory and tax environment.",
+  "bullets": [
+    {
+      "text": "Child care identified as critical economic infrastructure requiring statewide coordination across public investment, employer partnerships, and supply expansion, especially for infant/toddler care; respondent cites Michigan Tri-Share and Vermont payroll-contribution models.",
+      "page": 77
+    },
+    {
+      "text": "Multiple small business respondents cite payroll taxes, income taxes, licensing fees, and workers' compensation as prohibitive costs; some propose replacing income taxes with sales tax modeled on Washington state.",
+      "page": 77
+    },
+    {
+      "text": "Food and beverage manufacturers report mid-scale processing gap: companies struggle to scale from startup to regional/national production due to lack of equipment capital, technical workforce shortages, and regulatory complexity; suggest Washington State's Local Food System Infrastructure Grant model.",
+      "page": 77
+    },
+    {
+      "text": "Oregonian business owner reports 4.4 billion in state contracting awarded out-of-state last biennium; advocates for local procurement mandates to retain jobs and tax revenue in-state.",
+      "page": 77
+    },
+    {
+      "text": "Respondent notes SB1507 claims to bring approximately $310 million in new tax revenue, while state proposes $375 million in Trail Blazers subsidy, highlighting perceived fiscal misalignment.",
+      "page": 77
+    },
+    {
+      "text": "Rural respondents report unequal investment distribution favoring Portland/Salem/Eugene I-5 corridor; advocate for rural-specific programs, dedicated resources, and community-defined infrastructure solutions.",
+      "page": 77
+    },
+    {
+      "text": "K-12 education outcomes cited as inadequate (reading, math proficiency, graduation rates); respondents advocate for school choice, standards reform, and accountability measures to build competitive workforce.",
+      "page": 77
+    },
+    {
+      "text": "Arts and cultural infrastructure unevenly distributed west vs. east of Cascades; respondent proposes Art Park in Central Oregon (Redmond/Bend area) modeled on New York's Artpark at Lewiston, established 1974.",
+      "page": 77
+    },
+    {
+      "text": "Respondents reference successful peer-state models: Texas and Florida for business climate, Washington for child care/food infrastructure grants, Mississippi education 'Miracle,' Kentucky/Michigan employer partnership models.",
+      "page": 77
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "4.4 billion",
+      "$310 million",
+      "$375 million"
+    ],
+    "ftes": [
+      "2–3 years",
+      "20-30 years",
+      "20+ years"
+    ],
+    "programs": [
+      "ERDC",
+      "Baby Promise",
+      "Preschool Promise",
+      "SPARK",
+      "CCR&R",
+      "Business Oregon's Child Care Infrastructure Fund",
+      "Enterprise Zone",
+      "Vertical Housing Development Zones",
+      "Tax Increment Financing",
+      "EDTIF",
+      "WTDB",
+      "HECC",
+      "SB1507",
+      "Oregon Manufacturing Innovation Center",
+      "Oregon Investment Advantage",
+      "Special Public Works Fund",
+      "IFA",
+      "Regional Solutions program",
+      "CAT",
+      "Parity Act",
+      "OregonSaves",
+      "Paid Leave Oregon",
+      "WIN",
+      "SAVE Act",
+      "Food System Infrastructure Grant",
+      "Rural Opportunity Initiative",
+      "Workforce Oregon"
+    ],
+    "bureaus": [
+      "Oregon Legislature",
+      "Governor Tina Kotek",
+      "Business Oregon",
+      "Oregon Health Authority",
+      "Oregon Department of Agriculture",
+      "Department of Revenue",
+      "Oregon Arts Commission",
+      "RAIN Catalysts",
+      "City of Oakridge",
+      "Aspens Institute Community Strategies Group",
+      "Bull Run Center",
+      "Chamber of Commerce",
+      "State Education Department",
+      "Oregon State Parks",
+      "Oregon Cultural Trust",
+      "USDA Rural Development",
+      "Oregon Specialty Food Association",
+      "Food & Beverage Council",
+      "Clatsop County"
+    ]
+  },
+  "confidence": "medium"
+}

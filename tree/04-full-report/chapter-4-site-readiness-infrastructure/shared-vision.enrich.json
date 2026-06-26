@@ -1,0 +1,52 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "04-full-report/chapter-4-site-readiness-infrastructure/shared-vision",
+  "breadcrumb": [
+    "Full Report",
+    "Chapter 4: Site Readiness & Infrastructure",
+    "Shared Vision"
+  ],
+  "pageRange": [
+    26,
+    26
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T02:01:31.607Z",
+  "tldr": "Oregon's vision is to modernize its land use planning system to enable economic growth in traded sectors while preserving agricultural and forest land. The strategy emphasizes targeted reforms, strategic alignment, and disciplined investment to develop community infrastructure, financing mechanisms, and sites necessary for attracting employers and supporting statewide business expansion and job creation.",
+  "bullets": [
+    {
+      "text": "Oregon will modernize its land use system to capitalize on traded-sector opportunities",
+      "page": 26
+    },
+    {
+      "text": "Reforms must maintain Oregon's values and protection for farm and forest land",
+      "page": 26
+    },
+    {
+      "text": "System effectiveness will be restored through targeted reforms, strategic alignment, and disciplined investment",
+      "page": 26
+    },
+    {
+      "text": "The state must develop community infrastructure to attract and retain employers",
+      "page": 26
+    },
+    {
+      "text": "Financing tools are necessary to support business expansion and job creation",
+      "page": 26
+    },
+    {
+      "text": "Development of sites is critical to support economic opportunities across the state",
+      "page": 26
+    }
+  ],
+  "entities": {
+    "dollars": [],
+    "ftes": [],
+    "programs": [],
+    "bureaus": []
+  },
+  "confidence": "high"
+}

@@ -1,0 +1,42 @@
+Microsoft Recommendations for the Oregon Prosperity Roadmap in the
+Age of AI
+RECOMMENDATION 1: ACCELERATE RESEARCH WITH AI AND ENABLE COLLABORATION FOR
+AI RESEARCH FOR ECONOMIC DEVELOPMENT.
+Create shared research infrastructure—secure cloud computing, governed data access, and
+common AI tools—that universities, startups, and industry can use to accelerate discovery and
+commercialization. Encourage cross-institutional consortia focused on Oregon priority sectors
+(e.g., semiconductors, clean energy, forestry, health, and advanced manufacturing) and lower
+barriers to partnering through streamlined agreements and clear IP pathways. Pair these efforts
+with responsible AI and cybersecurity guardrails to protect sensitive data and strengthen trust
+among collaborators.
+• Accelerate research and development through Microsoft Discovery. Microsoft Discovery is
+an enterprise, agentic AI platform designed to accelerate research and development. Built on
+Azure, it enables universities, research institutions, and industry partners to use AI agents to
+accelerate scientific discovery, simulation, and innovation across fields such as materials
+science, energy, manufacturing, and life sciences.
+• Collaborate on AI Economy Research. The AI Economy Institute is a Microsoft Research
+initiative focused on understanding AI’s impact on jobs, skills, productivity, and education
+systems. AIEI produces evidence-based research to inform policymakers, educators, and
+workforce leaders as they adapt education and training systems for an AI-enabled economy.
+RECOMMENDATION 2: SUPPORT AI LITERACY FOR STUDENTS AND PREPARE K-12 TEACHERS
+TO USE AND TEACH AI.
+Embed age-appropriate AI literacy and responsible use expectations into standards, curriculum
+guidance, and digital citizenship. Pair this with sustained professional learning so educators can
+use AI to save time, personalize instruction, and teach students how to evaluate AI outputs, protect
+privacy, and use tools ethically.
+• Establish AI Literacy Standards in K12. Microsoft supports state and local efforts to establish
+AI literacy standards for students, helping ensure young people understand how AI works, how
+it should be used responsibly, and how it impacts learning and work. For example, Idaho’s work
+to create statewide AI literacy standards for K–12 students offers a replicable model for other
+states. And Code.org and Teach AI offer AI Literacy tools to for K-12.
+• Prepare Teachers to use AI. Elevate for Educators provides free, on-demand professional
+learning to help teachers confidently and responsibly integrate AI into their classrooms.
+Resources focus on saving time, supporting instructional planning, enhancing student
+engagement, and building educator confidence with emerging technologies.
+• Personalize Special Education with AI. Microsoft offers tailored AI training and resources to
+support special education teachers, helping them use AI tools to personalize instruction,
+improve accessibility, and reduce administrative workload—while keeping students and
+educators at the center of learning.
+Microsoft Corporation
+One Microsoft Way | Redmond, WA 98052
+http://www.microsoft.com/

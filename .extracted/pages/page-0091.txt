@@ -1,0 +1,11 @@
+Send thank you email to your participants
+Within a few days of the meeting, we recommend sending a follow-up and
+thank-you to all meeting attendees. Here is a start that you can customize:
+“Hello ____,
+I am following up with you to extend my gratitude for your participation
+in the Prosperity Council Listening Session.
+If you have any questions or concerns for the Prosperity Council, you
+can contact them at Prosperity.Roadmap@oregon.gov . You can also keep
+track of the Prosperity Council’s work on the website, and fill out the
+online survey if you have further recommendations.”
+5

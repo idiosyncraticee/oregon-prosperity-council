@@ -1,0 +1,78 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "09-appendix-e-submissions-feedback/34-keith-wilson-mayor-city-of-portland-andrew-hoan-portland-",
+  "breadcrumb": [
+    "Appendix E: Submissions & Feedback",
+    "34. Keith Wilson (Mayor, City of Portland) & Andrew Hoan (Portland Metro Chamber) — Cascadia High-Speed Rail advocates"
+  ],
+  "pageRange": [
+    321,
+    322
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:07:24.056Z",
+  "tldr": "Keith Wilson, Mayor of Portland, and Andrew Hoan, Portland Metro Chamber President, jointly urge the Oregon Prosperity Council to adopt Cascadia high-speed rail as a cornerstone economic development strategy. They argue it will strengthen Oregon's business climate, create a unified 10-million-person labor market with Seattle and Vancouver BC, attract billions in private development around stations, and generate 200,000 jobs and $355 billion in economic impact.",
+  "bullets": [
+    {
+      "text": "$55 million in federal and Washington state funding already allocated for Cascadia high-speed rail planning",
+      "page": 321
+    },
+    {
+      "text": "One-hour Portland–Seattle and two-hour Portland–Vancouver, BC connections would create unified labor market of 10+ million people",
+      "page": 321
+    },
+    {
+      "text": "Combined megaregion economy approaches 18th largest in world, comparable to Netherlands or Saudi Arabia",
+      "page": 321
+    },
+    {
+      "text": "High-speed rail projected to create 200,000 jobs and unlock $355 billion in economic impact",
+      "page": 322
+    },
+    {
+      "text": "Construction phase alone would create 38,000 high-quality construction jobs",
+      "page": 322
+    },
+    {
+      "text": "Proposed to integrate high-speed rail with passenger rail to Eugene, Albany/Corvallis, and Salem, and with TriMet's MAX",
+      "page": 322
+    },
+    {
+      "text": "Chronic congestion and limited intercity mobility options constrain Oregon's economic competitiveness",
+      "page": 321
+    },
+    {
+      "text": "High-speed rail attracts billions in private development around stations for commercial, industrial, and mixed-use projects",
+      "page": 322
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "$55 million",
+      "10 million people",
+      "$355 billion",
+      "38,000 jobs",
+      "200,000 jobs"
+    ],
+    "ftes": [
+      "May 12, 2026"
+    ],
+    "programs": [
+      "Cascadia high-speed rail",
+      "Cascadia corridor",
+      "Amtrak passenger rail",
+      "TriMet's MAX"
+    ],
+    "bureaus": [
+      "Oregon Prosperity Council",
+      "City of Portland",
+      "Portland Metro Chamber",
+      "Washington State",
+      "British Columbia"
+    ]
+  },
+  "confidence": "high"
+}

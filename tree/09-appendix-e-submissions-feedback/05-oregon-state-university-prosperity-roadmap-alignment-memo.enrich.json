@@ -1,0 +1,109 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "09-appendix-e-submissions-feedback/05-oregon-state-university-prosperity-roadmap-alignment-memo",
+  "breadcrumb": [
+    "Appendix E: Submissions & Feedback",
+    "05. Oregon State University — Prosperity Roadmap Alignment Memo"
+  ],
+  "pageRange": [
+    123,
+    126
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:04:56.519Z",
+  "tldr": "Oregon State University President Jayathi Murthy advocates leveraging OSU as a strategic partner in implementing the Prosperity Roadmap. OSU, which generated $3.5 billion in economic impact and supported 22,141 jobs in FY2024, offers capabilities in workforce development, research-to-company formation (200+ startups since 2013 with ~$2B invested), sector strategies, regulatory analysis, and rural prosperity through statewide Extension Service. The memo emphasizes existing state-university partnership programs (UIRF, Oregon Metals Initiative, State Programs) should be recognized as part of Oregon's economic development system.",
+  "bullets": [
+    {
+      "text": "In FY2024, OSU generated $3.5 billion in statewide economic impact and supported 22,141 jobs.",
+      "page": 123
+    },
+    {
+      "text": "OSU operates programs in all 36 Oregon counties through the OSU Statewides.",
+      "page": 123
+    },
+    {
+      "text": "OSU is the first U.S. university to offer both M.S. and Ph.D. degrees in AI.",
+      "page": 124
+    },
+    {
+      "text": "OSU is the #3 producer of engineering-based computer science bachelor's degrees nationally.",
+      "page": 124
+    },
+    {
+      "text": "OSU Ecampus is ranked sixth nationally for online education.",
+      "page": 124
+    },
+    {
+      "text": "OSU has 134,592 living alumni working in Oregon, generating an estimated $258.5 billion in lifetime economic impact and supporting approximately 1.4 million jobs statewide.",
+      "page": 124
+    },
+    {
+      "text": "Since 2013, OSU has generated nearly 200 startups that have attracted close to $2 billion in capital investment.",
+      "page": 124
+    },
+    {
+      "text": "OSU spinouts include Inpria (acquired for $514M), Agility Robotics (over $550M raised), and NuScale Power (valued at $2B+).",
+      "page": 124
+    },
+    {
+      "text": "OSU Extension programs reach approximately 90,000 youth annually through 4-H, supported by more than 8,000 volunteers and over 600 employees.",
+      "page": 126
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "$3.5 billion",
+      "22,141 jobs",
+      "$258.5 billion",
+      "1.4 million jobs",
+      "$514M",
+      "$550M",
+      "$2B+",
+      "close to $2 billion",
+      "more than 238,000 alumni",
+      "134,592 living and working in Oregon",
+      "90,000 youth annually",
+      "more than 8,000 volunteers",
+      "over 600 employees",
+      "#3 producer",
+      "sixth nationally"
+    ],
+    "ftes": [
+      "January 30, 2026",
+      "FY2024",
+      "2013"
+    ],
+    "programs": [
+      "Prosperity Roadmap",
+      "Oregon Economic Development Strategy Framework",
+      "Prosperity Widely Shared",
+      "University Innovation Research Fund (UIRF)",
+      "University Development Venture Fund",
+      "Oregon Metals Initiative",
+      "State Programs",
+      "Tallwood Design Center",
+      "Fermentation Lab",
+      "Engineering Technical Sustaining Fund",
+      "FAST",
+      "CorMic EDA Tech Hub",
+      "OSU Statewides",
+      "OSU Extension Service",
+      "OSU Ecampus"
+    ],
+    "bureaus": [
+      "President Jayathi Murthy",
+      "Governor Tina Kotek",
+      "Office of Governor Tina Kotek",
+      "Oregon State University",
+      "Business Oregon",
+      "Oregon Prosperity Council",
+      "Higher Education Coordinating Commission",
+      "NSF",
+      "EDA"
+    ]
+  },
+  "confidence": "high"
+}

@@ -1,0 +1,81 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "04-full-report/chapter-5-talent-development/priority-recommendations",
+  "breadcrumb": [
+    "Full Report",
+    "Chapter 5: Talent Development",
+    "Priority Recommendations"
+  ],
+  "pageRange": [
+    30,
+    31
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T02:02:20.118Z",
+  "tldr": "The Talent Development chapter recommends establishing a Cabinet of Economic & Talent Development to align state agencies and implement a statewide Talent Alignment Strategy with measurable goals: making Oregon top 10 in math and reading, expanding STEM/AI programs, career-connected learning, apprenticeships, and dual credits. Second, modernize higher education funding to match West Coast states and support competitiveness in high-demand fields (AI, biotech, semiconductors, clean energy), with $20M per biennium for the University Innovation Research Fund. Both emphasize coordinated talent pipelines.",
+  "bullets": [
+    {
+      "text": "Governor should establish a Cabinet of Economic & Talent Development with authority to align state agencies around measurable economic, education, and workforce outcomes",
+      "page": 30
+    },
+    {
+      "text": "Cabinet should implement a statewide Talent Alignment Strategy aligned to K-12, community college, university, and workforce development systems",
+      "page": 30
+    },
+    {
+      "text": "Make Oregon a top 10 state in math and reading proficiency",
+      "page": 30
+    },
+    {
+      "text": "Significantly expand STEM, AI, CTE, retraining, upskilling, career-connected learning, apprenticeships, bridge programs, dual credits, and industry partnerships",
+      "page": 30
+    },
+    {
+      "text": "University Innovation Research Fund (UIRF) should receive ongoing funding of $20 million per biennium to leverage federal research and innovation investments",
+      "page": 30
+    },
+    {
+      "text": "Modernize higher education funding structures to support industry partnerships, applied research, and technology commercialization in AI, biotechnology, semiconductors, advanced manufacturing, and clean energy",
+      "page": 30
+    },
+    {
+      "text": "Cabinet should propose legislation requiring adoption of proven best practices and explore policy levers including preemption for consistent statewide implementation",
+      "page": 30
+    },
+    {
+      "text": "Build on emerging sector-based workforce consortia and align education and training with industry demand",
+      "page": 30
+    },
+    {
+      "text": "National Talent Strategy from Bipartisan Policy Center calls for coordinated, data-driven approach aligning education, workforce, and industry systems",
+      "page": 31
+    },
+    {
+      "text": "Florida 2030 Blueprint demonstrates aligning education and workforce strategies with economic development by identifying high-demand occupations and connecting K-12, postsecondary, and workforce systems",
+      "page": 31
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "$20 million per biennium"
+    ],
+    "ftes": [],
+    "programs": [
+      "Cabinet of Economic & Talent Development",
+      "Talent Alignment Strategy",
+      "Oregon Talent Assessment",
+      "University Innovation Research Fund (UIRF)",
+      "National Talent Strategy",
+      "Florida 2030 Blueprint"
+    ],
+    "bureaus": [
+      "Governor",
+      "Bipartisan Policy Center",
+      "Legislature"
+    ]
+  },
+  "confidence": "high"
+}

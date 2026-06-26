@@ -1,0 +1,108 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "09-appendix-e-submissions-feedback/24-oregon-business-industry-policy-recommendations-memo",
+  "breadcrumb": [
+    "Appendix E: Submissions & Feedback",
+    "24. Oregon Business & Industry — Policy Recommendations Memo"
+  ],
+  "pageRange": [
+    258,
+    262
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:07:15.458Z",
+  "tldr": "Oregon Business & Industry (OBI) submitted policy recommendations to strengthen Oregon's business climate and restore competitiveness. OBI advocates modernizing regulations (targeting 20% reduction by 2030), avoiding policy outliers, reducing business costs through tax reform (especially CAT modernization), establishing a regulatory 'yes' culture, creating a consolidated Department of Commerce, prioritizing economic development, and implementing sustainable budgeting tied to economic growth. They emphasize that deep systemic problems require executive, legislative, and programmatic action.",
+  "bullets": [
+    {
+      "text": "Replace Oregon's Climate Protection Program with a market-based program linked to other states, investing revenue in prioritized GHG reduction policies while avoiding duplicative regulation",
+      "page": 259
+    },
+    {
+      "text": "Redesign Recycling Modernization Act to ensure constitutional compliance, cost transparency to regulated entities and consumers, and alignment with other programs",
+      "page": 259
+    },
+    {
+      "text": "Review and modernize Oregon's unique 50+ year old land use system, with recommendations to Legislature by 2029 session; include attention to industrial, housing, energy needs, appeals process, UGB flexibility, and updated goals",
+      "page": 259
+    },
+    {
+      "text": "Modernize Corporate Activity Tax (CAT) by increasing threshold, indexing to inflation, lowering rate, and increasing deductibility to minimize compounding effects on manufacturers and consumers",
+      "page": 259
+    },
+    {
+      "text": "Set target to reduce regulations in Oregon by 20% by 2030 and create mechanism to ensure continued streamlining",
+      "page": 260
+    },
+    {
+      "text": "Establish legislative committee (modeled on Washington's Joint Administrative Rules Review Committee) to review proposed, sunsetting, and existing agency rules for alignment with legislative intent and outcomes",
+      "page": 260
+    },
+    {
+      "text": "Improve Oregon's occupational licensing requirements (identified as nation's most onerous) to better align with national norms",
+      "page": 261
+    },
+    {
+      "text": "Create Department of Commerce to provide overarching consolidated structure for business development functions currently split across multiple agencies and improve collaboration and consistency",
+      "page": 261
+    },
+    {
+      "text": "Establish statewide energy strategy balancing generation, storage, and transmission with focus on affordability and reliability; develop wildfire resiliency strategy for healthier, productive forests",
+      "page": 262
+    },
+    {
+      "text": "Restore Lottery funds for economic development (currently at 25% from prior 100%), invest in Strategic Investment Fund at competitive levels, and establish permanent tax credits (R&D, capital equipment, job credits) and permanent Enterprise Zone and Opportunity Zone policies",
+      "page": 262
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "20%",
+      "25%",
+      "100%",
+      "50+ years"
+    ],
+    "ftes": [
+      "April 2, 2026",
+      "2029",
+      "2030"
+    ],
+    "programs": [
+      "Climate Protection Program",
+      "Recycling Modernization Act",
+      "Corporate Activity Tax (CAT)",
+      "Universal Health Plan",
+      "prevailing wage laws",
+      "Health Care Cost Growth Target program",
+      "Cleaner Air Oregon (CAO)",
+      "Department of Commerce",
+      "Enterprise Zone",
+      "Opportunity Zones",
+      "Lottery funds",
+      "Strategic Investment Fund",
+      "R&D tax credit",
+      "capital equipment credits",
+      "job tax credit",
+      "section 199A",
+      "section 168",
+      "section 1202",
+      "state and local tax (SALT) federal cap workaround",
+      "Oregon Competitiveness Agenda",
+      "Oregon Scorecard"
+    ],
+    "bureaus": [
+      "Oregon Business & Industry",
+      "Governor Kotek",
+      "Oregon Legislature",
+      "Attorney General Rayfield",
+      "Department of Revenue",
+      "Bureau of Labor and Industries",
+      "Oregon OSHA",
+      "Washington",
+      "EPA"
+    ]
+  },
+  "confidence": "high"
+}

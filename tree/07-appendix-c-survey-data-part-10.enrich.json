@@ -1,0 +1,117 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "07-appendix-c-survey-data",
+  "breadcrumb": [
+    "Appendix C: Survey Data"
+  ],
+  "pageRange": [
+    64,
+    64
+  ],
+  "chunkIndex": 9,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:01:20.002Z",
+  "tldr": "Page 64 presents survey responses from individual Oregonians and organizations on state competitiveness priorities. Dominant themes include: SB 1507's disconnection from federal QSBS tax incentives (criticized as damaging startup investment and founder retention), concerns about the Oregon Climate Protection Program's costs on utilities and workers, regulatory and permitting delays, tax system complexity, and housing affordability. Respondents advocate for federal tax conformity, reduced regulatory burden, balanced growth policies, affordable housing investment, and education/workforce development funding. Comparisons to Washington, Texas, Colorado, and other states appear frequently as respondents seek to understand why Oregon is losing businesses and talent.",
+  "bullets": [
+    {
+      "text": "Michael Ulin (Whimsey Inc., AI venture studio in Bend) states SB 1507's disconnection from federal QSBS is 'the single most damaging business climate decision made this session,' causing ~$1M additional tax on $10M exits and driving venture capital to other states.",
+      "page": 64
+    },
+    {
+      "text": "Greater Portland Inc. calls for immediate CPP moratorium, reconnection to federal Section 168(k) depreciation rules effective 2026 tax year, personal income tax rates below 7.75% before 2039 fiscal cliff, and minimum $100 million in low-interest loans for site-readiness.",
+      "page": 64
+    },
+    {
+      "text": "Christina Cook (natural gas industry) requests repeal of Oregon Climate Protection Program due to rising compliance costs forcing business cuts and job losses for union workers in utilities sector.",
+      "page": 64
+    },
+    {
+      "text": "Multiple respondents (Gregory Price, Toby Roberts, Kevin Richards) advocate overturning SB 1507 to prevent founder/investor migration and protect local startup investment and job creation.",
+      "page": 64
+    },
+    {
+      "text": "Alan Prouty (Simplot Company, 500-1000 employees) urges Oregon to eliminate CPP and NOT decouple from federal tax code, noting rolling federal conformity is 'one of the best tax policies of Northwestern states.'",
+      "page": 64
+    },
+    {
+      "text": "Sarah Smith and Madelyn Elder advocate for no urban growth boundary expansion and preservation of forest/agricultural land; Elder requests developers pay all infrastructure costs if UGB expands.",
+      "page": 64
+    },
+    {
+      "text": "Sophie Els (Oregon Climate and Agriculture Network) reports local food producers generate more than twice the jobs per $1M compared to non-local producers and retain $0.48 per dollar locally.",
+      "page": 64
+    },
+    {
+      "text": "Kate Giambrone (Bologna Sandwich LLC) criticizes implementation failures, noting voter-approved policies like preschool for all and metro housing languish without accountability or urgency.",
+      "page": 64
+    },
+    {
+      "text": "Greater Portland Inc. requests permanent inventory of 'dirt-ready' industrial sites fully permitted and utility-accessible, modernized UGB rules, and fundamental rewrite of 50-year-old land-use laws (SB 100).",
+      "page": 64
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "9.9%",
+      "$10M",
+      "$1M",
+      "$78M",
+      "$28M+",
+      "twice the jobs per $1M",
+      "$0.48 per dollar",
+      "$100 million",
+      "1,000,000 tons/year"
+    ],
+    "ftes": [
+      "2026",
+      "2–3 years",
+      "2039 fiscal cliff",
+      "2025"
+    ],
+    "programs": [
+      "SB 1507",
+      "QSBS",
+      "IRC Section 1202",
+      "PTET",
+      "SB 1510",
+      "One Big Beautiful Bill Act",
+      "Oregon Climate Protection Program (CPP)",
+      "SB 916",
+      "Section 168(k)",
+      "Enterprise Zone",
+      "SB 100",
+      "Oregon Agricultural Heritage Program",
+      "Farmer Rancher Disaster Resilience Grants",
+      "High Impact Opportunity Program",
+      "Minnesota's Natural Gas Innovation Act",
+      "CAT",
+      "Steady State Economy Act",
+      "Natural Climate Solutions bill",
+      "Natural and Working Lands Fund"
+    ],
+    "bureaus": [
+      "Michael Ulin",
+      "Whimsey Inc.",
+      "WhimseyLabs",
+      "Christina Cook",
+      "South Coast Development Council",
+      "Greater Portland Inc",
+      "Bologna Sandwich LLC",
+      "Oregon Climate and Agriculture Network",
+      "RECS",
+      "McMinnville Economic Development Partnership",
+      "City of Bandon",
+      "Simplot Company",
+      "Business Oregon",
+      "Oregon Department of Environmental Quality",
+      "Oregon Bureau of Labor and Industries",
+      "Alan Prouty",
+      "Patty Herzog",
+      "ZestyAI",
+      "Paxton AI"
+    ]
+  },
+  "confidence": "high"
+}

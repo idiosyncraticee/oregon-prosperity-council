@@ -1,0 +1,23 @@
+Took a comprehensive approach to quantifying overall tax burden
+Included Excluded
+✗ Property tax — varies materially by locality and
+✓ Federal income tax (after Child Tax Credit)
+home value
+✓ FICA (employee share: 6.2% SS + 1.45% Medicare)
+✗ Selective excise (gasoline, alcohol, tobacco)
+✓ State personal income tax
+✗ Employer-paid federal payroll (FUTA, employer share of FICA)
+✓ Oregon kicker credit (weighted average 15%)
+✗ Unemployment insurance (employer experience-rated, varies)
+✓ State payroll taxes (Paid Leave, STT, PFML, Cares, SDI)
+✗ Employer health insurance contributions
+✓ State + local sales tax
+✗ Portland local income taxes (SHS, PFA)
+✓ Idaho grocery credit
+✗ TriMet payroll tax (Portland Metro only — statewide Oregon scope)
+✓ Oregon CAT pass-through (60% borne by consumers)
+✓ Washington B&O pass-through (analogous to CAT)
+Property taxes are not included because it is unclear that they meaningfully vary across states, they also vary within HHs in the
+same income range. For example, a HH on a low fixed income with wealth may own a high value home without a mortgage. For
+renter households, some high-income households choose to spend less than 30% of their income on rent, and lower income
+households are often severely cost burdened, spending more than 50% of their income on rent.

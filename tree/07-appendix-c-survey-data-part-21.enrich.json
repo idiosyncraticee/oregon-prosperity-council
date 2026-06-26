@@ -1,0 +1,156 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "07-appendix-c-survey-data",
+  "breadcrumb": [
+    "Appendix C: Survey Data"
+  ],
+  "pageRange": [
+    75,
+    75
+  ],
+  "chunkIndex": 20,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:02:35.701Z",
+  "tldr": "Page 75 presents survey responses from Oregon businesses, organizations, and individuals identifying key barriers to prosperity. Dominant concerns: excessive taxes (especially Climate Protection Plan at $129-132/ton—nation's highest); labor shortages and inadequate workforce development systems; unaffordable childcare crisis; permitting delays and regulatory burden; and competitive disadvantages versus neighboring states. Respondents advocate for corporate tax reform, CPP elimination or significant modification, affordable childcare infrastructure investment, streamlined regulations, and a more business-friendly policy environment.",
+  "bullets": [
+    {
+      "text": "Steve Deacon documents Oregon's 47th ranking for business-friendliness and Portland's 49th ranking for corporate taxation, attributing the rankings to decades of anti-business attitudes.",
+      "page": 75
+    },
+    {
+      "text": "Tony Moran provides carbon pricing comparison: Oregon CPP $129/ton versus Quebec $31.91, Connecticut/Washington $60.43, California/Delaware/etc. $20.05, and British Columbia $80.",
+      "page": 75
+    },
+    {
+      "text": "Ted Lehmann reports Oregon CPP at $132/Carbon Ton is the most expensive carbon tax globally; Canada cancelled their $80/ton program as unaffordable.",
+      "page": 75
+    },
+    {
+      "text": "Patrick Benavides (Tube Forgings) warns CPP failure would force 20-25% production workforce reduction via offshore sub-contracting of hot-formed manufacturing.",
+      "page": 75
+    },
+    {
+      "text": "Kristen Helton documents child care crisis: professionals underpaid/overworked, programs losing enrollment, families unable to afford care despite ERDC subsidies, system unsustainable.",
+      "page": 75
+    },
+    {
+      "text": "Kylie Nichols identifies theft and property crime as critical barriers to rural business viability; inadequate system accountability creates repeat-offender cycles.",
+      "page": 75
+    },
+    {
+      "text": "Staci Calkins highlights Oregon's low journeyman-to-apprentice ratio constraining workforce system, while neighboring Idaho and Washington maintain higher ratios.",
+      "page": 75
+    },
+    {
+      "text": "Jason Brandt (Oregon Restaurant & Lodging Association) notes $1 million CAT exemption from 2019 no longer reflects inflation, increasing tax burden on hospitality sector.",
+      "page": 75
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "47th",
+      "49th",
+      "$1 million",
+      "$129.00",
+      "$31.91",
+      "$60.43",
+      "$20.05",
+      "$80.00",
+      "$132/Carbon Ton",
+      "20% to 25%"
+    ],
+    "ftes": [
+      "2019",
+      "2026",
+      "2-3 years"
+    ],
+    "programs": [
+      "Climate Protection Plan",
+      "CPP",
+      "Corporate Activity Tax",
+      "CAT",
+      "Cap and Trade",
+      "Cap and Invest",
+      "Employment Related Day Care",
+      "ERDC",
+      "Project Labor Agreement",
+      "Paid Leave Oregon",
+      "Oregon Cultural Trust tax credit",
+      "ASPIRE at the HECC",
+      "Oregon Main Street Program",
+      "Innovation Hubs",
+      "Act 76",
+      "New Mexico Early Childhood Trust Fund",
+      "Tri-Share",
+      "SB 1599",
+      "Ag Overtime"
+    ],
+    "bureaus": [
+      "Steve Deacon",
+      "Nathaniel Palmer",
+      "Kylie Nichols",
+      "Jim Labbe",
+      "Martha Neustadt",
+      "Emily Hartlerode",
+      "Kristen Helton",
+      "Staci Calkins",
+      "Eric Durrin",
+      "Patrick Benavides",
+      "Jessika Scott",
+      "Tony Moran",
+      "Kyle Fessler",
+      "Ted Lehmann",
+      "Jason Brandt",
+      "Kathryn Williams",
+      "David Reid",
+      "Timothy Bishop",
+      "Dietrich Wieland",
+      "Karen Jacobson",
+      "Lawrence Atkinson",
+      "Deacon Development, LLC",
+      "ON 140 Feed & Seed Inc",
+      "Oregon Folklife Network",
+      "V4 Final, Inc",
+      "Quality Care Connections",
+      "Met-Tek, Inc",
+      "Bullseye Glass Company",
+      "Tube Forgings of America",
+      "Con-Vey and 7robotics",
+      "Freebridge Brewing",
+      "Oregon Restaurant & Lodging Association",
+      "NW Natural",
+      "Astoria Warrenton Area Chamber of Commerce",
+      "City of La Grande",
+      "Clatsop Community College",
+      "Instruction Construction",
+      "Business Oregon",
+      "Oregon Department of Agriculture",
+      "Governor",
+      "Oregon Legislature",
+      "DELC",
+      "BOLI",
+      "DEQ",
+      "Travel Oregon",
+      "OLCC",
+      "LWDB",
+      "University of Oregon",
+      "Lane County",
+      "Douglas County",
+      "Coos County",
+      "Washington",
+      "California",
+      "Idaho",
+      "Vermont",
+      "New Mexico",
+      "Texas",
+      "Mississippi",
+      "Quebec",
+      "British Columbia",
+      "Connecticut",
+      "Delaware"
+    ]
+  },
+  "confidence": "medium"
+}

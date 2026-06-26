@@ -1,0 +1,116 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "09-appendix-e-submissions-feedback/27-alice-dale-seiu-labor-consultant-robert-camarillo-oregon-",
+  "breadcrumb": [
+    "Appendix E: Submissions & Feedback",
+    "27. Alice Dale (SEIU Labor Consultant) & Robert Camarillo (Oregon State Building & Construction Trades Council)"
+  ],
+  "pageRange": [
+    276,
+    283
+  ],
+  "chunkIndex": 1,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:07:43.765Z",
+  "tldr": "SEIU Labor Consultant Alice Dale and Oregon State Building & Construction Trades Council leader Robert Camarillo submit a \"high road to prosperity\" strategy emphasizing education investment, childcare access, strong apprenticeships, and labor standards over tax cuts. They argue Oregon's net inbound business migration contradicts the \"exodus\" narrative, that 90% of tax incentives fail to influence location decisions, and propose conditional tax expenditures tied to apprenticeships and family wages. They advocate protecting the Corporate Activity Tax, focusing on per-capita income growth, and developing worker-centered AI policies.",
+  "bullets": [
+    {
+      "text": "Tech CEO testimony: underfunded schools and lack of quality public services cause talent loss to London, Austin, Berlin, and Helsinki; education and quality of life are top workforce attraction factors.",
+      "page": 276
+    },
+    {
+      "text": "Oregon has 35% gap between available childcare and potential need; average annual childcare cost is $15,000–$19,000 per child; universal Pre-K proposed to reduce family stress and support workforce participation.",
+      "page": 276
+    },
+    {
+      "text": "Union apprenticeship programs are as valuable as four-year degrees while allowing workers to \"earn while they learn\" and avoid student debt; should not weaken apprenticeship standards.",
+      "page": 277
+    },
+    {
+      "text": "No compelling evidence CAT or Portland supplemental income taxes undermine prosperity; CAT affects only 5% of businesses (26,569 CAT returns vs 519,579 total business returns in tax year 2022).",
+      "page": 278
+    },
+    {
+      "text": "Oregon ranks 11th nationally in net inbound business migration with 35 firms; contradicts exodus narrative; Bartik research shows 90% of tax incentives have no effect on firm location decisions.",
+      "page": 279
+    },
+    {
+      "text": "Proposes conditioning tax expenditures on recipient companies providing paid training, registered apprenticeships, family-sustaining wages, employer health insurance, and prioritizing Oregon hiring.",
+      "page": 282
+    },
+    {
+      "text": "Business climate rankings negatively correlate with wage levels and quality of life; states ranking high on CNBC often follow federal minimum wage of $7.25/hour; rankings misguide policy.",
+      "page": 282
+    },
+    {
+      "text": "Recommends setting per capita income growth and wage improvement targets, fully funding 40/40/20 education vision, and protecting CAT and income tax structure from cuts.",
+      "page": 283
+    },
+    {
+      "text": "Advocates AI policies with guardrails, transparency, and worker upskilling programs; notes 95% of workers in AI-impacted jobs lack union representation.",
+      "page": 278
+    },
+    {
+      "text": "Calls for independent Executive Branch analysis of tax expenditure effectiveness, while Legislature's Joint Committee on Tax Expenditures reviews one-third of expenditures annually on rotating basis.",
+      "page": 283
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "35%",
+      "$15,000-$19,000",
+      "two percent",
+      "519,579 tax returns",
+      "26,569 CAT returns",
+      "five percent",
+      "95%",
+      "90 percent",
+      "11th",
+      "35 firms",
+      "$7.25/hour"
+    ],
+    "ftes": [
+      "2022",
+      "late 1990s",
+      "February 3, 2026",
+      "six years"
+    ],
+    "programs": [
+      "Preschool for All",
+      "Kaiser Permanente Labor-Management Partnership",
+      "SEIU RISE Program",
+      "AFSCME-BOLI Behavioral Health Program",
+      "United We Heal",
+      "Oregon Prosperity Roadmap",
+      "Corporate Activity Tax",
+      "40/40/20 vision",
+      "Joint Committee on Tax Expenditures"
+    ],
+    "bureaus": [
+      "Alice Dale",
+      "Robert Camarillo",
+      "SEIU",
+      "Oregon State Building & Construction Trades Council",
+      "Nike",
+      "Kaiser Permanente",
+      "AFSCME",
+      "BOLI",
+      "Business Oregon",
+      "AFL-CIO",
+      "Tim Bartik",
+      "Paul O'Neill",
+      "Tektronix",
+      "Mark Modjeski",
+      "Bureau of Labor Statistics",
+      "UNI Global Union",
+      "Google",
+      "CNBC",
+      "Tax Foundation",
+      "Oregon Public Finance",
+      "Legislative Revenue Office"
+    ]
+  },
+  "confidence": "high"
+}

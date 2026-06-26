@@ -1,0 +1,41 @@
+burned up, Oregon can invest in the infrastructure and workforce needed to power cleaner vehicles with
+electricity increasingly produced, delivered, and managed through our regional grid. In fact, with smart policies
+to manage off-peak EV charging demand, electrification could put downward pressure on electricity rates
+by getting more use out of the current system and infrastructure, spreading costs, and minimizing the need for
+upgrades. This downward pressure applies to both passenger cars charged at home and medium- and
+heavy-duty zero-emission trucks charged at a depot. With continued development, such as vehicle-to-grid
+technologies that let you power your home from your EV, and continued utility ratemaking decisions on TE and
+microgrids, these benefits will likely only grow. [19][21][24][25][26][34][57][70]
+Grid and resilience investments, which are needed to support a clean energy future, including transportation
+electrification, reinforce the same economic case for economic growth. Oregon’s resilience and
+community-energy programs already connect clean electricity investments with local jobs and stronger
+communities. The broader economic returns are significant: Brattle estimates that each $1 billion of
+transmission investment supports about 13,000 FTE-years of employment and $2.4 billion in economic activity.
+Paired with transportation electrification, these investments help move Oregon away from volatile fossil fuel
+markets and toward a cleaner system built on local electricity, local infrastructure, and local workers.
+[25][26][19][34][35]
+2.6 - Solutions to freight delays that increase reliability and economic opportunity
+While a thorny issue, congestion management is a core transportation and economic issue. Put simply, for
+commuters and freight, time waiting in traffic is economic inefficiency. The natural response to congestion is
+often to pursue roadway expansions, on the logic that more lane miles will generate more throughput.
+Duranton and Turner’s seminal “fundamental law of road congestion” found that vehicle travel tends to rise
+roughly in proportion to major road expansion, and has been subsequently confirmed in multiple studies using
+real-world data. The OECD has similarly concluded that building new road capacity alone is not an efficient
+response to peak demand, and the United Kingdom’s transport evidence review says induced demand should
+be properly accounted for when evaluating projects. As the libertarian think tank Cato Institute’s The Political
+Economy of Congestion Pricing puts it, congestion pricing is economically sound because traffic is not free;
+drivers pay either in dollars or in wasted time. In a 2026 comparison of congestion-reduction strategies, the
+Victoria Transport Policy Institute found that roadway expansions are among the most expensive options
+available to planners, yet they generally achieve only short-term improvements in travel efficiency. However,
+conventional planning practices undervalue less costly, longer-lasting strategies like Transportation Demand
+Management (TDM) or improving space-efficient modes, and instead pursue expansion first in cases where
+other options would perform better at a lower cost. For Oregon’s businesses that rely on trucking and our
+highway system, the practical takeaway is clear: we need more cost-effective and durable solutions to
+congestion with the clear goal of a highway and road system that is more dependable, not just bigger.
+[13][14][15][16][17][68][49]
+If capacity is not a first-line treatment, then what is? While there are real political complications for Oregon,
+congestion pricing is one of the clearest evidence-backed congestion tools: London, Stockholm, and Singapore
+all saw meaningful congestion reductions after pricing, with a 20% to 30% decrease in cross-town commute
+times. Early New York City congestion pricing results point in the same direction, with the MTA reporting that
+traffic into Manhattan’s Congestion Relief Zone fell almost 7% after congestion pricing began and that traffic
+9

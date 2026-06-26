@@ -1,0 +1,98 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "09-appendix-e-submissions-feedback/19-energy-trust-of-oregon-survey-response-memo-chris-lyons",
+  "breadcrumb": [
+    "Appendix E: Submissions & Feedback",
+    "19. Energy Trust of Oregon — Survey Response Memo (Chris Lyons)"
+  ],
+  "pageRange": [
+    223,
+    227
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:06:14.481Z",
+  "tldr": "Energy Trust of Oregon, a nonprofit serving 2.4 million utility customers across Oregon and Southwest Washington, advocates for a state-led, funded clean energy workforce development strategy. They cite critical labor shortages in trades like electricians and HVAC specialists—exacerbated in rural areas—and call for state coordination with utilities, community colleges, and employers to scale training programs and ensure job placement. They highlight $12.7 billion in net economic benefits created since 2002 to demonstrate energy efficiency's contribution to Oregon's economic and decarbonization goals.",
+  "bullets": [
+    {
+      "text": "Energy Trust of Oregon serves 2.4 million customers of Portland General Electric, Pacific Power, NW Natural, Cascade Natural Gas, and Avista across Oregon and Southwest Washington.",
+      "page": 224
+    },
+    {
+      "text": "Labor shortage in energy efficiency and renewable energy work, particularly for electricians and HVAC specialists, limits project implementation and Energy Trust's ability to scale services.",
+      "page": 225
+    },
+    {
+      "text": "Apprenticeship bottleneck: requirement of one journeyman for every apprentice in carpentry and HVAC limits production of qualified workers.",
+      "page": 225
+    },
+    {
+      "text": "Rural areas face compounded challenges: lack of specialized workers, limited training access, higher project costs due to contractor travel, and limited training infrastructure.",
+      "page": 225
+    },
+    {
+      "text": "Proposes state-led, state-supported clean energy workforce development strategy with consistent, long-term funding for community college apprenticeship programs, especially in rural areas.",
+      "page": 226
+    },
+    {
+      "text": "Success in 2–3 years would include establishment of well-funded training programs across state including rural communities, with apprenticeship programs partnering with local businesses for employment placement.",
+      "page": 226
+    },
+    {
+      "text": "Legislature must secure sustainable, long-term funding; state agencies must coordinate with nonprofits, utilities, and community colleges; employers must partner with training providers and hire graduates.",
+      "page": 226
+    },
+    {
+      "text": "Since 2002, Energy Trust has created $12.7 billion in net economic benefits for Oregon, including $4.3 billion in wages, $699 million in small business income, and 93,600 full-time job equivalents.",
+      "page": 227
+    },
+    {
+      "text": "For every $1 invested in energy efficiency, utility customers saved nearly $2.72; customers have saved $8.5 billion on energy bills since 2002.",
+      "page": 227
+    },
+    {
+      "text": "Energy Trust's network includes more than 1,600 trade ally contractors and 145 allied businesses, employing about 17,500 people related to their work in Oregon and Washington.",
+      "page": 227
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "2.4 million customers",
+      "$2.72",
+      "$8.5 billion",
+      "$12.7 billion",
+      "$4.3 billion",
+      "$699 million",
+      "93,600 full-time jobs",
+      "17,500 people",
+      "1,600",
+      "145"
+    ],
+    "ftes": [
+      "March 25, 2026",
+      "March 20, 2026",
+      "November 2025",
+      "2002",
+      "2030"
+    ],
+    "programs": [
+      "Oregon Energy Strategy",
+      "Oregon Clean Energy Workforce Coalition (OCEWC)"
+    ],
+    "bureaus": [
+      "Energy Trust of Oregon",
+      "Governor Kotek",
+      "Portland General Electric",
+      "Pacific Power",
+      "NW Natural",
+      "Cascade Natural Gas",
+      "Avista",
+      "Prosperity Council",
+      "A-dec",
+      "Laika"
+    ]
+  },
+  "confidence": "high"
+}

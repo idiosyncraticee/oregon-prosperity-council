@@ -1,0 +1,87 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "09-appendix-e-submissions-feedback/12-lois-cho-cho-wines-governors-prosperity-council-member",
+  "breadcrumb": [
+    "Appendix E: Submissions & Feedback",
+    "12. Lois Cho, CHO Wines (Governor's Prosperity Council member)"
+  ],
+  "pageRange": [
+    173,
+    184
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:05:02.573Z",
+  "tldr": "Lois Cho, CEO of CHO Wines and Governor's Prosperity Council member, synthesizes stakeholder feedback from wine country, agriculture, and economic development leaders. She argues Oregon's economic challenges stem primarily from fragmentation and weak coordination across state agencies, universities, and regional partners—not lack of assets or programs. Her five main recommendations focus on better utilizing existing structures (Economic Development Organizations, universities, Regional Solutions Department) and improving coordination, transparency, and regulatory predictability. A recurring theme: Oregon needs stronger alignment and execution of existing initiatives, with particular emphasis on workforce development, land-use regulatory clarity, and statewide marketing coordination.",
+  "bullets": [
+    {
+      "text": "Stakeholder survey identified regulatory complexity, permitting challenges, marketing support needs, capital access, and workforce/housing affordability as primary concerns for wine and agricultural businesses.",
+      "page": 174
+    },
+    {
+      "text": "Structural fragmentation: Oregon operates many agencies and programs across economic development, tourism, and agriculture in parallel rather than in an integrated manner.",
+      "page": 175
+    },
+    {
+      "text": "Recommendation to utilize existing nonprofit EDOs (SEDCOR, EDCO, Greater Portland Inc., SOREDI) and their direct business relationships rather than creating parallel state structures.",
+      "page": 175
+    },
+    {
+      "text": "Regional Solutions Department was historically effective at resolving interagency conflicts but has shifted toward infrastructure projects, reducing its role in addressing regulatory bottlenecks.",
+      "page": 176
+    },
+    {
+      "text": "Oregon State University has generated nearly 200 startups since 2013 that attracted significant private investment, demonstrating research institutions' economic development potential.",
+      "page": 177
+    },
+    {
+      "text": "Land-use framework successfully preserves farmland but creates permitting delays and litigation risk for agritourism and rural hospitality businesses seeking revenue diversification.",
+      "page": 177
+    },
+    {
+      "text": "Workforce challenges include rising rural housing costs, seasonal labor availability, wage pressures, and uncertainty from immigration and labor policies.",
+      "page": 177
+    },
+    {
+      "text": "Five main recommendations: improve coordination via existing structures, increase outcome transparency, prioritize workforce and housing solutions, strengthen marketing alignment, and improve regulatory predictability.",
+      "page": 179
+    },
+    {
+      "text": "Core insight: Oregon's challenges are not due to lack of assets or talent, but to fragmentation, rising costs, and difficulty translating plans into coordinated action.",
+      "page": 180
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "nearly 200 startups"
+    ],
+    "ftes": [
+      "February 17, 2026",
+      "2013"
+    ],
+    "programs": [
+      "Rural Tax Exemption Program",
+      "Regional Innovation Hubs Program",
+      "House Bill 4153"
+    ],
+    "bureaus": [
+      "Lois Cho",
+      "CHO Wines",
+      "Governor's Prosperity Council",
+      "Oregon Wine Board",
+      "Willamette Valley Wineries Association",
+      "Oregon Winegrowers Association",
+      "Business Oregon",
+      "Oregon State University",
+      "Regional Solutions Department",
+      "SEDCOR",
+      "EDCO",
+      "Greater Portland Inc.",
+      "SOREDI",
+      "Abisha Romano"
+    ]
+  },
+  "confidence": "high"
+}

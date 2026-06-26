@@ -1,0 +1,63 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "09-appendix-e-submissions-feedback/08-pacific-power",
+  "breadcrumb": [
+    "Appendix E: Submissions & Feedback",
+    "08. Pacific Power"
+  ],
+  "pageRange": [
+    156,
+    158
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:04:23.110Z",
+  "tldr": "Pacific Power submits a framework for strategic planning and investment in electric energy infrastructure in Oregon. It proposes a Wildfire Fund with liability limitations and standards of care for wildfire mitigation, plus regulatory certainty mechanisms (interim rate adjustments, trackers, multi-year plans, pre-approvals) to reduce regulatory lag and enable capital investment while maintaining customer affordability and reliability protections.",
+  "bullets": [
+    {
+      "text": "Creation of a Wildfire Fund sourced from state governments, utilities (shareholders and customers), and private industry partners to compensate wildfire-impacted individuals and businesses and stabilize energy service.",
+      "page": 157
+    },
+    {
+      "text": "Implement limitations of liability relating to wildfires, including limitations on noneconomic damages, as the single most effective measure for supporting utilities and reducing costs borne by customers.",
+      "page": 157
+    },
+    {
+      "text": "Define standards of care by which a reasonable utility should operate to prevent wildfire, with rebuttable presumptions in court of law for utilities following approved wildfire mitigation plans.",
+      "page": 157
+    },
+    {
+      "text": "Apply limitations on attorney fees and subrogation claims related to wildfires to reduce overall costs for utilities and customers.",
+      "page": 157
+    },
+    {
+      "text": "Explore cost-recovery mechanisms including interim rate adjustments, trackers, true-up mechanisms, and multi-year plans to reduce regulatory lag and enable timely cost recovery.",
+      "page": 157
+    },
+    {
+      "text": "Evaluate pre-approvals and other regulatory processes to improve certainty for capital investments needed to deliver on state energy goals.",
+      "page": 158
+    },
+    {
+      "text": "Review customer protection guardrails (offramp protections) to ensure they function effectively against cost pressures while maintaining utility investment certainty.",
+      "page": 158
+    }
+  ],
+  "entities": {
+    "dollars": [],
+    "ftes": [],
+    "programs": [
+      "Wildfire Fund",
+      "Wildfire mitigation plans",
+      "Multi-year rate plans",
+      "Standards of Care",
+      "Pre-approvals"
+    ],
+    "bureaus": [
+      "Pacific Power"
+    ]
+  },
+  "confidence": "high"
+}

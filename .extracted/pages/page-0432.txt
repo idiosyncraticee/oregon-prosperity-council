@@ -1,0 +1,4 @@
+Federal taxes are a larger share than state/local across these HHs
+Federal taxes are a larger share of taxes than state/local at these income ranges, roughly 70% of HH1's
+burden, 65% of HH2's, 67% of HH3's, and 69% of HH4's is federal
+Source: ECONorthwest analysis of IRS, ODOR, FTB, ISTC, WA DOR/ESD, BLS CES (TY2025)

@@ -1,0 +1,76 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "09-appendix-e-submissions-feedback/16-oregon-business-council",
+  "breadcrumb": [
+    "Appendix E: Submissions & Feedback",
+    "16. Oregon Business Council"
+  ],
+  "pageRange": [
+    208,
+    211
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:05:48.770Z",
+  "tldr": "The Oregon Business Council submitted a letter warning that Oregon faces unprecedented population scarcity and economic stagnation. Natural population growth has turned negative, and the state is losing major industrial investments due to land constraints, regulatory complexity, and tax misalignment. The Council warns that traditional economic development tools are insufficient and proposes five structural reforms: institutionalizing a durable growth strategy with governance alignment, reforming land use systems, restoring tax competitiveness, modernizing regulations with measurable targets, and strengthening talent development and education outcomes.",
+  "bullets": [
+    {
+      "text": "Natural population growth has turned negative for the first time in modern history",
+      "page": 208
+    },
+    {
+      "text": "In May 2024, Greater Portland Inc. reported the region lost six clean-technology and advanced manufacturing prospects with approximately $5.6 billion in combined estimated capital investment",
+      "page": 209
+    },
+    {
+      "text": "Lack of large, shovel-ready sites cited as a decisive factor in choosing other locations for the lost major prospects",
+      "page": 209
+    },
+    {
+      "text": "Daimler Truck located planned battery-cell manufacturing facility in Mississippi rather than Portland region, citing speed-to-market and site readiness considerations",
+      "page": 210
+    },
+    {
+      "text": "Housing costs remain among highest relative to income in nation; despite sustained policy attention, production outcomes have not improved materially",
+      "page": 209
+    },
+    {
+      "text": "Public school performance ranks near the bottom nationally",
+      "page": 209
+    },
+    {
+      "text": "Recent legislative session reduced funding for industrial site readiness significantly from Governor's original proposal",
+      "page": 209
+    },
+    {
+      "text": "Five structural priorities proposed: institutionalize durable growth strategy, sharpen land use reforms, restore tax competitiveness, execute regulatory modernization, strengthen talent development",
+      "page": 210
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "$5.6 billion",
+      "six"
+    ],
+    "ftes": [
+      "May 2024",
+      "2027"
+    ],
+    "programs": [
+      "Moda Center",
+      "Corporate Activity Tax",
+      "UGB modernization",
+      "Prosperity Council",
+      "Oregon's Choice framework"
+    ],
+    "bureaus": [
+      "Oregon Business Council",
+      "Greater Portland Inc.",
+      "Governor's Prosperity Council",
+      "Daimler Truck"
+    ]
+  },
+  "confidence": "high"
+}

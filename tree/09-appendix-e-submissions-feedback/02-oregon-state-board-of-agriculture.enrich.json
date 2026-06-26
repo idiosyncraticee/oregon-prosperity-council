@@ -1,0 +1,72 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "09-appendix-e-submissions-feedback/02-oregon-state-board-of-agriculture",
+  "breadcrumb": [
+    "Appendix E: Submissions & Feedback",
+    "02. Oregon State Board of Agriculture"
+  ],
+  "pageRange": [
+    114,
+    115
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:03:28.112Z",
+  "tldr": "The Oregon State Board of Agriculture supports the Prosperity Roadmap and requests representation on the Council. Agriculture and Food & Beverage sectors support 531,000 jobs and generate $42 billion in annual economic impact but face rising labor costs and regulatory complexity. The Board argues these sectors should be included for economic stability, rural-urban integration, and land-use expertise.",
+  "bullets": [
+    {
+      "text": "Agriculture and Food & Beverage support 531,000 jobs and generate estimated $2.4 billion in exports with $42 billion annual economic impact to Oregon",
+      "page": 114
+    },
+    {
+      "text": "November 2025 OSU study found small pear growers pay up to $696 per acre in regulatory compliance costs, representing 6.6% of total revenue",
+      "page": 114
+    },
+    {
+      "text": "Orchardists report rising labor costs, complex regulatory frameworks, and regulatory disparities with neighboring states threatening sector viability",
+      "page": 114
+    },
+    {
+      "text": "State Board requests appointment of Agriculture and Food & Beverage representative to the Oregon Prosperity Council",
+      "page": 115
+    },
+    {
+      "text": "Agriculture provides a stabilizing traded sector that sustains communities through market shifts and economic downturns",
+      "page": 115
+    },
+    {
+      "text": "Agriculture uniquely connects rural production, urban processing, and global trade through Oregon's ports",
+      "page": 115
+    },
+    {
+      "text": "Agricultural community can help navigate land-use tensions while expanding economic opportunity and preserving sector viability",
+      "page": 115
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "531,000 jobs",
+      "$2.4 billion in exports",
+      "$42 billion economic impact",
+      "$696 per acre",
+      "6.6%"
+    ],
+    "ftes": [
+      "December 19, 2025",
+      "December 3, 2025",
+      "November 2025"
+    ],
+    "programs": [
+      "Prosperity Roadmap"
+    ],
+    "bureaus": [
+      "Oregon State Board of Agriculture",
+      "Oregon Department of Agriculture",
+      "Governor Tina Kotek",
+      "Oregon State University"
+    ]
+  },
+  "confidence": "high"
+}

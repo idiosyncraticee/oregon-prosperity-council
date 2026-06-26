@@ -1,0 +1,102 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "07-appendix-c-survey-data",
+  "breadcrumb": [
+    "Appendix C: Survey Data"
+  ],
+  "pageRange": [
+    79,
+    79
+  ],
+  "chunkIndex": 24,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:04:21.181Z",
+  "tldr": "Survey responses from Oregon residents, businesses, and organizations across sectors reveal widespread concerns about business competitiveness, with high taxes, regulations, and slow permitting processes cited as primary barriers. Respondents advocate for land use reform, infrastructure investment, workforce development, and equitable treatment of small businesses, while disagreeing on priorities like data center regulation, agricultural investment, and the value of CNBC business climate rankings.",
+  "bullets": [
+    {
+      "text": "Multiple respondents identify Oregon's high state income tax and CAT (Corporate Activity Tax) as primary drivers of business relocation to states like Texas, Arizona, Idaho, and Montana",
+      "page": 79
+    },
+    {
+      "text": "Permitting delays and bureaucratic complexity repeatedly cited; respondents request 30-90 day timelines, single points of contact for compliance information, and concurrent (not sequential) agency reviews",
+      "page": 79
+    },
+    {
+      "text": "Elena Barreto reports Oregon loses $1.4 billion annually due to insufficient childcare infrastructure, limiting workforce participation and job availability",
+      "page": 79
+    },
+    {
+      "text": "Land use system reform advocated as urgent; respondents seek expedited employment land availability and UGB expansion for job growth while protecting farmland and natural resources",
+      "page": 79
+    },
+    {
+      "text": "Small business owners and advocates emphasize need for equitable tax and incentive structures; criticism that state prioritizes mega-corporations over local businesses",
+      "page": 79
+    },
+    {
+      "text": "Rural economic development identified as underfunded and under-resourced; respondents request dedicated funding, rural staff capacity, and regional strategies that don't favor I-5 corridor",
+      "page": 79
+    },
+    {
+      "text": "Data center regulation contested: environmental concerns (electricity, water, pollution) weighed against employment and tax revenue arguments; Washington state agricultural infrastructure investment cited as alternative model",
+      "page": 79
+    },
+    {
+      "text": "Ann Stapleton and others critique CNBC business rankings as biased and unsuitable for Oregon; advocates replacing with Oregon-centric metrics reflecting local values and sustainability",
+      "page": 79
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "$1.4 billion a year",
+      "59.00%",
+      "74.4%",
+      "51.3%",
+      "77%",
+      "0.7%"
+    ],
+    "ftes": [
+      "2020-25",
+      "1980s",
+      "2026",
+      "10-15%",
+      "2.8%"
+    ],
+    "programs": [
+      "CAT",
+      "SB 100",
+      "SB 1537",
+      "SB 1586",
+      "SB 35",
+      "Prosperity Council",
+      "Business Oregon",
+      "Energy Trust",
+      "RSIS",
+      "DLCD",
+      "ODFW",
+      "Main Street America",
+      "Regional Strategies",
+      "CORI"
+    ],
+    "bureaus": [
+      "Governor Kotek",
+      "Oregon Legislature",
+      "Department of Land Conservation and Development (DLCD)",
+      "Oregon Department of Fish and Wildlife (ODFW)",
+      "OBI (Oregon Business & Industry)",
+      "Port of Portland",
+      "City of Molalla",
+      "City of Hillsboro",
+      "Sandy Area Chamber of Commerce",
+      "St. Charles Health System",
+      "Rice NW Museum of Rocks and Minerals",
+      "Oregon State Police",
+      "NAEYC",
+      "SBDC",
+      "CORI"
+    ]
+  },
+  "confidence": "medium"
+}

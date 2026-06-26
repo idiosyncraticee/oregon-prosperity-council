@@ -1,0 +1,85 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "09-appendix-e-submissions-feedback/28-microsoft-corporation-hana-doubrava-director-cascadia",
+  "breadcrumb": [
+    "Appendix E: Submissions & Feedback",
+    "28. Microsoft Corporation (Hana Doubrava, Director, Cascadia)"
+  ],
+  "pageRange": [
+    284,
+    286
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:07:01.455Z",
+  "tldr": "Microsoft Corporation expresses strong support for the Oregon Prosperity Roadmap and proposes four recommendations for integrating AI: accelerating research through shared infrastructure and Microsoft Discovery; supporting AI literacy in K-12 schools and teacher professional development; establishing a labor market data dashboard using LinkedIn Economic Graph; and enabling workforce boards and community colleges to deliver AI training with wraparound supports. Microsoft offers specific programs and partnerships to implement each recommendation.",
+  "bullets": [
+    {
+      "text": "Recommendation 1: Create shared research infrastructure (secure cloud computing, governed data access, common AI tools) for universities, startups, and industry, focusing on Oregon priority sectors including semiconductors, clean energy, forestry, health, and advanced manufacturing.",
+      "page": 285
+    },
+    {
+      "text": "Microsoft Discovery is an enterprise AI platform on Azure designed to accelerate research and development across materials science, energy, manufacturing, and life sciences for universities and industry partners.",
+      "page": 285
+    },
+    {
+      "text": "The AI Economy Institute (AIEI), a Microsoft Research initiative, produces evidence-based research on AI's impact on jobs, skills, productivity, and education systems to inform policymakers and workforce leaders.",
+      "page": 285
+    },
+    {
+      "text": "Recommendation 2: Embed age-appropriate AI literacy into K-12 standards and curriculum, with sustained teacher professional development; cites Idaho's statewide AI literacy standards for K-12 as a replicable model.",
+      "page": 285
+    },
+    {
+      "text": "Elevate for Educators provides free, on-demand professional learning to help teachers integrate AI into classrooms for saving time, instructional planning, student engagement, and building confidence with emerging technologies.",
+      "page": 285
+    },
+    {
+      "text": "Recommendation 3: Establish a shared statewide dashboard blending traditional employment measures (employment, wages, openings) with real-time signals on in-demand skills and hiring trends across regions and industries.",
+      "page": 286
+    },
+    {
+      "text": "LinkedIn Economic Graph can provide labor market data on in-demand skills, emerging occupations, and workforce trends to inform education planning, workforce investment, and economic development strategies.",
+      "page": 286
+    },
+    {
+      "text": "Recommendation 4: Enable workforce boards and community colleges to deliver AI training aligned to local demand, with wraparound supports including career navigation, childcare, and transportation assistance.",
+      "page": 286
+    },
+    {
+      "text": "Microsoft Elevate, developed in partnership with the National Association of Workforce Boards (NAWB), supports workforce boards and American Job Centers with AI and digital skills training.",
+      "page": 286
+    }
+  ],
+  "entities": {
+    "dollars": [],
+    "ftes": [
+      "April 17, 2026"
+    ],
+    "programs": [
+      "Oregon Prosperity Roadmap",
+      "Microsoft Discovery",
+      "AI Economy Institute",
+      "Elevate for Educators",
+      "LinkedIn Economic Graph",
+      "Microsoft Elevate",
+      "Code.org",
+      "Teach AI"
+    ],
+    "bureaus": [
+      "Microsoft Corporation",
+      "Hana Doubrava",
+      "Renée James",
+      "Curtis Robinhold",
+      "Emerald Bogue",
+      "Harry Clapsis",
+      "National Association of Workforce Boards",
+      "American Association of Community Colleges",
+      "Port of Portland",
+      "Ampere Computing"
+    ]
+  },
+  "confidence": "high"
+}

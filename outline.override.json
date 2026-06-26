@@ -1,0 +1,686 @@
+[
+  {
+    "title": "Cover & Acknowledgments",
+    "page": 1,
+    "children": []
+  },
+  {
+    "title": "Table of Contents",
+    "page": 3,
+    "children": []
+  },
+  {
+    "title": "Executive Summary",
+    "page": 4,
+    "children": []
+  },
+  {
+    "title": "Full Report",
+    "page": 9,
+    "children": [
+      {
+        "title": "Introduction: Pillars of Prosperity",
+        "page": 9,
+        "children": []
+      },
+      {
+        "title": "Chapter 1: Statewide Economic Development Strategy & Structural Reform",
+        "page": 13,
+        "children": [],
+        "subsections": [
+          {
+            "title": "Background & Problem Statement",
+            "heading": "Background and Problem Statement"
+          },
+          {
+            "title": "Summary of Stakeholder Feedback",
+            "heading": "Summary of Stakeholder Feedback"
+          },
+          {
+            "title": "Shared Vision",
+            "heading": "Shared Vision"
+          },
+          {
+            "title": "Additional Recommendations",
+            "heading": "Additional Recommendations"
+          }
+        ]
+      },
+      {
+        "title": "Chapter 2: Taxes",
+        "page": 16,
+        "children": [],
+        "subsections": [
+          {
+            "title": "Background & Problem Statement",
+            "heading": "Background and Problem Statement"
+          },
+          {
+            "title": "Summary of Stakeholder Feedback",
+            "heading": "Summary of Stakeholder Feedback"
+          },
+          {
+            "title": "Shared Vision",
+            "heading": "Shared Vision"
+          },
+          {
+            "title": "Priority Recommendations",
+            "heading": "Priority Recommendations"
+          }
+        ]
+      },
+      {
+        "title": "Chapter 3: Permitting & Regulations",
+        "page": 21,
+        "children": [],
+        "subsections": [
+          {
+            "title": "Background & Problem Statement",
+            "heading": "Background and Problem Statement"
+          },
+          {
+            "title": "Summary of Stakeholder Feedback",
+            "heading": "Summary of Stakeholder Feedback"
+          },
+          {
+            "title": "Shared Vision",
+            "heading": "Shared Vision"
+          },
+          {
+            "title": "Priority Recommendations",
+            "heading": "Priority Recommendations"
+          },
+          {
+            "title": "Additional Recommendations",
+            "heading": "Additional Recommendations"
+          }
+        ]
+      },
+      {
+        "title": "Chapter 4: Site Readiness & Infrastructure",
+        "page": 25,
+        "children": [],
+        "subsections": [
+          {
+            "title": "Background & Problem Statement",
+            "heading": "Background and Problem Statement"
+          },
+          {
+            "title": "Summary of Stakeholder Feedback",
+            "heading": "Summary of Stakeholder Feedback"
+          },
+          {
+            "title": "Shared Vision",
+            "heading": "Shared Vision"
+          },
+          {
+            "title": "Priority Recommendations",
+            "heading": "Priority Recommendations"
+          },
+          {
+            "title": "Additional Recommendations",
+            "heading": "Additional Recommendations"
+          }
+        ]
+      },
+      {
+        "title": "Chapter 5: Talent Development",
+        "page": 28,
+        "children": [],
+        "subsections": [
+          {
+            "title": "Background & Problem Statement",
+            "heading": "Background and Problem Statement"
+          },
+          {
+            "title": "Summary of Stakeholder Feedback",
+            "heading": "Summary of Stakeholder Feedback"
+          },
+          {
+            "title": "Shared Vision",
+            "heading": "Shared Vision"
+          },
+          {
+            "title": "Priority Recommendations",
+            "heading": "Priority Recommendations"
+          },
+          {
+            "title": "Additional Recommendations",
+            "heading": "Additional Recommendations"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Appendix A: Prosperity Council Engagement Report",
+    "page": 34,
+    "children": []
+  },
+  {
+    "title": "Appendix B: Prosperity Council Survey Questions",
+    "page": 51,
+    "children": []
+  },
+  {
+    "title": "Appendix C: Survey Data",
+    "page": 55,
+    "children": []
+  },
+  {
+    "title": "Appendix D: Listening Session Facilitators' Guide",
+    "page": 86,
+    "children": []
+  },
+  {
+    "title": "Appendix E: Submissions & Feedback",
+    "page": 92,
+    "children": [
+      {
+        "title": "Submissions & Feedback — Contents",
+        "page": 93,
+        "children": []
+      },
+      {
+        "title": "01. University of Oregon Institute for Policy Research & Engagement",
+        "page": 95,
+        "children": []
+      },
+      {
+        "title": "02. Oregon State Board of Agriculture",
+        "page": 114,
+        "children": []
+      },
+      {
+        "title": "03. Oregon Workforce Partnership",
+        "page": 116,
+        "children": []
+      },
+      {
+        "title": "04. NXTClean Fuels (Governor Tina Kotek support letter)",
+        "page": 121,
+        "children": []
+      },
+      {
+        "title": "05. Oregon State University — Prosperity Roadmap Alignment Memo",
+        "page": 123,
+        "children": []
+      },
+      {
+        "title": "06. Oregon Business & Industry — Cover Letter (DHM Voter Survey)",
+        "page": 127,
+        "children": []
+      },
+      {
+        "title": "07. DHM Research — 2026 Legislative Voter Survey (for OBI)",
+        "page": 128,
+        "children": []
+      },
+      {
+        "title": "08. Pacific Power",
+        "page": 156,
+        "children": []
+      },
+      {
+        "title": "09. Westside Economic Alliance (Industrial Land Readiness Workgroup)",
+        "page": 159,
+        "children": []
+      },
+      {
+        "title": "10. Lois Neistat (Individual / Concerned Oregonians)",
+        "page": 165,
+        "children": []
+      },
+      {
+        "title": "11. SEDCOR (email forwarded by Lois Cho, CHO Wines)",
+        "page": 171,
+        "children": []
+      },
+      {
+        "title": "12. Lois Cho, CHO Wines (Governor's Prosperity Council member)",
+        "page": 173,
+        "children": []
+      },
+      {
+        "title": "13. Portland Metro Chamber — 2026 State Legislative Action Plan",
+        "page": 185,
+        "children": []
+      },
+      {
+        "title": "14. Portland Metro Chamber — 2026 Regional Policy Agenda",
+        "page": 192,
+        "children": []
+      },
+      {
+        "title": "15. Alice Dale (SEIU Labor Consultant)",
+        "page": 205,
+        "children": []
+      },
+      {
+        "title": "16. Oregon Business Council",
+        "page": 208,
+        "children": []
+      },
+      {
+        "title": "17. Portland Seed Fund",
+        "page": 212,
+        "children": []
+      },
+      {
+        "title": "18. Oregon Tech Entrepreneurs & Investors",
+        "page": 215,
+        "children": []
+      },
+      {
+        "title": "19. Energy Trust of Oregon — Survey Response Memo (Chris Lyons)",
+        "page": 223,
+        "children": []
+      },
+      {
+        "title": "20. Clean and Resilient Economy Contributors",
+        "page": 228,
+        "children": []
+      },
+      {
+        "title": "21. Portland Metro Chamber — Tax Reform & Regional Economy Letter",
+        "page": 241,
+        "children": []
+      },
+      {
+        "title": "22. Tillamook County Creamery Association",
+        "page": 245,
+        "children": []
+      },
+      {
+        "title": "23. Jordan Papé, CEO, The Papé Group (Individual, Eugene)",
+        "page": 254,
+        "children": []
+      },
+      {
+        "title": "24. Oregon Business & Industry — Policy Recommendations Memo",
+        "page": 258,
+        "children": []
+      },
+      {
+        "title": "25. Jacqueline Danos (Individual, Yachats, Oregon)",
+        "page": 263,
+        "children": []
+      },
+      {
+        "title": "26. Central Oregon LandWatch (Ben Gordon, Executive Director)",
+        "page": 265,
+        "children": []
+      },
+      {
+        "title": "27. Alice Dale (SEIU Labor Consultant) & Robert Camarillo (Oregon State Building & Construction Trades Council)",
+        "page": 267,
+        "children": []
+      },
+      {
+        "title": "28. Microsoft Corporation (Hana Doubrava, Director, Cascadia)",
+        "page": 284,
+        "children": []
+      },
+      {
+        "title": "29. Energy Trust of Oregon — Survey Form Response",
+        "page": 287,
+        "children": []
+      },
+      {
+        "title": "30. Coalition of Oregon Employer and Business Associations (Oregon Employer Coalition)",
+        "page": 292,
+        "children": []
+      },
+      {
+        "title": "31. Move Oregon Forward — Cover Letter",
+        "page": 295,
+        "children": []
+      },
+      {
+        "title": "32. Move Oregon Forward — Report",
+        "page": 296,
+        "children": []
+      },
+      {
+        "title": "33. Oregon Association of Nurseries",
+        "page": 313,
+        "children": []
+      },
+      {
+        "title": "34. Keith Wilson (Mayor, City of Portland) & Andrew Hoan (Portland Metro Chamber) — Cascadia High-Speed Rail advocates",
+        "page": 321,
+        "children": []
+      },
+      {
+        "title": "35. Oregon Forest Industries Council",
+        "page": 323,
+        "children": []
+      },
+      {
+        "title": "36. Oregon Winegrowers Association",
+        "page": 332,
+        "children": []
+      },
+      {
+        "title": "37. Oregon Public University Presidents",
+        "page": 336,
+        "children": []
+      },
+      {
+        "title": "38. Oregon State University — President Murthy Email",
+        "page": 339,
+        "children": []
+      },
+      {
+        "title": "39. Oregon Public Universities",
+        "page": 341,
+        "children": []
+      },
+      {
+        "title": "40. The Pew Charitable Trusts (U.S. Conservation project, Brett Swift)",
+        "page": 358,
+        "children": []
+      },
+      {
+        "title": "41. Our Oregon (coalition of ~31 labor/community organizations and individuals, incl. SEIU Oregon, Oregon Labor Federation, OCPP)",
+        "page": 365,
+        "children": []
+      },
+      {
+        "title": "42. Oregon Semiconductor Industry Coalition",
+        "page": 369,
+        "children": []
+      },
+      {
+        "title": "43. Oregon Farm Bureau (Angela Bailey, President)",
+        "page": 372,
+        "children": []
+      },
+      {
+        "title": "44. Oregon Trails Coalition (Steph Noll)",
+        "page": 380,
+        "children": []
+      },
+      {
+        "title": "45. Building Resilience Coalition",
+        "page": 383,
+        "children": []
+      },
+      {
+        "title": "46. Wild Salmon Center",
+        "page": 393,
+        "children": []
+      },
+      {
+        "title": "47. Tax Fairness Oregon",
+        "page": 397,
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Appendix F: Technical Report — Data & Research",
+    "page": 400,
+    "children": [
+      {
+        "title": "Section 1: Economic Competitiveness",
+        "page": 402,
+        "children": [
+          {
+            "title": "Slide 3: National context informing Oregon’s economic crisis",
+            "page": 403,
+            "children": []
+          },
+          {
+            "title": "Slide 4: High taxes and cost of living are growing concerns in the Metro",
+            "page": 404,
+            "children": []
+          },
+          {
+            "title": "Slide 5: Unemployment rate statewide increasing faster than nationally",
+            "page": 405,
+            "children": []
+          },
+          {
+            "title": "Slide 6: Oregon lost 9,100 jobs over the past 12 months, 3 county metro lost 16k",
+            "page": 406,
+            "children": []
+          },
+          {
+            "title": "Slide 7: Job growth performance highly sensitive to reference period",
+            "page": 407,
+            "children": []
+          },
+          {
+            "title": "Slide 8: Oregon’s annual job growth ranking was trending down pre-pandemic, then amplified",
+            "page": 408,
+            "children": []
+          },
+          {
+            "title": "Slide 9: Population growth rate expected to be half of previous 30 year trend",
+            "page": 409,
+            "children": []
+          },
+          {
+            "title": "Slide 10: Oregon population growth has stagnated in past decade compared to U.S.",
+            "page": 410,
+            "children": []
+          },
+          {
+            "title": "Slide 11: Full time worker median wages in Oregon growing faster than U.S.",
+            "page": 411,
+            "children": []
+          },
+          {
+            "title": "Slide 12: Gap in median income in Oregon is primarily a structural gap from less full-time work",
+            "page": 412,
+            "children": []
+          },
+          {
+            "title": "Slide 13: Statewide net loss of $500 million in income through migration in last 2 years",
+            "page": 413,
+            "children": []
+          },
+          {
+            "title": "Slide 14: Oregon’s income trajectory was similar to Rust Belt states through 2010",
+            "page": 414,
+            "children": []
+          },
+          {
+            "title": "Slide 15: ALICE data represent HHs not earning enough to cover basic necessities",
+            "page": 415,
+            "children": []
+          },
+          {
+            "title": "Slide 16: Oregon’s GDP growth has typically exceed the national rate until the past 3 years",
+            "page": 416,
+            "children": []
+          },
+          {
+            "title": "Slide 17: Current productivity in Oregon lags the national average by 12%",
+            "page": 417,
+            "children": []
+          },
+          {
+            "title": "Slide 18: Oregon’s productivity growth has been eroding since peaking from  2015 to 2018",
+            "page": 418,
+            "children": []
+          },
+          {
+            "title": "Slide 19: Productivity is a combined measure of both population and GDP change",
+            "page": 419,
+            "children": []
+          },
+          {
+            "title": "Slide 20: Single family permitting statewide unchanged from pre-pandemic",
+            "page": 420,
+            "children": []
+          },
+          {
+            "title": "Slide 21: No Market rate projects over 50 units in Portland Central City",
+            "page": 421,
+            "children": []
+          },
+          {
+            "title": "Slide 22: Oregon has the largest multifamily permitting decrease, entirely a Portland effect",
+            "page": 422,
+            "children": []
+          },
+          {
+            "title": "Slide 23: State expenditures have increased 4x since 2001",
+            "page": 423,
+            "children": []
+          },
+          {
+            "title": "Slide 24: General fund is 85% reliant on personal income, decreasing as a share of total expenses",
+            "page": 424,
+            "children": []
+          },
+          {
+            "title": "Slide 25: Oregon ranks near the top of expenditures and own source revenue as a share of personal income",
+            "page": 425,
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Section 2: Tax Burden",
+        "page": 426,
+        "children": [
+          {
+            "title": "Slide 27: Oregon’s top marginal rate hits earlier than any other state",
+            "page": 427,
+            "children": []
+          },
+          {
+            "title": "Slide 28: Oregon taxes incomes at higher rates across the income distribution",
+            "page": 428,
+            "children": []
+          },
+          {
+            "title": "Slide 29: To evaluate overall tax burden, compared 4 HH types across neighboring states",
+            "page": 429,
+            "children": []
+          },
+          {
+            "title": "Slide 30: Took a comprehensive approach to quantifying overall tax burden",
+            "page": 430,
+            "children": []
+          },
+          {
+            "title": "Slide 31: Effective tax burdens are highest in Oregon across these middle income HHs",
+            "page": 431,
+            "children": []
+          },
+          {
+            "title": "Slide 32: Federal taxes are a larger share than state/local across these HHs",
+            "page": 432,
+            "children": []
+          },
+          {
+            "title": "Slide 33: Modeling a kicker return based upon recent history might overstate future impact",
+            "page": 433,
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Section 3: Comprehensive Tax Reform Scenarios",
+        "page": 434,
+        "children": [
+          {
+            "title": "Slide 35: Moving from a CAT to a VAT can be revenue neutral and more efficient",
+            "page": 435,
+            "children": []
+          },
+          {
+            "title": "Slide 36: Moving from a CAT to a VAT, different administrative approaches",
+            "page": 436,
+            "children": []
+          },
+          {
+            "title": "Slide 37: State revenue mix – Oregon is most personal income tax reliant",
+            "page": 437,
+            "children": []
+          },
+          {
+            "title": "Slide 38: How expanding the CAT to a consumption tax could rebalance revenue mix",
+            "page": 438,
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Section 4: What Is Good Growth? Productivity, Labor Share & Compensation",
+        "page": 439,
+        "children": [
+          {
+            "title": "Slide 40: How does GDP growth benefit workers?",
+            "page": 440,
+            "children": []
+          },
+          {
+            "title": "Slide 41: How do you measure labor share of GDP?",
+            "page": 441,
+            "children": []
+          },
+          {
+            "title": "Slide 42: U.S. labor share of GDP has steadily declined since peak in 1970",
+            "page": 442,
+            "children": []
+          },
+          {
+            "title": "Slide 43: How much does labor share vary by industry nationally",
+            "page": 443,
+            "children": []
+          },
+          {
+            "title": "Slide 44: Oregon has the highest labor share of GDP",
+            "page": 444,
+            "children": []
+          },
+          {
+            "title": "Slide 45: Oregon’s labor share rank has steadily increased since 2018",
+            "page": 445,
+            "children": []
+          },
+          {
+            "title": "Slide 46: Two distinct mechanisms drive labor share change over time",
+            "page": 446,
+            "children": []
+          },
+          {
+            "title": "Slide 47: Oregon has the largest structural effect, explaining the #1 labor share rank",
+            "page": 447,
+            "children": []
+          },
+          {
+            "title": "Slide 48: Not every industry within Oregon earns a larger share compared to the U.S. average",
+            "page": 448,
+            "children": []
+          },
+          {
+            "title": "Slide 49: Industry mix in Oregon also contributes to a higher labor share than U.S. average",
+            "page": 449,
+            "children": []
+          },
+          {
+            "title": "Slide 50: How does a growing GDP benefit workers?",
+            "page": 450,
+            "children": []
+          },
+          {
+            "title": "Slide 51: Labor share trend in Oregon increased comp $6,700 per worker since 1998",
+            "page": 451,
+            "children": []
+          },
+          {
+            "title": "Slide 52: Future possibilities in a low employment/high productivity growth economy",
+            "page": 452,
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

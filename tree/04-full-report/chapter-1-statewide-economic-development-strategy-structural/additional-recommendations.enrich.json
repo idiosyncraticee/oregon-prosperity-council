@@ -1,0 +1,62 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "04-full-report/chapter-1-statewide-economic-development-strategy-structural/additional-recommendations",
+  "breadcrumb": [
+    "Full Report",
+    "Chapter 1: Statewide Economic Development Strategy & Structural Reform",
+    "Additional Recommendations"
+  ],
+  "pageRange": [
+    15,
+    15
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T02:01:12.937Z",
+  "tldr": "The report recommends Oregon develop a comprehensive statewide economic development strategy with measurable goals for job and income growth, prioritizing business retention, expansion, and attraction with small business support. Public-private partnerships should catalyze innovation districts through state investments of $10 million per project to unlock long-term traded-sector employment (examples: Confluence Innovation Campus, Southern Willamette Valley Innovation Corridor). A Governor-directed concierge function through the Regional Solutions Program and Regional Development Officers should coordinate state agency support for strategic projects from inception through completion.",
+  "bullets": [
+    {
+      "text": "Develop statewide economic development strategy with measurable job and income growth goals",
+      "page": 15
+    },
+    {
+      "text": "Focus on business retention, expansion, attraction, and targeted support for small businesses",
+      "page": 15
+    },
+    {
+      "text": "Incorporate sophisticated approach to target sectors and generative artificial intelligence",
+      "page": 15
+    },
+    {
+      "text": "Catalytic public-private partnerships for innovation districts with state investments on order of $10 million per project",
+      "page": 15
+    },
+    {
+      "text": "Named investment examples: Confluence Innovation Campus (Portland), Southern Willamette Valley Innovation Corridor, industrial site development in Eastern Oregon",
+      "page": 15
+    },
+    {
+      "text": "Establish Governor-directed economic development concierge function through Regional Solutions Program and Regional Development Officers",
+      "page": 15
+    },
+    {
+      "text": "State agencies should actively support priority projects, coordinate across jurisdictions, resolve barriers, and facilitate timeline solutions",
+      "page": 15
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "$10 million per project"
+    ],
+    "ftes": [],
+    "programs": [
+      "Regional Solutions Program",
+      "Confluence Innovation Campus",
+      "Southern Willamette Valley Innovation Corridor"
+    ],
+    "bureaus": []
+  },
+  "confidence": "high"
+}

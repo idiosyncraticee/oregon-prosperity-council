@@ -1,0 +1,103 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "09-appendix-e-submissions-feedback/33-oregon-association-of-nurseries",
+  "breadcrumb": [
+    "Appendix E: Submissions & Feedback",
+    "33. Oregon Association of Nurseries"
+  ],
+  "pageRange": [
+    313,
+    320
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:07:47.951Z",
+  "tldr": "The Oregon Association of Nurseries (representing a $1.3 billion industry, 74% exported) submitted recommendations to improve state competitiveness: align agricultural labor/overtime standards with neighboring states, comprehensively review Oregon's tax code, eliminate CAT on green goods, reform SB 1507's federal tax disconnect, invest in workforce development through higher education and fully funded high school CTE, support small agricultural businesses through land-use policy, replace Oregon's Climate Protection Program with a market-based alternative, and modernize the Recycling Modernization Act.",
+  "bullets": [
+    {
+      "text": "Nursery and greenhouse industry valued at $1.3 billion annually with 74% of sales exported outside Oregon",
+      "page": 313
+    },
+    {
+      "text": "OAN proposes freezing agricultural overtime at 48 hours with 56-hour threshold for 12-week peak season",
+      "page": 314
+    },
+    {
+      "text": "OAN recommends state collaboration with agricultural operations on temporary worker programs (H2A/H2B)",
+      "page": 314
+    },
+    {
+      "text": "Oregon ranked 28th in CNBC's states for business with \"F\" rating for business-friendliness",
+      "page": 315
+    },
+    {
+      "text": "Oregon's effective business tax burden increased 33% (2019-2023); corporate tax ranks 49th nationally",
+      "page": 315
+    },
+    {
+      "text": "Oregon ranked 45th in manufacturing growth (June 2023-2024) and lost 6,000 residents (2022-2023)",
+      "page": 315
+    },
+    {
+      "text": "SB 1507 federal tax disconnect problematic for small business depreciation; OAN recommends reconsidering accelerated depreciation",
+      "page": 316
+    },
+    {
+      "text": "OAN recommends eliminating Commercial Activities Tax (CAT) on green goods and retooling Business Oregon",
+      "page": 316
+    },
+    {
+      "text": "OAN advocates state investment in Oregon State University, community colleges, and fully funded high school CTE programs",
+      "page": 316
+    },
+    {
+      "text": "OAN opposes current Recycling Modernization Act/EPR as costly and inconsistent; developing alternative model policy nationally",
+      "page": 317
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "$1.3 billion",
+      "74%",
+      "28th",
+      "F",
+      "45th",
+      "6,000 residents",
+      "33%",
+      "49th"
+    ],
+    "ftes": [
+      "May 7, 2026",
+      "2024",
+      "June 2023 to June 2024",
+      "2019",
+      "2023",
+      "2022"
+    ],
+    "programs": [
+      "SB 1507",
+      "Agricultural overtime law",
+      "Manufacturing overtime laws",
+      "Commercial Activities Tax",
+      "CAT",
+      "H2A",
+      "H2B",
+      "Climate Protection Program",
+      "Recycling Modernization Act",
+      "Urban-Rural Reserves"
+    ],
+    "bureaus": [
+      "Oregon Association of Nurseries",
+      "Governor Kotek",
+      "Oregon Business & Industry",
+      "CNBC",
+      "Tax Foundation",
+      "Common Sense Institute Oregon",
+      "Oregon State University",
+      "Business Oregon"
+    ]
+  },
+  "confidence": "high"
+}

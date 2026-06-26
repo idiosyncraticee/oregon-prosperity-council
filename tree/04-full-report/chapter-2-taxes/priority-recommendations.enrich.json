@@ -1,0 +1,85 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "04-full-report/chapter-2-taxes/priority-recommendations",
+  "breadcrumb": [
+    "Full Report",
+    "Chapter 2: Taxes",
+    "Priority Recommendations"
+  ],
+  "pageRange": [
+    18,
+    20
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T02:01:11.324Z",
+  "tldr": "Oregon's tax system is overly reliant on personal income tax. The Council recommends modernizing the R&D tax credit, reforming the estate and corporate activity taxes to support small businesses, and reconnecting QSBS to federal code for 2027. By 2029, a nonpartisan working group should develop comprehensive tax reform addressing income tax over-reliance, property tax regulation, and tax progressivity before federal SALT provisions expire.",
+  "bullets": [
+    {
+      "text": "Oregon operates under a \"one-and-a-half-legged stool\" model relying heavily on personal income tax and constrained property tax revenues.",
+      "page": 18
+    },
+    {
+      "text": "Modernize R&D tax credit to offer 15% credit for company-led research and 20% credit for projects conducted with Oregon universities, applied to more industries and companies paying above median county wages.",
+      "page": 19
+    },
+    {
+      "text": "Update Estate Tax to introduce targeted deductions for small businesses and raise exemption threshold to $3-5 million, following Minnesota model of $2 million deduction for businesses with <$10 million annual sales.",
+      "page": 19
+    },
+    {
+      "text": "Reform CAT by increasing filing and taxability threshold from $1 million to $2 million and moving to subtractive method allowing complete deduction of input costs.",
+      "page": 19
+    },
+    {
+      "text": "Reconnect QSBS policies to federal tax code to help Oregon retain and grow emerging small businesses.",
+      "page": 19
+    },
+    {
+      "text": "Governor should convene nonpartisan tax reform working group to develop comprehensive reform proposal by 2029, in advance of federal SALT provisions expiration.",
+      "page": 19
+    },
+    {
+      "text": "Tax reform working group should address CAT reform, property tax regulation improvements, personal income tax rebalancing, and support for progressivity benefiting low and middle-income households.",
+      "page": 20
+    },
+    {
+      "text": "Two Council members dissented, expressing concerns about the necessity of proposed tax changes and broader business incentives' long-term impacts, preferring workforce and existing program investments.",
+      "page": 20
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "$3-5 million",
+      "$2 million",
+      "$10 million",
+      "$1 million",
+      "15%",
+      "20%"
+    ],
+    "ftes": [
+      "2027",
+      "2029",
+      "2008",
+      "2010"
+    ],
+    "programs": [
+      "R&D tax credit",
+      "Estate Tax",
+      "CAT",
+      "QSBS",
+      "SALT"
+    ],
+    "bureaus": [
+      "Governor",
+      "Oregon Legislature",
+      "Oregon Prosperity Council",
+      "Minnesota",
+      "Indiana",
+      "Oregon universities"
+    ]
+  },
+  "confidence": "high"
+}

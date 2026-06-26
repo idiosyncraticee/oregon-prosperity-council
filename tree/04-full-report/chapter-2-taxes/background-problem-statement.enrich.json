@@ -1,0 +1,61 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "04-full-report/chapter-2-taxes/background-problem-statement",
+  "breadcrumb": [
+    "Full Report",
+    "Chapter 2: Taxes",
+    "Background & Problem Statement"
+  ],
+  "pageRange": [
+    16,
+    17
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T02:00:41.909Z",
+  "tldr": "Oregon's tax structure creates competitive disadvantages for business and households. Middle-income earners face higher effective tax rates than in Washington and California, and complexity around layered local taxes burdens small and medium-sized businesses. Combined with housing affordability challenges, this erodes household disposable income and constrains the state's ability to fund services and long-term growth.",
+  "bullets": [
+    {
+      "text": "Single filer earning $40,000 faces effective tax rate of 20.4% in Oregon vs. 18.4% in Washington and 19.9% in California",
+      "page": 17
+    },
+    {
+      "text": "Household earning $80,000 faces effective tax rate of 17.6% in Oregon vs. 16.0% in Washington and 17.0% in California",
+      "page": 17
+    },
+    {
+      "text": "Small and medium-sized businesses particularly affected by compliance complexity and layered local tax burdens including income, business, property, and special-purpose taxes",
+      "page": 17
+    },
+    {
+      "text": "Oregon places higher burden on middle-income households than all neighboring states",
+      "page": 17
+    },
+    {
+      "text": "Current state tax structure limits ability to balance budgets, sustain essential public services, and invest in long-term economic growth",
+      "page": 17
+    },
+    {
+      "text": "Higher tax burdens combined with housing affordability challenges reduce household disposable income and economic mobility",
+      "page": 17
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "20.4%",
+      "18.4%",
+      "19.9%",
+      "17.6%",
+      "16.0%",
+      "17.0%",
+      "$40,000",
+      "$80,000"
+    ],
+    "ftes": [],
+    "programs": [],
+    "bureaus": []
+  },
+  "confidence": "high"
+}

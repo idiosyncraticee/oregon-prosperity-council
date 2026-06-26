@@ -1,0 +1,98 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "07-appendix-c-survey-data",
+  "breadcrumb": [
+    "Appendix C: Survey Data"
+  ],
+  "pageRange": [
+    73,
+    73
+  ],
+  "chunkIndex": 18,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:02:05.812Z",
+  "tldr": "Appendix C presents survey responses from diverse Oregon stakeholders on competitiveness and prosperity. Dominant concerns: natural gas workers oppose the Oregon Climate Protection Program (CPP), citing threats to family-wage jobs and rising energy costs; others advocate for education investment, affordable workforce housing, transit infrastructure, living wages, and healthcare. Business-climate respondents criticize anti-business environment and high taxes; rural stakeholders highlight importance of hunting and tourism.",
+  "bullets": [
+    {
+      "text": "Natural gas industry workers across multiple submissions report CPP increases compliance costs on utilities, forcing companies to reduce projects and cut work hours for union employees.",
+      "page": 73
+    },
+    {
+      "text": "Jeff Lewis (97321) reports electricity costs doubled in 7 years, from 7 cents/kWh to 14 cents/kWh, with monthly power bills ranging $300–450.",
+      "page": 73
+    },
+    {
+      "text": "Tyler Brown (97814, Barley Brown's Beer) cites deteriorating interstate gateway infrastructure (e.g., Baker City Exit 304, unchanged since 1970s) as harming Oregon's tourism and visitor economy.",
+      "page": 73
+    },
+    {
+      "text": "Richard Sheperd (97202) identifies workforce housing shortage as core barrier to economic development and proposes Universal Building Exemption (constitutional amendment), Land Value Capture (6% property tax from transit corridors), and split-roll property tax.",
+      "page": 73
+    },
+    {
+      "text": "Education advocates call for free/public preschool and college, living wages, and universal healthcare; multiple respondents cite homelessness and food insecurity as urgent priorities.",
+      "page": 73
+    },
+    {
+      "text": "Business-climate respondents characterize Oregon as anti-business environment with tax rates higher than competing states and excessive regulatory burden.",
+      "page": 73
+    },
+    {
+      "text": "Kory (97004, Dirty Cowgirl Saloon, Wasco) warns that PEACE Act IP28 hunting ban would devastate rural business; hunters essential to seasonal survival of rural hospitality businesses.",
+      "page": 73
+    },
+    {
+      "text": "Twila Jacobsen (97405) expresses concern about private equity takeover of healthcare (PeaceHealth/Apollo MD) and advocates for State Bank, fair taxation, and protected public services.",
+      "page": 73
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "7 cents/kWh",
+      "14 cents/kWh",
+      "$300",
+      "$450",
+      "$3M",
+      "$350M",
+      "$150M",
+      "$1 Billion",
+      "$20k/year"
+    ],
+    "ftes": [
+      "7 years",
+      "15-20 years",
+      "2-3 years",
+      "1970s"
+    ],
+    "programs": [
+      "Oregon Climate Protection Program (CPP)",
+      "PEACE Act IP28",
+      "Backhome Loan program",
+      "Universal Building Exemption (UBE)",
+      "Land Value Capture (LVC)",
+      "Minnesota Natural Gas Innovation Act",
+      "Oregon Pension funds wood innovation fund"
+    ],
+    "bureaus": [
+      "PGE",
+      "Northwest Natural Gas",
+      "Oregon Department of Environmental Quality",
+      "Oregon Bureau of Labor and Industries",
+      "ODOT",
+      "Travel Oregon",
+      "Common Ground Oregon/Washington",
+      "Prosperity Council",
+      "Governor Kotek",
+      "Oregon Legislature",
+      "Barley Brown's Beer",
+      "Dirty Cowgirl Saloon",
+      "Chamber of Medford",
+      "PeaceHealth",
+      "Apollo MD",
+      "Oregon Department of Public Transit and Rail (ODPTR)"
+    ]
+  },
+  "confidence": "medium"
+}

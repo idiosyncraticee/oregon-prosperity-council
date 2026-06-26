@@ -1,0 +1,124 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "09-appendix-e-submissions-feedback/14-portland-metro-chamber-2026-regional-policy-agenda",
+  "breadcrumb": [
+    "Appendix E: Submissions & Feedback",
+    "14. Portland Metro Chamber — 2026 Regional Policy Agenda"
+  ],
+  "pageRange": [
+    192,
+    204
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:05:38.068Z",
+  "tldr": "The Portland Metro Chamber submitted its 2026 Regional Policy Agenda, highlighting critical competitiveness challenges: housing production at a halt, cost of living 12% above national average, second-highest personal income tax rate (14.7%), and approximately $1 billion annual taxable income loss. The Chamber endorses all 19 Central City Task Force fiscal reform recommendations and prioritizes five 2026 actions: deciding PCEF revenue allocation, indexing income tax thresholds, reevaluating Preschool for All, instituting tax measure sunsets, and requiring Economic Impact Statements. Other priorities include 6,000+ annual housing units and public safety parity with peer cities.",
+  "bullets": [
+    {
+      "text": "Portland's cost of living is 12% above the national average, driven by housing costs and uncompetitive tax burden",
+      "page": 196
+    },
+    {
+      "text": "Portland has the nation's second-highest marginal personal income tax rate at 14.7% and highest corporate rate at 20.9%",
+      "page": 196
+    },
+    {
+      "text": "Portland lost approximately $1 billion in taxable income annually since 2020, primarily to Clark County in SW Washington",
+      "page": 196
+    },
+    {
+      "text": "Region must achieve housing production of at least 6,000 units annually to address critical housing shortage",
+      "page": 199
+    },
+    {
+      "text": "Chamber supports all 19 recommendations from Central City Task Force Tax Advisory Group, prioritizing five 2026 actions",
+      "page": 197
+    },
+    {
+      "text": "Advocate for 120-day building permit review deadline for housing projects and reinstatement of MULTE program at 120% AMI",
+      "page": 200
+    },
+    {
+      "text": "Support establishing 'soft sunset' framework with 10-year authorization period and structured performance review at year five",
+      "page": 198
+    },
+    {
+      "text": "Portland's housing cost was 30% higher than national average in 2023 and continues to grow",
+      "page": 199
+    },
+    {
+      "text": "Business taxes increased 81% since 2019, contributing to uncompetitive tax environment for businesses and workers",
+      "page": 196
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "12% above the national average",
+      "14.7%",
+      "20.9%",
+      "81%",
+      "approximately $1 billion in taxable income annually",
+      "30% higher than the national average",
+      "at least 6,000 units annually",
+      "120% AMI",
+      "3:1"
+    ],
+    "ftes": [
+      "2026",
+      "2023",
+      "2019",
+      "2020",
+      "10-year period",
+      "year five",
+      "120-day"
+    ],
+    "programs": [
+      "Downtown Business Incentive Tax Credit",
+      "Enterprise Zone",
+      "Business Expansion Program",
+      "Strategic Investment Program",
+      "MULTE (pre-IH)",
+      "Portland Clean Energy Fund",
+      "Preschool for All",
+      "Supportive Housing Services",
+      "Tax Increment Finance",
+      "System Development Charges",
+      "Portland Clean Industry Hub",
+      "Critical Energy Infrastructure Hub",
+      "HB 3115",
+      "Advance Portland",
+      "Cascadia high speed rail",
+      "Portland Diamond Project",
+      "Central City Task Force Tax Advisory Group"
+    ],
+    "bureaus": [
+      "Portland Metro Chamber",
+      "Governor Kotek",
+      "City of Portland",
+      "Multnomah County",
+      "Portland Trail Blazers",
+      "Portland Fire",
+      "Thorns",
+      "Timbers",
+      "Oregon State University extension",
+      "OSU Food Innovation Center",
+      "James Beard Public Market",
+      "OMSI",
+      "PSU",
+      "I-5 Bridge Replacement",
+      "Rose Quarter",
+      "Expo Center",
+      "Moda Center",
+      "Clark County",
+      "Central City Concern",
+      "New Avenues for Youth",
+      "Portland Police Bureau",
+      "Multnomah County District Attorney",
+      "ODOT",
+      "Metro"
+    ]
+  },
+  "confidence": "high"
+}

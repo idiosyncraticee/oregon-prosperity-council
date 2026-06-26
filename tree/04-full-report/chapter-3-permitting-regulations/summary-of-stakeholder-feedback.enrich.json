@@ -1,0 +1,56 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "04-full-report/chapter-3-permitting-regulations/summary-of-stakeholder-feedback",
+  "breadcrumb": [
+    "Full Report",
+    "Chapter 3: Permitting & Regulations",
+    "Summary of Stakeholder Feedback"
+  ],
+  "pageRange": [
+    22,
+    22
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T02:00:57.501Z",
+  "tldr": "Stakeholders identified permitting complexity and unpredictability as major barriers to business growth, especially for small and medium-sized businesses. They describe Oregon's regulatory system as fragmented, lengthy, inconsistent, and costly, calling for streamlined processes, stronger interagency coordination, and greater transparency. Stakeholders perceive agencies as inclined to deny applications or change standards mid-process, creating distrust and increased investment risk. They emphasize need for better guidance and a cultural shift toward collaboration.",
+  "bullets": [
+    {
+      "text": "Permitting complexity and unpredictability identified as major barriers to business growth and investment, particularly for SMBs without dedicated permitting or legal staff",
+      "page": 22
+    },
+    {
+      "text": "Oregon's regulatory system characterized as fragmented, lengthy, inconsistent, and costly",
+      "page": 22
+    },
+    {
+      "text": "Stakeholders called for streamlined processes, stronger interagency coordination, and greater transparency while retaining essential protections",
+      "page": 22
+    },
+    {
+      "text": "Key regulatory agencies perceived as inclined to deny applications or change standards mid-process",
+      "page": 22
+    },
+    {
+      "text": "Stakeholder distrust of state processes makes investments in Oregon seem riskier",
+      "page": 22
+    },
+    {
+      "text": "Insufficient guidance for applicants identified as a concern",
+      "page": 22
+    },
+    {
+      "text": "Need for cultural shift toward collaboration and problem-solving emphasized",
+      "page": 22
+    }
+  ],
+  "entities": {
+    "dollars": [],
+    "ftes": [],
+    "programs": [],
+    "bureaus": []
+  },
+  "confidence": "high"
+}

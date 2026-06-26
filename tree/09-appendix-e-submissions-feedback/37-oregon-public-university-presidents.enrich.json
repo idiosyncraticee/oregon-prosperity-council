@@ -1,0 +1,87 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "09-appendix-e-submissions-feedback/37-oregon-public-university-presidents",
+  "breadcrumb": [
+    "Appendix E: Submissions & Feedback",
+    "37. Oregon Public University Presidents"
+  ],
+  "pageRange": [
+    336,
+    338
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:08:43.731Z",
+  "tldr": "The Oregon Public University Presidents submitted a memorandum advocating for increased state funding, formal inclusion in economic development planning, and workforce development partnerships. They argue public universities are essential economic multipliers generating over $10 billion in annual impact and providing critical talent pipelines, but Oregon ranks 46th nationally in per-student appropriations, with students covering two-thirds of costs.",
+  "bullets": [
+    {
+      "text": "Oregon's public universities generate over $10 billion in annual impact",
+      "page": 336
+    },
+    {
+      "text": "Oregon ranks 46th nationally in per-student appropriations",
+      "page": 336
+    },
+    {
+      "text": "Public universities produce more than 20,000 graduates each year",
+      "page": 336
+    },
+    {
+      "text": "Approximately 85% of personal income tax revenue is paid by those with bachelor's degrees or higher",
+      "page": 336
+    },
+    {
+      "text": "Students now cover about two-thirds of university costs compared to the state's one-third",
+      "page": 336
+    },
+    {
+      "text": "For every $1 spent on public universities, over $10 is returned to the state's economy",
+      "page": 337
+    },
+    {
+      "text": "Request to formally include universities in industry recruitment, regional planning, and workforce development boards",
+      "page": 337
+    },
+    {
+      "text": "Request to develop workforce-aligned investment pools and expand capacity in high-demand programs",
+      "page": 337
+    },
+    {
+      "text": "Request to maintain and expand funding for University Innovation Research Fund",
+      "page": 337
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "over $10 billion in annual impact",
+      "nearly $20 billion when including OHSU's academic and hospital operations",
+      "85%",
+      "46th nationally in per-student appropriations",
+      "more than 20,000 graduates each year"
+    ],
+    "ftes": [
+      "May 13th, 2026"
+    ],
+    "programs": [
+      "Public University Support Fund",
+      "Future Ready Oregon",
+      "University Innovation Research Fund"
+    ],
+    "bureaus": [
+      "Governor's Prosperity Council",
+      "Curtis Robinhold",
+      "Renee James",
+      "Portland State University",
+      "Western Oregon University",
+      "Eastern Oregon University",
+      "Oregon Institute of Technology",
+      "Oregon State University",
+      "Southern Oregon University",
+      "University of Oregon",
+      "Oregon Health & Science University"
+    ]
+  },
+  "confidence": "high"
+}

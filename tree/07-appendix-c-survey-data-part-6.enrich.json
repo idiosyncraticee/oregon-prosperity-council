@@ -1,0 +1,112 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "07-appendix-c-survey-data",
+  "breadcrumb": [
+    "Appendix C: Survey Data"
+  ],
+  "pageRange": [
+    60,
+    60
+  ],
+  "chunkIndex": 5,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:00:38.716Z",
+  "tldr": "This survey response page captures 30+ individual and small-business respondents addressing business climate, workforce development, housing, energy policy, and transit. Dominant themes: workforce development system fragmentation (especially early childhood and rural economies), insufficient wage standards tied to cost of living, housing shortage requiring zoning/permitting reform, public transit funding cuts, and utility wildfire liability. Respondents split between advocates for business-friendly deregulation/lower taxes and those pushing for worker-centered policies, progressive taxation (billionaire's tax models), sectoral bargaining, and increased public investment in essential services.",
+  "bullets": [
+    {
+      "text": "Early childhood education training shortage: respondents report only ~15% of needed workforce trained to required early learning credential standards",
+      "page": 60
+    },
+    {
+      "text": "Portland General Electric insurance premiums increased 180% in last 5 years due to wildfire liability risk",
+      "page": 60
+    },
+    {
+      "text": "PGE service area generates $4.6 billion in annual economic output and supports 9,421 jobs",
+      "page": 60
+    },
+    {
+      "text": "Respondents call for union apprenticeship enrollment targets of at least 25% in key sectors (healthcare, logistics, retail, construction, hospitality)",
+      "page": 60
+    },
+    {
+      "text": "Multiple respondents advocate preserving Multnomah County's universal preschool program as statewide model",
+      "page": 60
+    },
+    {
+      "text": "Rural Oregon workforce advocates identify system fragmentation across K-12, higher education, workforce boards, and economic development as core barrier",
+      "page": 60
+    },
+    {
+      "text": "Respondents cite transit funding cuts and freeway expansion (Interstate Bridge Replacement, Rose Quarter) as contradictions to economic development goals",
+      "page": 60
+    },
+    {
+      "text": "Multiple respondents propose billionaire's tax modeled on Massachusetts and California examples",
+      "page": 60
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "$4.6 billion",
+      "9,421 jobs",
+      "180% increase",
+      "15%",
+      "25%",
+      "30%"
+    ],
+    "ftes": [
+      "5 years",
+      "2-3 years",
+      "24 months",
+      "2021"
+    ],
+    "programs": [
+      "SB 762",
+      "Paid Leave Oregon",
+      "Oregon Health Plan",
+      "E-Bike grants",
+      "TriMet",
+      "Job Corps",
+      "DEQ CCI fund",
+      "Multnomah County universal preschool",
+      "HECC workforce training",
+      "Youth Development Division",
+      "Enterprise Zone program",
+      "Sectoral Workforce Standards Board",
+      "Strategic Investment Board",
+      "Public Power Authority",
+      "Massachusetts billionaire's tax",
+      "California Fast Food Council",
+      "Washington agricultural labor standards",
+      "Minnesota 2023 labor legislation",
+      "Oregon equal pay law",
+      "Stand for Children",
+      "Science of Reading"
+    ],
+    "bureaus": [
+      "Portland General Electric (PGE)",
+      "Oregon Bureau of Labor & Industries (BOLI)",
+      "Department of Land Conservation & Development (DLCD)",
+      "Oregon Department of Energy (ODOE)",
+      "Business Oregon",
+      "Oregon Legislature",
+      "Governor Kotek",
+      "Oregon Agricultural Trust",
+      "1000 Friends of Oregon",
+      "SMUD (Sacramento Municipal Utility District)",
+      "Eugene Water & Electric Board",
+      "Kids and Company of Linn",
+      "Water for Eastern Oregon",
+      "Gorges Beer Co.",
+      "Portland Community College (PCC)",
+      "Portland State University (PSU)",
+      "OHSU",
+      "Multnomah County",
+      "CRITFC"
+    ]
+  },
+  "confidence": "medium"
+}

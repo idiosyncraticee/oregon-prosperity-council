@@ -1,0 +1,76 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "09-appendix-e-submissions-feedback/47-tax-fairness-oregon",
+  "breadcrumb": [
+    "Appendix E: Submissions & Feedback",
+    "47. Tax Fairness Oregon"
+  ],
+  "pageRange": [
+    397,
+    399
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:08:58.577Z",
+  "tldr": "Tax Fairness Oregon supports improving Oregon's economy and endorses elevating economic development as an executive priority and implementing a sales tax paired with income-tax reductions while maintaining progressiveness. However, they oppose across-the-board tax cuts that reduce public services, criticize wasteful data-center and foreign-income tax incentives costing hundreds of millions annually, and urge elimination of inefficient incentives before tax cuts, combined with public investment in higher education and infrastructure.",
+  "bullets": [
+    {
+      "text": "Supports elevating economic development priorities within the executive branch and implementing a sales tax to reduce income taxes, provided overall progressiveness is retained (citing California's model).",
+      "page": 397
+    },
+    {
+      "text": "Opposes across-the-board tax cuts without regard to public services; argues cutting services reduces economic activity and offsets tax-cut stimulus, and that healthy economies require robust education, safety, health, infrastructure, and clean environment.",
+      "page": 398
+    },
+    {
+      "text": "Criticizes Oregon's data-center tax incentives as wasteful overpayment; states the state 'massively overpaid' and continues giving 'hundreds of millions each year' in incentives despite questionable cost-benefit analysis.",
+      "page": 398
+    },
+    {
+      "text": "Cites Oregon's exemption of foreign 'tax haven' income as reducing revenue by 'hundreds of millions each year', creating unfair competition for domestic businesses and providing no incentive to locate Oregon facilities or jobs.",
+      "page": 398
+    },
+    {
+      "text": "Identifies missing recommendations: public investment in higher education (universities 'starved for decades') and infrastructure spending to address deteriorating roads and bridges.",
+      "page": 398
+    },
+    {
+      "text": "Proposes replacing the administrative system focused on activity with one maximizing benefits for state citizens, empowered to act when conditions are right, and accountable for results.",
+      "page": 399
+    },
+    {
+      "text": "Recommends any tax-rate reduction be conditioned on elimination of wasteful incentives and acknowledgment of federal policies making it harder for working people.",
+      "page": 399
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "hundreds of millions each year"
+    ],
+    "ftes": [
+      "June 8, 2026",
+      "2020"
+    ],
+    "programs": [
+      "sales tax",
+      "income taxes",
+      "bonus depreciation",
+      "estate tax",
+      "foreign tax haven income exemption",
+      "data center tax incentives",
+      "jobs credit"
+    ],
+    "bureaus": [
+      "Tax Fairness Oregon",
+      "Governor Tina Kotek",
+      "Renée James",
+      "Curtis Robinhold",
+      "Oregon Prosperity Council",
+      "Intel",
+      "Nike"
+    ]
+  },
+  "confidence": "high"
+}

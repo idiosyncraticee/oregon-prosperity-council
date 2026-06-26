@@ -1,0 +1,46 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "02-table-of-contents",
+  "breadcrumb": [
+    "Table of Contents"
+  ],
+  "pageRange": [
+    3,
+    3
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-25T23:59:10.817Z",
+  "tldr": "The Oregon Prosperity Council's June 2026 report on long-term competitiveness comprises an executive summary, five policy chapters addressing economic development, taxes, permitting, site readiness, and talent development, plus six appendices documenting engagement methodology, survey data, listening sessions, and technical research.",
+  "bullets": [
+    {
+      "text": "Report structure includes Executive Summary (page 4)",
+      "page": 3
+    },
+    {
+      "text": "Five numbered policy chapters: Economic Development & Structural Reform (ch. 1), Taxes (ch. 2), Permitting & Regulations (ch. 3), Site Readiness & Infrastructure (ch. 4), Talent Development (ch. 5)",
+      "page": 3
+    },
+    {
+      "text": "Six appendices: Engagement Report, Survey Questions, Survey Data, Listening Session Facilitators' Guide, Submissions & Feedback, Technical Report on Data & Research",
+      "page": 3
+    },
+    {
+      "text": "Published June 2026",
+      "page": 3
+    }
+  ],
+  "entities": {
+    "dollars": [],
+    "ftes": [
+      "June 2026"
+    ],
+    "programs": [],
+    "bureaus": [
+      "Oregon Prosperity Council"
+    ]
+  },
+  "confidence": "high"
+}

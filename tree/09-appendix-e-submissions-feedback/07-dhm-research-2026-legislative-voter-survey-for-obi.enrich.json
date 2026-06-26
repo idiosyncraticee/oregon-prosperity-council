@@ -1,0 +1,107 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "09-appendix-e-submissions-feedback/07-dhm-research-2026-legislative-voter-survey-for-obi",
+  "breadcrumb": [
+    "Appendix E: Submissions & Feedback",
+    "07. DHM Research — 2026 Legislative Voter Survey (for OBI)"
+  ],
+  "pageRange": [
+    128,
+    155
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:04:54.788Z",
+  "tldr": "DHM Research conducted a 600-voter survey for Oregon Business & Industry in January 2026 on state direction and economic policy preferences. Only 26% believe Oregon heads the right direction, with 73% rating the economy poor. Voters attribute slow growth to high taxes (23%) and excessive regulations (21%). A strong majority (52%) prefer pro-growth deregulation to address budget deficits, versus spending cuts (27%) or tax increases (12%), with consistent cross-party support.",
+  "bullets": [
+    {
+      "text": "Survey of 600 registered Oregon voters via mixed-mode (phone and text-to-online) with 4.0% margin of error",
+      "page": 128
+    },
+    {
+      "text": "Only 26% say state heading in right direction; positivity has remained below 40% since 2021",
+      "page": 129
+    },
+    {
+      "text": "85% say cost of living is worsening; 77% say housing affordability is worsening",
+      "page": 129
+    },
+    {
+      "text": "64% disapprove of Governor Kotek and Oregon Legislature; 55% disapprove of President Trump",
+      "page": 129
+    },
+    {
+      "text": "73% rate Oregon's economic conditions as poor, up from 60% in 2021; 68% say conditions getting worse",
+      "page": 130
+    },
+    {
+      "text": "51% find it difficult to pay for groceries; 46% for healthcare; 46% for home energy bills",
+      "page": 130
+    },
+    {
+      "text": "52% say Oregon's economic growth slower than national average; 23% cite high taxes and 21% cite excessive regulations",
+      "page": 131
+    },
+    {
+      "text": "56% think business taxes too high; 46% think businesses over-regulated on environment, health, workplace issues",
+      "page": 131
+    },
+    {
+      "text": "93% believe businesses pass tax and regulatory costs to consumers in higher prices",
+      "page": 131
+    },
+    {
+      "text": "52% prefer pro-growth strategy (reduce regulations, create incentives); 27% prefer spending cuts; 12% prefer tax increases for budget deficits",
+      "page": 131
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "26%",
+      "85%",
+      "77%",
+      "64%",
+      "55%",
+      "73%",
+      "60%",
+      "68%",
+      "62%",
+      "51%",
+      "46%",
+      "44%",
+      "43%",
+      "52%",
+      "42%",
+      "4%",
+      "23%",
+      "21%",
+      "27%",
+      "12%",
+      "93%",
+      "76%",
+      "4.0%",
+      "600"
+    ],
+    "ftes": [
+      "January 30, 2026",
+      "2021"
+    ],
+    "programs": [],
+    "bureaus": [
+      "DHM Research",
+      "Oregon Business & Industry",
+      "John Horvick",
+      "Tony Iaccarino",
+      "Angela Wilhelms",
+      "Preston Mann",
+      "Governor Tina Kotek",
+      "Oregon Legislature",
+      "President Donald Trump",
+      "National Association of Manufacturers",
+      "National Retail Federation"
+    ]
+  },
+  "confidence": "high"
+}

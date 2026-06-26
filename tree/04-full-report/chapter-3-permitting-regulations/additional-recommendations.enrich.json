@@ -1,0 +1,76 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "04-full-report/chapter-3-permitting-regulations/additional-recommendations",
+  "breadcrumb": [
+    "Full Report",
+    "Chapter 3: Permitting & Regulations",
+    "Additional Recommendations"
+  ],
+  "pageRange": [
+    24,
+    24
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T02:03:39.530Z",
+  "tldr": "The state should establish permitting performance standards and partner with local governments on best practices. Agencies should adopt a solutions-oriented regulatory culture with rapid-review pathways for strategic projects. The Governor should coordinate tri-state alignment on competitive policies including agricultural overtime standards and paid family leave, advance electric utility system resilience through the PUC, and pause the Cleaner Air Oregon Toxic Air Contaminant Rule rulemaking for rigorous scientific review while focusing DEQ staff on timely permit implementation.",
+  "bullets": [
+    {
+      "text": "State should lead by example through permitting performance standards and partner with local governments on best practices including clear decision timelines, service level expectations, consistent application requirements, online permitting systems, and transparent standards for determining application completeness.",
+      "page": 24
+    },
+    {
+      "text": "Promote solutions-oriented regulatory culture across state departments of Environmental Quality, Land Conservation and Development, State Lands, Transportation, Oregon Health Authority, and local jurisdictions.",
+      "page": 24
+    },
+    {
+      "text": "Expand coordinated rapid-review pathways for strategic projects and authorize Governor's office to elevate and coordinate stalled projects across agencies and jurisdictions.",
+      "page": 24
+    },
+    {
+      "text": "Governor should work with California and Washington to ensure alignment on agricultural overtime standards (including total compensation) and Oregon's Paid Family Leave Program.",
+      "page": 24
+    },
+    {
+      "text": "Oregon should advance electric utility solutions through Oregon Public Utility Commission to address utility wildfire liability and long-term system resilience.",
+      "page": 24
+    },
+    {
+      "text": "Governor should direct DEQ to pause Cleaner Air Oregon Toxic Air Contaminant Rule rulemaking to allow for more rigorous scientific review.",
+      "page": 24
+    },
+    {
+      "text": "DEQ program staff should focus on timely implementation of covered facilities and processing of new permits.",
+      "page": 24
+    },
+    {
+      "text": "Oregon hospitals contribute $32.4 billion in economic activity and support 160,000 jobs statewide.",
+      "page": 24
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "$32.4 billion",
+      "160,000 jobs"
+    ],
+    "ftes": [],
+    "programs": [
+      "Cleaner Air Oregon Toxic Air Contaminant Rule",
+      "Paid Family Leave Program"
+    ],
+    "bureaus": [
+      "Department of Environmental Quality",
+      "Land Conservation and Development",
+      "State Lands",
+      "Transportation",
+      "Oregon Health Authority",
+      "Oregon Public Utility Commission",
+      "Hospital Association of Oregon",
+      "California",
+      "Washington"
+    ]
+  },
+  "confidence": "high"
+}

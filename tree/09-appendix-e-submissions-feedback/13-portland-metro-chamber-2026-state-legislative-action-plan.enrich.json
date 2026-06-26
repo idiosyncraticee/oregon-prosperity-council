@@ -1,0 +1,126 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "09-appendix-e-submissions-feedback/13-portland-metro-chamber-2026-state-legislative-action-plan",
+  "breadcrumb": [
+    "Appendix E: Submissions & Feedback",
+    "13. Portland Metro Chamber — 2026 State Legislative Action Plan"
+  ],
+  "pageRange": [
+    185,
+    191
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:05:32.371Z",
+  "tldr": "The Portland Metro Chamber advocates for targeted state investments supporting Portland's economy, which they argue contributes a 56% per-capita tax-revenue premium to the state. Priority requests include support for professional sports and arts franchises (including Moda Center renovation via SB 1501), circular economy initiatives (HB 4086), workforce and higher-education funding, the Williams & Russell Business Hub (SB 5701), housing production reforms including SDC payment timing changes, critical infrastructure investment, and community livability measures. They oppose bills redirecting Tourism & Lodging Taxes (HB 4134, HB 4148, SB 1562) and support Governor Kotek's Oregon Prosperity Agenda (HB 4084).",
+  "bullets": [
+    {
+      "text": "Portland tri-county region (Multnomah, Clackamas, Washington) contributes 56% premium per capita to state tax revenues; Multnomah County funds 24% of total state tax revenue despite representing only 19% of state population",
+      "page": 185
+    },
+    {
+      "text": "Portland region is home to 43% of state residents, 50% of jobs, and 58% of state economic output",
+      "page": 185
+    },
+    {
+      "text": "Support SB 1501 for Moda Center renovations, described as oldest NBA arena never to have undergone major renovation",
+      "page": 186
+    },
+    {
+      "text": "Advocate for $1M in state funding to restore river flow to Ross Island lagoon to enable MLB waterfront stadium development",
+      "page": 186
+    },
+    {
+      "text": "Support HB 4086 to allocate $225K each to four communities to advance industrial symbiosis projects identifying high-potential capital project concepts",
+      "page": 186
+    },
+    {
+      "text": "Oppose HB 4134, HB 4148, and SB 1562 which would direct Tourism and Lodging Taxes away from economic development programs",
+      "page": 187
+    },
+    {
+      "text": "Support SB 5701 for Williams & Russell Business Hub (entrepreneur incubator in Albina), Lan Su Garden expansion, and Broadway Corridor project (nearly 4 million square feet for mixed-use development)",
+      "page": 187
+    },
+    {
+      "text": "Seek System Development Charge (SDC) Payment Timing Reform requiring charges to be paid at Certificate of Occupancy rather than upfront during construction",
+      "page": 189
+    },
+    {
+      "text": "Propose removing Housing Accountability and Production Office (HAPO) from Department of Land Conservation and Development and placing it under Governor's office direct supervision",
+      "page": 189
+    },
+    {
+      "text": "Request ODOT reinstate Intergovernmental Agreement with City of Portland for cleanup of ODOT-owned lands and allocate minimum $2M per year to the work",
+      "page": 190
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "56% premium, per capita",
+      "43% of state residents",
+      "50% of jobs",
+      "58% of state economic output",
+      "19% of state population",
+      "24% of total tax revenue",
+      "22% of personal income tax",
+      "27% of corporate income tax",
+      "$5,570 per capita (Multnomah County)",
+      "$5,440 per capita (Portland Tri County Region)",
+      "$3,580 per capita (Rest of State)",
+      "$225K each for four communities",
+      "4 million square feet",
+      "$1M in state funding",
+      "$2M per year"
+    ],
+    "ftes": [
+      "January 2026",
+      "2025",
+      "2026",
+      "early 2027"
+    ],
+    "programs": [
+      "SB 1501",
+      "We Play for Portland Coalition",
+      "HB 4086",
+      "HB 4134",
+      "HB 4148",
+      "SB 1562",
+      "SB 5701",
+      "HB 4084",
+      "Oregon Prosperity Agenda",
+      "Research & Development Tax Credits",
+      "Enterprise Zone",
+      "Opportunity Zone",
+      "SB 1537",
+      "HB 3115",
+      "Moderate-Income Revolving Loan Fund",
+      "System Development Charges"
+    ],
+    "bureaus": [
+      "Portland Metro Chamber",
+      "Portland Trail Blazers",
+      "Moda Center",
+      "Oregon Symphony",
+      "Oregon Ballet Theatre",
+      "Portland Art Museum",
+      "Sport Oregon",
+      "ECOnorthwest",
+      "Governor Kotek",
+      "Business Oregon",
+      "City of Portland",
+      "Metro",
+      "Multnomah County",
+      "Clackamas County",
+      "Washington County",
+      "Prosper Portland",
+      "ODOT",
+      "Department of Land Conservation and Development",
+      "Housing Accountability and Production Office",
+      "Albina-Rose Alliance"
+    ]
+  },
+  "confidence": "high"
+}

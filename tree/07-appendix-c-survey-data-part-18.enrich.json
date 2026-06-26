@@ -1,0 +1,108 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "07-appendix-c-survey-data",
+  "breadcrumb": [
+    "Appendix C: Survey Data"
+  ],
+  "pageRange": [
+    72,
+    72
+  ],
+  "chunkIndex": 17,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:01:42.672Z",
+  "tldr": "Page 72 presents diverse survey responses from Oregon residents and business organizations on economic competitiveness. Dominant themes include: high tax burden and property tax increases limiting affordability; regulatory and permitting delays constraining business growth; workforce challenges (childcare costs, apprenticeship access, low wages); housing affordability crisis; manufacturing and energy sectors concerned about Climate Protection Program competitiveness; labor advocates emphasizing prevailing wages and worker protections; rural infrastructure gaps outside I-5 corridor.",
+  "bullets": [
+    {
+      "text": "Respondent notes property tax increases of 3% annually while personal income stagnates, straining affordability",
+      "page": 72
+    },
+    {
+      "text": "ENTEK International LLC (Lebanon battery separator manufacturer) employs approximately 500 people and contributes less than 1% of statewide EITE emissions",
+      "page": 72
+    },
+    {
+      "text": "Multiple respondents advocate streamlining permitting and regulatory processes, particularly land use and development approvals",
+      "page": 72
+    },
+    {
+      "text": "Childcare affordability and availability cited as critical barrier to workforce attraction and retention across industries",
+      "page": 72
+    },
+    {
+      "text": "Prevailing wage standards and union apprenticeship programs cited as essential models for family-wage jobs and worker prosperity",
+      "page": 72
+    },
+    {
+      "text": "Manufacturing and energy businesses cite Climate Protection Program as competitive disadvantage relative to other U.S. states",
+      "page": 72
+    },
+    {
+      "text": "Measure 5/50 property tax reform requested to align Oregon taxes with actual property values",
+      "page": 72
+    },
+    {
+      "text": "CoEnergy Propane generates approximately $10 million annual revenue but pays more than $250,000 annually in Oregon taxes and fees",
+      "page": 72
+    },
+    {
+      "text": "Cherriots transit authority announced .7% payroll tax while Oregon currently has .01% statewide payroll tax",
+      "page": 72
+    },
+    {
+      "text": "Rural infrastructure investment outside I-5 corridor and shovel-ready site development identified as critical needs",
+      "page": 72
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "3%",
+      ".7%",
+      ".01%",
+      "$10 million",
+      "more than $250,000",
+      "500 people",
+      "less than 1%"
+    ],
+    "ftes": [
+      "2-3 years",
+      "2–3 years"
+    ],
+    "programs": [
+      "Climate Protection Program (CPP)",
+      "Measure 5/50",
+      "Oregon Promise",
+      "Preschool for All",
+      "Regional Solutions",
+      "Enterprise Zone program",
+      "Business Oregon",
+      "BOLI",
+      "Clean Air Oregon",
+      "JATC",
+      "Cherriots"
+    ],
+    "bureaus": [
+      "IBEW Local 48",
+      "Oshkosh AeroTech Oregon, Inc.",
+      "Strategic Economic Development Corporation",
+      "Redmond Economic Development, Inc.",
+      "ROSE Community",
+      "ENTEK International LLC",
+      "ENTEK Membranes",
+      "Oregon Rural Electric Cooperative Association (ORECA)",
+      "CMS Energy Advisors",
+      "CoEnergy Propane, LLC",
+      "NW Natural",
+      "Western Oregon Builders Association",
+      "Governor Kotek",
+      "Department of Environmental Quality (DEQ)",
+      "Department of State Lands (DSL)",
+      "Oregon Bureau of Labor and Industries",
+      "Energy Trust of Oregon",
+      "Oregon Housing and Community Services"
+    ]
+  },
+  "confidence": "medium"
+}

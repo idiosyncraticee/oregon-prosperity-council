@@ -1,0 +1,92 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "09-appendix-e-submissions-feedback/09-westside-economic-alliance-industrial-land-readiness-work",
+  "breadcrumb": [
+    "Appendix E: Submissions & Feedback",
+    "09. Westside Economic Alliance (Industrial Land Readiness Workgroup)"
+  ],
+  "pageRange": [
+    159,
+    164
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:05:41.485Z",
+  "tldr": "Westside Economic Alliance submitted recommendations to Metro Council from its Industrial Land Readiness Workgroup (Feb-Sept 2025). WEA advocates that Metro's Urban Growth Report methodology fails to account for market realities—much zoned industrial land is unsuitable for actual development due to slope, size, and infrastructure constraints. They recommend: adopting a resolution acknowledging the problem, providing funding for jurisdictional planning, streamlining the UGB expansion process via Title 11 changes, developing a grading/tiering system for land evaluation, adopting forward-looking economic forecasting, and creating an \"implementers table\" with industry experts to produce a Regional Jobs Strategy by Q4 2026.",
+  "bullets": [
+    {
+      "text": "Industrial Land Readiness Workgroup convened February-September 2025 with 18 private-sector members (brokers, developers, planners, economists) and public-sector partners from Port of Portland, Hillsboro, Tualatin, and Clackamas County",
+      "page": 160
+    },
+    {
+      "text": "Workgroup identified two goals: (1) help Metro create forecast process with growth scenarios reflecting market demand; (2) create economic development-focused \"implementers table\" with industry experts as advisory to MTAC, MPAC, and Metro Council",
+      "page": 160
+    },
+    {
+      "text": "Metro's 2024 Urban Growth Report and buildable lands methodology do not adequately account for market realities; much industrially zoned land is undevelopable due to slope, lot size, and utility access",
+      "page": 159
+    },
+    {
+      "text": "Recommendation #1: Metro adopt resolution acknowledging that existing industrial lands don't meet market demands and commit to developing strategy ensuring adequate buildable industrial land availability",
+      "page": 161
+    },
+    {
+      "text": "Recommendation #2: Provide funding via 2040 Planning and Development Grants for cities to hire planning staff/consultants by end of 2026; no city has used site-specific UGB expansion process since 2010",
+      "page": 161
+    },
+    {
+      "text": "Recommendation #3: Amend Metro Title 11 to streamline UGB expansion process; require concept plan phase to include robust visioning and infrastructure planning; limit comprehensive plan phase to implementation",
+      "page": 161
+    },
+    {
+      "text": "Recommendation #4: Develop and adopt Grading/Tiering System by Q4 2026 evaluating industrial land on lot size, geometry, slope, natural features, infrastructure access, and contiguity",
+      "page": 162
+    },
+    {
+      "text": "Recommendation #5: Future Urban Growth Reports should adopt aspirational forecasting directive modeling future economic performance including results from planned economic development interventions",
+      "page": 162
+    },
+    {
+      "text": "Recommendation #6: Create \"implementers table\" staffed by Metro with industry experts; produce Regional Jobs Strategy by Q4 2026 identifying target industries, land requirements, infrastructure needs, and technical fixes to Metro rules",
+      "page": 163
+    }
+  ],
+  "entities": {
+    "dollars": [],
+    "ftes": [
+      "February 11, 2026",
+      "2024",
+      "February to September 2025",
+      "2010",
+      "end of 2026",
+      "end of Q1 2026",
+      "end of Q4 2026",
+      "2027 Legislative Session"
+    ],
+    "programs": [
+      "Urban Growth Report (UGR)",
+      "Urban Growth Boundary (UGB)",
+      "Buildable Land Inventory",
+      "2040 Planning and Development Grants",
+      "Job Ready Lands",
+      "Roadmap to Prosperity",
+      "DLCD Goal 9 (Economic Development)",
+      "Sherwood West UGB expansion",
+      "Regional Jobs Strategy",
+      "CEDS effort"
+    ],
+    "bureaus": [
+      "Westside Economic Alliance",
+      "Metro",
+      "Port of Portland",
+      "City of Hillsboro",
+      "City of Tualatin",
+      "Clackamas County",
+      "DLCD",
+      "Oregon Prosperity Council"
+    ]
+  },
+  "confidence": "high"
+}

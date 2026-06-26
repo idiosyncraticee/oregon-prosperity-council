@@ -1,0 +1,79 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "07-appendix-c-survey-data",
+  "breadcrumb": [
+    "Appendix C: Survey Data"
+  ],
+  "pageRange": [
+    68,
+    68
+  ],
+  "chunkIndex": 13,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:01:05.978Z",
+  "tldr": "Individual Oregonians (residents and small businesses) submitted survey responses on economic competitiveness. Dominant themes: strong support for expanding Preschool for All as workforce investment; divergent views on business regulation (some want deregulation citing Idaho/Florida/Texas models; others want higher corporate/wealth taxation); concern about data center tax incentives and environmental impacts; emphasis on education funding, childcare access, workforce training, and affordable housing as keys to prosperity.",
+  "bullets": [
+    {
+      "text": "Preschool for All cited repeatedly by respondents as critical workforce and economic tool, with claims of 3-to-1 return on investment and raising family incomes by approximately 22% on average.",
+      "page": 68
+    },
+    {
+      "text": "Data centers mentioned frequently as controversial: respondents question tax breaks, environmental impacts (water/land/energy use), and call for moratorium until transparency requirements met.",
+      "page": 68
+    },
+    {
+      "text": "Respondents invoke contrasting models: those opposing regulation cite Florida, Texas, Idaho as low-tax/low-regulation examples; those favoring progressive policy cite New York, New Mexico, Nordic countries.",
+      "page": 68
+    },
+    {
+      "text": "Workforce development emphasized through education investment, union labor advocacy, living wages, apprenticeships, teacher compensation, and childcare access to enable labor force participation.",
+      "page": 68
+    },
+    {
+      "text": "Tax policy split: some respondents advocate reduced business/personal taxes; others advocate higher taxes on wealthy and corporations to fund education, housing, childcare, and public services.",
+      "page": 68
+    },
+    {
+      "text": "Housing affordability, zoning reform (ADUs, middle housing, urban density), and property tax system overhaul (overturning Measure 5 and Measure 50) cited as tools to increase housing supply and infrastructure funding.",
+      "page": 68
+    },
+    {
+      "text": "Environmental transition priorities: clean energy, EV infrastructure, public transit, building codes, restrictions on fossil fuel expansion and data center sprawl on farmland.",
+      "page": 68
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "3-to-1 return on investment",
+      "22% on average"
+    ],
+    "ftes": [
+      "2050",
+      "2-3 years",
+      "1970s"
+    ],
+    "programs": [
+      "Preschool for All",
+      "Universal Pre-K",
+      "Oregon Health Plan",
+      "Paid Leave Oregon",
+      "Oregon Clean Vehicle Rebate Program",
+      "Measure 5",
+      "Measure 50",
+      "Cap and Invest"
+    ],
+    "bureaus": [
+      "Governor Tina Kotek",
+      "Oregon Legislature",
+      "Oregon Health Authority",
+      "Energy Trust",
+      "Portland Street Response",
+      "Take Bread Strategies",
+      "Near Ash Creative LLC",
+      "North Fork Transport"
+    ]
+  },
+  "confidence": "high"
+}

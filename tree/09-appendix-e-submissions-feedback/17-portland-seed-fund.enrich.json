@@ -1,0 +1,76 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "09-appendix-e-submissions-feedback/17-portland-seed-fund",
+  "breadcrumb": [
+    "Appendix E: Submissions & Feedback",
+    "17. Portland Seed Fund"
+  ],
+  "pageRange": [
+    212,
+    214
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:05:30.403Z",
+  "tldr": "Portland Seed Fund urges Governor Kotek to line-item veto the SB 1507 provision decoupling QSBS from federal tax code, arguing it is poorly researched and unfair tax policy. The fund claims the provision targets fewer than 1,000 Oregonians, overestimates revenue since most venture capital is out-of-state, and will incentivize Oregon entrepreneurs to leave at a time when other states are competing for talent. PSF notes its portfolio returned $150 per dollar of state investment.",
+  "bullets": [
+    {
+      "text": "Portland Seed Fund (with sister Intrepid Oregon Fund) is the most active VC investor in Oregon per CB Insights",
+      "page": 212
+    },
+    {
+      "text": "Fund invested in 225+ Oregon home-grown startups since 2010",
+      "page": 212
+    },
+    {
+      "text": "PSF portfolio companies returned $150 per dollar invested by the State within 5 years (per ECO Northwest)",
+      "page": 212
+    },
+    {
+      "text": "State of Oregon is a Limited Partner in Portland Seed Fund alongside approximately 200 private investors",
+      "page": 212
+    },
+    {
+      "text": "QSBS provision affects fewer than 1,000 Oregonians when out-of-state venture capital is excluded from calculation",
+      "page": 213
+    },
+    {
+      "text": "Majority of venture capital deployed in Oregon comes from out-of-state investors, not subject to the QSBS tax",
+      "page": 212
+    },
+    {
+      "text": "43 portfolio companies and multiple former PSF founders signed letter supporting line-item veto of SB 1507",
+      "page": 213
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "$150 per dollar invested",
+      "$25k-$250K range"
+    ],
+    "ftes": [
+      "March 19, 2026",
+      "December 3, 2025",
+      "since 2010",
+      "5 years"
+    ],
+    "programs": [
+      "SB 1507",
+      "QSBS",
+      "Prosperity Roadmap"
+    ],
+    "bureaus": [
+      "Portland Seed Fund",
+      "Intrepid Oregon Fund",
+      "Oregon Venture Fund",
+      "Oregon Growth Board",
+      "State of Oregon",
+      "CB Insights",
+      "ECO Northwest",
+      "Governor Tina Kotek"
+    ]
+  },
+  "confidence": "high"
+}

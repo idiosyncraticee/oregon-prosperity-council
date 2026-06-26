@@ -1,0 +1,30 @@
+{
+  "name": "oregon-prosperity-council-doctree",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Progressive-disclosure web index for the Oregon Prosperity Council Report (June 2026), built for agent navigation.",
+  "scripts": {
+    "dev": "node scripts/gen-public-assets.mjs && next dev",
+    "prebuild": "node scripts/gen-public-assets.mjs",
+    "build": "next build",
+    "serve": "node serve.mjs",
+    "lint": "next lint",
+    "tree:build": "node scripts/build-outline.mjs && node \"$DOCTREE_SKILL/scripts/run.mjs\" plan --project-root . && node scripts/normalize-plan.mjs && node \"$DOCTREE_SKILL/scripts/run.mjs\" emit --project-root .",
+    "tree:enrich": "node \"$DOCTREE_SKILL/scripts/run.mjs\" enrich --project-root . && node \"$DOCTREE_SKILL/scripts/run.mjs\" merge --project-root . && node \"$DOCTREE_SKILL/scripts/run.mjs\" rollup --project-root .",
+    "tree:finish": "node scripts/postprocess-tree.mjs && node \"$DOCTREE_SKILL/scripts/run.mjs\" verify --project-root ."
+  },
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "markdown-it": "^14.1.0",
+    "next": "15.5.4",
+    "react": "19.1.1",
+    "react-dom": "19.1.1"
+  },
+  "devDependencies": {
+    "@types/markdown-it": "^14.1.2",
+    "@types/node": "^22.10.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "typescript": "^5.7.0"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "07-appendix-c-survey-data",
+  "breadcrumb": [
+    "Appendix C: Survey Data"
+  ],
+  "pageRange": [
+    65,
+    65
+  ],
+  "chunkIndex": 10,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:01:09.889Z",
+  "tldr": "This survey-data page presents responses from Oregon residents and organizations addressing state competitiveness. Respondents diverge sharply on priorities: some advocate cutting taxes and reducing regulations to attract business; others stress investing in education, housing affordability, worker protections, and environmental conservation. Recurring concerns include high tax rates (7.6% corporate, 9.9% personal income), permitting delays, data-center resource consumption and tax breaks, inadequate education funding, and housing costs. Recommendations span workforce development, preschool expansion, forest protection, transit improvements, and progressive taxation—reflecting Oregon's ideological divisions with no consensus.",
+  "bullets": [
+    {
+      "text": "Chris Workman (97370) identifies Oregon's 7.6% corporate tax rate, 9.9% top individual income tax rate, and 58.40-cent-per-gallon gasoline tax as drivers causing businesses and employees to leave the state",
+      "page": 65
+    },
+    {
+      "text": "Multiple respondents (Margaret Butler, Patrick O'Herron, Donna Grubbs, Michaela McCormick) criticize data centers for consuming scarce water and electricity, receiving tax breaks, and displacing agricultural land",
+      "page": 65
+    },
+    {
+      "text": "Andrew Simrin documents Oregon's outdoor recreation industry at $16 billion in annual consumer spending and 192,000 jobs, advocating permanent forest protections to sustain this economy",
+      "page": 65
+    },
+    {
+      "text": "Ron Kutch declares 'Oregon is the MOST REGULATED STATE IN THE UNION' and proposes written constitutional amendments to guarantee shortened development and permitting timelines",
+      "page": 65
+    },
+    {
+      "text": "Michaela McCormick cites universal preschool as delivering '3-to-1 return on investment' and raising 'family incomes by about 22% on average'",
+      "page": 65
+    },
+    {
+      "text": "City of La Grande (John, 97850) documents structural fiscal imbalance in rural communities between service/infrastructure demands and available local revenue mechanisms, calling for expanded state tools and flexibility",
+      "page": 65
+    },
+    {
+      "text": "Anne Trudeau and Patrick O'Herron advocate progressive taxation including billionaire taxes and eliminating corporate tax breaks to fund health care, education, and workforce support",
+      "page": 65
+    },
+    {
+      "text": "Susan Sokol Blosser (Sokol Blosser Winery) seeks completion of the 'third leg of the Dundee Bypass' to improve traffic flow and restore downtown economic vitality in wine-country communities",
+      "page": 65
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "7.6%",
+      "9.9%",
+      "58.40 cents per gallon",
+      "$16 billion",
+      "192,000 jobs",
+      "3-to-1 return on investment",
+      "22%"
+    ],
+    "ftes": [
+      "2-3 years",
+      "10 years"
+    ],
+    "programs": [
+      "Preschool for All",
+      "Dundee Bypass",
+      "Regional Solutions",
+      "Enterprise Zones",
+      "Opportunity Zones",
+      "Natural Climate Solutions bill",
+      "Natural and Working Lands Fund",
+      "Northwest Forest Plan",
+      "Roadless Rule",
+      "Fix Our Forest Act",
+      "Beautiful Bill",
+      "SB 1507A",
+      "CAT (Corporate Activity Tax)",
+      "Measure 50",
+      "HB 2021",
+      "COBID certification"
+    ],
+    "bureaus": [
+      "Governor Kotek",
+      "Oregon Department of Forestry",
+      "State Legislature",
+      "Business Oregon",
+      "BOLI",
+      "ODFW",
+      "DLCD",
+      "Department of State Lands",
+      "Secretary of State",
+      "Bureau of Land Management",
+      "Trimet",
+      "Oregon Health Plan",
+      "Third Act Oregon",
+      "DevNW",
+      "Food and Water Watch",
+      "Energy Trust of Oregon",
+      "OSU",
+      "Portland Community College",
+      "UC Davis",
+      "Intel",
+      "Boeing",
+      "Merck",
+      "Walmart",
+      "Sony",
+      "Hyundai"
+    ]
+  },
+  "confidence": "medium"
+}

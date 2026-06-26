@@ -1,0 +1,112 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "09-appendix-e-submissions-feedback/22-tillamook-county-creamery-association",
+  "breadcrumb": [
+    "Appendix E: Submissions & Feedback",
+    "22. Tillamook County Creamery Association"
+  ],
+  "pageRange": [
+    245,
+    253
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:07:25.235Z",
+  "tldr": "Tillamook County Creamery Association, an Oregon dairy processor, submits that Oregon faces three critical regulatory barriers: (1) regulatory incoherence across agencies in eastern Oregon's integrated agricultural system; (2) agricultural overtime rules scheduled to drop from 48 hours (2025) to 40 hours (2027), which cap worker hours and increase biosecurity risk; and (3) the Recycling Modernization Act penalizing FDA-mandated food packaging. On workforce, Tillamook identifies a rural livability gap—childcare scarcity and high housing costs—not skills shortage. On economic tools, Oregon's incentives are passive tax-relief programs; the state cannot make real-time competitive custom offers like Illinois's Decatur experience demonstrated.",
+  "bullets": [
+    {
+      "text": "Tillamook's Boardman facility anchors an integrated eastern Oregon system (food processors, port, irrigated farmland) supporting thousands of jobs; regulatory coherence across agencies is critical to retention and investment.",
+      "page": 245
+    },
+    {
+      "text": "Agricultural overtime threshold dropped to 48 hours in 2025 with path to 40 hours in 2027; TCCA recommends 55 hours per week as practical threshold where workers earn meaningful overtime without artificial hour-caps.",
+      "page": 246
+    },
+    {
+      "text": "Recycling Modernization Act penalizes food packaging required by FDA food safety regulations; DEQ denied exemptions; TCCA recommends separate fee category, published methodology, and independent audit.",
+      "page": 246
+    },
+    {
+      "text": "Tillamook County documented as \"childcare desert\" with fewer than 3 regulated childcare slots per child needing care; childcare workers among lowest-paid skilled professions; operating at structural loss without subsidy.",
+      "page": 248
+    },
+    {
+      "text": "Prevailing wage policy unintended consequence: 72-unit rural workforce housing project triggered prevailing wage requirements by accepting state financing, adding $2 to $3 million in labor costs.",
+      "page": 249
+    },
+    {
+      "text": "Yamhill County Project Oasis model: 100-slot childcare facility backed by corporate-sponsored employee slots and family scholarships serving families between public assistance eligibility thresholds.",
+      "page": 250
+    },
+    {
+      "text": "Clatsop County grant program to prevent childcare closures achieved 17 percent increase in children served in first six months; county currently accommodates only 8 percent of infants and toddlers.",
+      "page": 250
+    },
+    {
+      "text": "Cost competitiveness: it is cheaper for Tillamook to manufacture cheese elsewhere and ship to Oregon than produce domestically; cost stack includes agricultural overtime, carbon-policy energy costs, CAT on supplier invoices, and contracted milk supply.",
+      "page": 251
+    },
+    {
+      "text": "Oregon's economic development tools are passive (rural enterprise zones, tax abatement, loan programs); state lacks ability to make proactive, custom offers when capital decisions are on the table.",
+      "page": 251
+    },
+    {
+      "text": "Decatur, Illinois regional EDC model: custom incentive package, monthly calls for more than two years, property acquisition support, and ongoing engagement on plant optimization and master planning.",
+      "page": 247
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "$2 to $3 million",
+      "17 percent increase in children served",
+      "8 percent",
+      "100-slot",
+      "72-unit"
+    ],
+    "ftes": [
+      "March 31, 2026",
+      "2025",
+      "2027",
+      "2-3 years",
+      "2023",
+      "first six months",
+      "more than two years"
+    ],
+    "programs": [
+      "Recycling Modernization Act",
+      "EPR program",
+      "ecomodulation",
+      "Circular Action Alliance",
+      "Middle Income Revolving Loan Fund",
+      "Employment Related Day Care program",
+      "Oregon Shared Services Alliance for childcare",
+      "rural enterprise zones",
+      "property tax abatement",
+      "food processor property tax exemption for qualified machinery and equipment",
+      "Project Oasis",
+      "prevailing wage law",
+      "Exclusive Farm Use designation",
+      "CAT"
+    ],
+    "bureaus": [
+      "Tillamook County Creamery Association",
+      "Trevor Beltz",
+      "Oregon Prosperity Council",
+      "DEQ",
+      "ODA",
+      "Business Oregon",
+      "BOLI",
+      "Adventist Health",
+      "Hampton Lumber",
+      "Tillamook Bay Community College",
+      "Governor's office",
+      "Legislature",
+      "Yamhill County",
+      "Clatsop County",
+      "Tillamook County"
+    ]
+  },
+  "confidence": "high"
+}

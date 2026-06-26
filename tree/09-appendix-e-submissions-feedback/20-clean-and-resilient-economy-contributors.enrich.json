@@ -1,0 +1,76 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "09-appendix-e-submissions-feedback/20-clean-and-resilient-economy-contributors",
+  "breadcrumb": [
+    "Appendix E: Submissions & Feedback",
+    "20. Clean and Resilient Economy Contributors"
+  ],
+  "pageRange": [
+    228,
+    240
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:06:43.664Z",
+  "tldr": "This group submission advocates formally designating Clean & Resilient Economy as a priority traded-sector platform under Business Oregon. Contributors argue Oregon possesses structural competitive advantages—advanced manufacturing expertise, power resources, research institutions, engineering talent—but lacks coordinated economic architecture. They propose an integrated system connecting eight priority industry clusters, innovation and capital formation, workforce systems, infrastructure, and resilience planning. The submission recommends a four-tier governance model led by an Executive Steering Committee, with support from Industry Cluster Councils, Innovation & Capital Advisory, and Regional Advisory Networks. A 90-day activation plan is outlined to establish formal designation, align stakeholders, and signal market intent.",
+  "bullets": [
+    {
+      "text": "Formally designate Clean and Resilient Economy as a priority traded-sector platform under the Prosperity Roadmap and Business Oregon, with Business Oregon named as steward.",
+      "page": 231
+    },
+    {
+      "text": "Identifies eight priority traded-sector clusters for focused concentration: Clean Tech/Adv Mfg, Clean Energy, Transportation & Mobility, Built Environment, Food Systems & Ag, Forestry & Wood Products, Outdoor Gear & Apparel, and Clean Manufacturing.",
+      "page": 233
+    },
+    {
+      "text": "Proposes four-tier governance structure: Executive Steering Committee (state-level), Industry-Led Cluster Councils, Innovation & Capital Advisory, and Regional & Community Advisory Network.",
+      "page": 238
+    },
+    {
+      "text": "Calls for Clean Industry Command Center providing technical assistance, commercialization acceleration, and market access support to retain and scale companies.",
+      "page": 232
+    },
+    {
+      "text": "Advocates structured multi-stage capital access and network of shared applied infrastructure/labs organized around priority clusters and coordinated through public-private partnerships.",
+      "page": 235
+    },
+    {
+      "text": "Emphasizes workforce systems must be responsive to industry demand: aligned talent strategies, expanded clean career pathways, industry-integrated training, and applied labs for faster industry outcomes.",
+      "page": 236
+    },
+    {
+      "text": "Positions resilience (natural systems, built environment, public health, cultural systems, climate adaptation) as economic competitiveness multiplier, not an add-on.",
+      "page": 237
+    },
+    {
+      "text": "90-day activation pathway: days 0-30 designate platform and validate 3–4 priority clusters; days 30-60 align capital/infrastructure/workforce gaps; days 60-90 announce designation with 12-month operating plan.",
+      "page": 239
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "3–4 priority clusters",
+      "3–5 measurable 12-month outcomes",
+      "2–3 early proof points"
+    ],
+    "ftes": [
+      "February 2026",
+      "January 2026",
+      "2026-28"
+    ],
+    "programs": [
+      "Oregon Prosperity Roadmap",
+      "Future Ready Oregon"
+    ],
+    "bureaus": [
+      "Business Oregon",
+      "Governor's Office",
+      "Tribal governments",
+      "Oregon Prosperity Council",
+      "Oregon Clean Energy Workforce Coalition"
+    ]
+  },
+  "confidence": "high"
+}

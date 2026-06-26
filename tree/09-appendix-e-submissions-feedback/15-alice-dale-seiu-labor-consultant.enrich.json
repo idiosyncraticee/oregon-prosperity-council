@@ -1,0 +1,99 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "09-appendix-e-submissions-feedback/15-alice-dale-seiu-labor-consultant",
+  "breadcrumb": [
+    "Appendix E: Submissions & Feedback",
+    "15. Alice Dale (SEIU Labor Consultant)"
+  ],
+  "pageRange": [
+    205,
+    207
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:05:37.677Z",
+  "tldr": "Alice Dale, SEIU Labor Consultant, advocates for a \"High Road\" economic strategy focused on raising per capita income and improving wages for low- and middle-income workers rather than GDP or job counts. She argues that education investment (especially fulfilling Oregon's 40/40/20 vision) and quality of life are the primary economic drivers, while tax incentives are ineffective and wasteful. Dale cites evidence that companies now locate based on workforce quality, not tax breaks, and recommends prioritizing education, minimum wage leadership, and quality-of-life infrastructure over cost-cutting competition.",
+  "bullets": [
+    {
+      "text": "College attainment explains ~70% of income variation across states, more than any other factor",
+      "page": 205
+    },
+    {
+      "text": "Oregon's 40/40/20 vision (40% bachelor's, 40% associate's, 20% high school diploma) was adopted into law (ORS 350.014) in 2011 but remains unfulfilled, particularly for people of color",
+      "page": 205
+    },
+    {
+      "text": "Upjohn Institute research: up to 90% of tax incentives go to companies that would have located anyway",
+      "page": 206
+    },
+    {
+      "text": "Business location decisions have reversed—companies now go where talented workers are; workforce is the #1 location factor",
+      "page": 206
+    },
+    {
+      "text": "Oregon ranks 11th in net inbound business migration (2021), showing business relocation is a small growth factor compared to new firm formation",
+      "page": 206
+    },
+    {
+      "text": "Recovery from 1979-1982 downturn (when 10% of Oregon jobs disappeared) was built on quality of life and innovation, not subsidies",
+      "page": 206
+    },
+    {
+      "text": "College-educated 25-34 year-olds grew five times faster in Portland than in other large metros, 1990-2000",
+      "page": 207
+    },
+    {
+      "text": "Since 2005, Oregon has maintained among the highest minimum wages in the US; since 2008, Oregon 10th-percentile wages rose 37% vs. US +29%",
+      "page": 207
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "~70%",
+      "90%",
+      "11th",
+      "10%",
+      "40/40/20",
+      "+37%",
+      "+29%",
+      "+24%",
+      "+16%"
+    ],
+    "ftes": [
+      "2005",
+      "2007",
+      "2008",
+      "2011",
+      "1979-1982",
+      "1982-2000",
+      "1990-1991",
+      "1990-2000",
+      "2021",
+      "2026"
+    ],
+    "programs": [
+      "40/40/20 vision",
+      "Oregon Business Plan",
+      "ORS 350.014",
+      "Enterprise Zone",
+      "High Road strategy"
+    ],
+    "bureaus": [
+      "Alice Dale",
+      "SEIU",
+      "Business Oregon",
+      "Upjohn Institute",
+      "Bartik",
+      "Bipartisan Policy Center",
+      "Oregon Legislature",
+      "Tektronix",
+      "TikTok",
+      "Wieden+Kennedy",
+      "Tom McCall",
+      "Philippe Aghion"
+    ]
+  },
+  "confidence": "high"
+}

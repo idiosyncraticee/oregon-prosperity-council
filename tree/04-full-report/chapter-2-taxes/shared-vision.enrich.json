@@ -1,0 +1,56 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "04-full-report/chapter-2-taxes/shared-vision",
+  "breadcrumb": [
+    "Full Report",
+    "Chapter 2: Taxes",
+    "Shared Vision"
+  ],
+  "pageRange": [
+    18,
+    18
+  ],
+  "chunkIndex": 0,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T02:00:29.020Z",
+  "tldr": "Oregon's tax system should be stable, competitive, and predictable, funding public services while attracting investment and retaining talent to support business growth and long-term prosperity. The state must fix structural inefficiencies, align state and local tax policy, and build a broader revenue base. Reforms should rebuild public trust through greater transparency, accountability, simplicity, and demonstrated accountability for measurable outcomes.",
+  "bullets": [
+    {
+      "text": "Create a stable, competitive, predictable tax system that funds important public services",
+      "page": 18
+    },
+    {
+      "text": "Tax system should attract investments, retain talent, and support business growth and long-term prosperity",
+      "page": 18
+    },
+    {
+      "text": "Fix structural inefficiencies in Oregon's tax system",
+      "page": 18
+    },
+    {
+      "text": "Improve alignment between state and local tax policy",
+      "page": 18
+    },
+    {
+      "text": "Build a broader, more resilient revenue base",
+      "page": 18
+    },
+    {
+      "text": "Rebuild public trust through greater transparency, accountability, and simplicity",
+      "page": 18
+    },
+    {
+      "text": "Ensure confidence that tax revenues are used effectively to deliver measurable outcomes for Oregonians",
+      "page": 18
+    }
+  ],
+  "entities": {
+    "dollars": [],
+    "ftes": [],
+    "programs": [],
+    "bureaus": []
+  },
+  "confidence": "high"
+}

@@ -1,0 +1,16 @@
+Modeling a kicker return based upon recent history might overstate future impact
+Kicker Credit as a share of Personal Income Tax Liability
+Oregon's constitutional 2% kicker returns
+excess revenue when collections exceed
+the close-of-session forecast. Triggered
+in 4 of the last 6 cycles. Default rate
+used here: 15% (6-cycle weighted average).
+Dollar impact for these households
+HH1 ($40K): −$369 / year
+HH2 ($80K): −$730 / year
+HH3 ($108K): −$1,053 / year
+HH4 ($130K): −$1,297 / year
+Without the kicker, Oregon's state+local burden
+would be meaningfully further above Washington
+for all four households.
+Source: Oregon DOR, LRO Kicker Report #1-24

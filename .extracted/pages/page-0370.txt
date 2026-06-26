@@ -1,0 +1,37 @@
+Priority 2: Cost Protection for Emissions-Intensive, Trade-Exposed
+Manufacturing under Greenhouse Gas Reduction regulations
+Semiconductor fabrication relies on specialized process gases and chemistries that are
+essential to manufacturing and often have no viable near‑term substitutes. The industry has
+already invested decades in emissions abatement, chemical substitution where feasible, and
+energy efficiency. Most advanced facilities now operate at or near the limits of
+best‑available technology, with few remaining reduction pathways.
+Oregon’s Climate Protection Program (CPP) risks imposing compliance costs without
+corresponding technical solutions for further reductions. The CPP will act as another costly
+tax on production when no viable options exist to reduce emissions. Because competing
+semiconductor states do not impose similar requirements, this creates a cost asymmetry
+that directly affects where manufacturing work is located within the U.S.
+Recommendation: Whether Oregon continues under the current Climate Protection
+Program or adopts a market‑based system, emissions‑intensive, trade‑exposed
+semiconductor manufacturing must be protected through credit for early reductions,
+cost‑protected or no‑cost compliance mechanisms for facilities using best‑available
+technology, and exemptions for unavoidable process emissions where no feasible
+alternatives exist.
+Priority 3: Streamline and Clarify Air Toxics Permitting (Cleaner Air Oregon)
+Semiconductor R&D and manufacturing require frequent process changes and new
+chemistries. Oregon’s Cleaner Air Oregon program is among the most complex and costly
+air toxics systems in the nation, covering hundreds of compounds and relying on cumulative
+risk modeling without defined timelines. Moreover, DEQ continues to change implementing
+rules creating significant uncertainty for manufacturers that are in the program or will need
+an air permit in the future. Comparable states regulate air toxics with fewer chemicals,
+clearer thresholds, and much shorter and predictable permitting timelines.
+Undefined timelines create uncertainty for expansions and can delay or constrain R&D
+activities. Chemical‑specific limits also restrict innovation by triggering additional modeling
+and permitting for routine process changes. And constant changes to the regulations create
+significant regulatory uncertainty.
+Recommendation: Simplify Cleaner Air Oregon by establishing enforceable permitting
+timelines and adopting a simplified process and framework that protect public health while
+providing operational certainty and flexibility.
+Priority 4: Affordability and Workforce Retention
+Oregon has made progress in semiconductor workforce development, but cost‑of‑living
+pressures undermine recruitment and retention of technicians and early‑career
+professionals essential to fab operations. Housing costs, individual tax burdens, and high

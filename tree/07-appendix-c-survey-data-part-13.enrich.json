@@ -1,0 +1,108 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "07-appendix-c-survey-data",
+  "breadcrumb": [
+    "Appendix C: Survey Data"
+  ],
+  "pageRange": [
+    67,
+    67
+  ],
+  "chunkIndex": 12,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:01:21.016Z",
+  "tldr": "Public comment submissions from Oregon Prosperity Council survey respondents (individuals and organizations) on economic priorities. Dominant themes: aging workforce strategy and skills training, tax code reform (SB 1507, QBI deduction), K-12 education underfunding since Measure 5, housing and urban land-use shortage, permitting delays, childcare as workforce enabler, climate policy trade-offs, and regulatory burden. Respondents show divided views on climate regulation costs versus business opportunity.",
+  "bullets": [
+    {
+      "text": "Aging workforce critical: one in four Oregon jobs held by workers 55+; more residents 65+ than youth under 18; HECC struggling to meet educational attainment goals for adults 40+",
+      "page": 67
+    },
+    {
+      "text": "SB 1507 repeal requested to restore SBQS tax benefit for startups; removal of benefit threatens investment and could drive founders, shareholders, investors out of state",
+      "page": 67
+    },
+    {
+      "text": "K-12 chronically underfunded since Measure 5 (1990s); schools facing escalating liability and insurance costs; revenue reform via QEM model and accountability proposed",
+      "page": 67
+    },
+    {
+      "text": "Climate Protection Program criticized for raising energy costs without guaranteed emissions reductions or business investment incentives; immediate pause recommended",
+      "page": 67
+    },
+    {
+      "text": "Permitting delays and SDC fees identified as major barriers; developers face high time/cost hurdles; system described as baked to delay or block development",
+      "page": 67
+    },
+    {
+      "text": "Urban land supply shortage: 42,200 net acres needed by 2045 to accommodate 491,347 housing units; 81% required in cities of 10,000+ population",
+      "page": 67
+    },
+    {
+      "text": "Childcare and early education positioned as workforce enabler; employee retention and family recruitment tied to childcare access and affordability",
+      "page": 67
+    },
+    {
+      "text": "UBI programs expanding nationally: 18 states with UBI in 2025, 57 programs total, 12 in California; proof-of-concept success documented",
+      "page": 67
+    },
+    {
+      "text": "Clean energy incentives needed (EV rebates, solar, heat pump support) to attract businesses and workers; grid capacity and permitting challenges impeding adoption",
+      "page": 67
+    },
+    {
+      "text": "Preschool for All program cited as national model; universal free pre-K gaining momentum as competitive workforce retention and family support tool",
+      "page": 67
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "One in four Oregon jobs",
+      "81%",
+      "0.07%",
+      "491,347 housing units",
+      "42,200 net acres",
+      "18 states",
+      "57 programs total",
+      "12 in California"
+    ],
+    "ftes": [
+      "1990s",
+      "2025",
+      "2045",
+      "2-3 years"
+    ],
+    "programs": [
+      "SB 1507",
+      "SBQS exclusion",
+      "QBI deduction",
+      "Measure 5",
+      "Climate Protection Program (CPP)",
+      "QSBS",
+      "Preschool for All",
+      "Oregon's Youth Experiencing Homelessness Program",
+      "UBI programs",
+      "Multi-Sector Plan (MPA)",
+      "Future Ready Oregon",
+      "Workforce Oregon"
+    ],
+    "bureaus": [
+      "Governor Kotek",
+      "Oregon Prosperity Council",
+      "State Legislature",
+      "HECC",
+      "Department of Land Conservation and Development",
+      "Land Conservation and Development Commission",
+      "Business Oregon",
+      "IBEW 280",
+      "Oregon REALTORS®",
+      "Beaverton School District",
+      "Point Source Youth",
+      "Oregon DEQ",
+      "BOLI",
+      "Local governments"
+    ]
+  },
+  "confidence": "medium"
+}

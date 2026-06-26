@@ -1,0 +1,122 @@
+{
+  "fingerprint": "8ac9aef8ca1b24b32e724c6946078ff10a6cfbcaaac66d596570eeb60ba2c1cf",
+  "section": "07-appendix-c-survey-data",
+  "breadcrumb": [
+    "Appendix C: Survey Data"
+  ],
+  "pageRange": [
+    59,
+    59
+  ],
+  "chunkIndex": 4,
+  "model": "haiku",
+  "docType": "generic",
+  "authMode": "claude-code-subscription",
+  "generatedAt": "2026-06-26T00:00:24.036Z",
+  "tldr": "Appendix C survey data from 30+ Oregon stakeholders (businesses, nonprofits, individuals) on economic development priorities. Dominant themes: clean energy/manufacturing as growth sectors; workforce development and prevailing wage/union standards; startup ecosystem concerns over SB 1507 retroactive taxation; regulatory and permitting complexity barriers; childcare/Preschool for All advocacy; housing affordability crisis; K–12 education reform. Respondents span market-oriented (business tax cuts, deregulation) to progressive (wealth taxes, labor protections, climate action) viewpoints.",
+  "bullets": [
+    {
+      "text": "Clean energy sector sustained 67,000 in-state jobs in 2023 (breakdown: 11,185 from electricity generation, 5,720 from fuels, 13,159 from transmission/distribution); advocates call for transmission authority, grid modernization, and EVs/heat pump policies modeled on Texas and California",
+      "page": 59
+    },
+    {
+      "text": "SB 1507 imposes retroactive 9.9% state income tax on startup exits (effective January 1, 2026), creating disincentive to found/invest in Oregon; startup community warns of relocation to Washington (15 minutes away, zero state income tax) and cites need for QSBS conformity restoration",
+      "page": 59
+    },
+    {
+      "text": "Labor standards laws HB 2021, HB 3031, HB 4059, HB 4080 codified prevailing wages, apprenticeship requirements, and targeted hiring for clean energy projects; advocates seek expansion to other sectors and stricter enforcement",
+      "page": 59
+    },
+    {
+      "text": "Preschool for All program endorsed as 3-to-1 return-on-investment and family income booster (~22%); noted as existing model with proven outcomes, warranting expansion while maintaining quality",
+      "page": 59
+    },
+    {
+      "text": "Permitting and regulatory complexity barrier cited across industries: seafood processors face prohibitive wastewater standards (heavy metals removal despite trace-level occurrence); construction delays; calls for pre-permit industry collaboration and economic feasibility review",
+      "page": 59
+    },
+    {
+      "text": "Wage stagnation and inequality: 28% of Oregon jobs pay less than $20/hour, 57% less than $30/hour; top 1% wages grew 345% over four decades vs. 15% gain for average worker; multiple calls for wealth taxes, corporate tax increases, and higher minimum wage",
+      "page": 59
+    },
+    {
+      "text": "Industrial site shortage in Portland Metro: average parcel size 2.5 acres; extremely limited sites over 20 acres; none over 50 acres; HB 4078 removal of 2,200 industrial acres projected to cost state 30,000 jobs and $6.3–$12.7B annual revenue",
+      "page": 59
+    },
+    {
+      "text": "Housing affordability crisis: renters and homebuyers priced out despite above-minimum wages; proposals include rent freeze, affordable infill, land value tax reform, limits on NNN rent increases, and protections for commercial tenants",
+      "page": 59
+    },
+    {
+      "text": "Education system reform priorities: ability to dismiss underperforming teachers (union protections cited as barrier); K–12 curriculum overhaul for modern economy; consolidation of districts under 500 students; school schedule alignment with working parents; college affordability and 'earn to learn' programs",
+      "page": 59
+    }
+  ],
+  "entities": {
+    "dollars": [
+      "67,000 jobs",
+      "11,185 jobs",
+      "5,720 jobs",
+      "13,159 jobs",
+      "28%",
+      "57%",
+      "9.9%",
+      "30,000 jobs",
+      "$6.3B–$12.7B",
+      "$100 million",
+      "$38.9M",
+      "$83M",
+      "3-to-1 return on investment",
+      "22% family income increase"
+    ],
+    "ftes": [
+      "2023",
+      "2025-27 biennium",
+      "2029-31",
+      "January 1, 2026"
+    ],
+    "programs": [
+      "Climate Protection Program",
+      "HB 2021",
+      "HB 4059",
+      "HB 3031",
+      "HB 4080",
+      "SB 1507",
+      "QSBS",
+      "Preschool for All",
+      "Oregon CHIPS Act",
+      "Clean Fuels Program",
+      "Community Solar Program",
+      "Virtual Power Plants",
+      "R&D Tax Credit",
+      "Enterprise Zone",
+      "Strategic Investment Program",
+      "Regionally Significant Industrial Sites",
+      "Future Ready Oregon",
+      "HB 4078",
+      "Market Access program"
+    ],
+    "bureaus": [
+      "OPUC",
+      "DEQ",
+      "Business Oregon",
+      "Oregon Department of Agriculture",
+      "Climate Jobs Oregon",
+      "PIE",
+      "Prosper Portland",
+      "Oregon Growth Board",
+      "Oregon Innovation Council",
+      "BOLI",
+      "Portland Community College",
+      "Oregon Trawl Commission",
+      "City of Hillsboro",
+      "Multnomah County",
+      "Pacific Seafood",
+      "Bernstein's Bagels",
+      "Wildish Sand & Gravel Co.",
+      "Outlet PDX",
+      "Coyote Logic LLC"
+    ]
+  },
+  "confidence": "medium"
+}
