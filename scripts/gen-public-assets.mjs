@@ -19,6 +19,17 @@ const TREE = join(ROOT, "tree");
 const PAGES = join(ROOT, ".extracted", "pages");
 const PUBLIC = join(ROOT, "public");
 const SITE_URL = (process.env.SITE_URL || "").replace(/\/$/, ""); // e.g. https://prosperity.example.org
+// When composed into yex.ai this explorer is served under a sub-path. These
+// static files are plain text fetched directly by agents/crawlers — Next never
+// rewrites them — so their internal path references must carry the base path.
+const BASE_PATH = (process.env.BASE_PATH || "").replace(/\/$/, ""); // e.g. /gov/oregon/prosperity-council
+// Prefix a root-absolute path with the base (idempotent; leaves externals/anchors).
+const withBase = (p) => {
+  if (!BASE_PATH) return p;
+  if (!p.startsWith("/") || p.startsWith("//")) return p;
+  if (p === BASE_PATH || p.startsWith(BASE_PATH + "/")) return p;
+  return BASE_PATH + p;
+};
 const UPSTREAM_PDF = "https://www.oregon.gov/gov/Documents/Oregon%20Prosperity%20Council%20Report_June%202026.pdf";
 
 function walk(dir, acc = []) {
@@ -134,7 +145,10 @@ writeFileSync(join(PUBLIC, "search-index.json"), JSON.stringify(searchEntries));
 // 4) llms.txt (llmstxt.org convention) — a clean hierarchical map, excluding
 //    chunk-part artifacts. Index sections (Full Report, Appendix E, Appendix F)
 //    get their direct children nested beneath them.
-const abs = (href) => (SITE_URL ? SITE_URL + href : href);
+// Always base-prefix the path; SITE_URL (an origin) is an optional prefix on top.
+// search-index.json hrefs deliberately bypass this — they are consumed by <Link>,
+// which Next auto-prefixes, so they stay bare.
+const abs = (href) => (SITE_URL || "") + withBase(href);
 const linkLine = (n, indent = "") =>
   `${indent}- [${n.title}](${abs(n.href)})${n.tldr ? ": " + n.tldr.replace(/\n/g, " ") : ""}`;
 const realNodes = nodes.filter((n) => n.kind !== "meta" && !isChunkPart(n.route));
@@ -197,18 +211,17 @@ writeFileSync(join(PUBLIC, "llms-full.txt"), full.join("\n"));
 const robots = [
   "User-agent: *",
   "Allow: /",
-  SITE_URL ? `Sitemap: ${SITE_URL}/sitemap.xml` : "# Set SITE_URL at build time to emit an absolute Sitemap URL here.",
+  SITE_URL ? `Sitemap: ${SITE_URL}${withBase("/sitemap.xml")}` : "# Set SITE_URL at build time to emit an absolute Sitemap URL here.",
   "",
 ].join("\n");
 writeFileSync(join(PUBLIC, "robots.txt"), robots);
 
 // 7) sitemap.xml
 const urls = ["/", "/search/", ...nodes.filter((n) => n.route !== "/").map((n) => n.href)];
-const base = SITE_URL || "";
 const sitemap =
   `<?xml version="1.0" encoding="UTF-8"?>\n` +
   `<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n` +
-  urls.map((u) => `  <url><loc>${base}${u}</loc></url>`).join("\n") +
+  urls.map((u) => `  <url><loc>${abs(u)}</loc></url>`).join("\n") +
   `\n</urlset>\n`;
 writeFileSync(join(PUBLIC, "sitemap.xml"), sitemap);
 

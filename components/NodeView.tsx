@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { type Node, renderNodeParts, getNodes, UPSTREAM_PDF_URL } from "@/lib/tree";
+import { withBase } from "@/lib/base";
 
 /** Build breadcrumb links by walking the node's breadcrumb titles against known nodes. */
 function Breadcrumbs({ node }: { node: Node }) {
@@ -45,7 +46,7 @@ export default function NodeView({ node }: { node: Node }) {
             Source PDF {pageLabel} ↗
           </a>
         )}
-        <a className="raw-link" href={node.rawHref}>view raw markdown</a>
+        <a className="raw-link" href={withBase(node.rawHref)}>view raw markdown</a>
       </div>
 
       {tldrHtml && (

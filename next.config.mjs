@@ -14,6 +14,10 @@ const nextConfig = {
   reactStrictMode: true,
   images: { unoptimized: true },
   ...(BASE_PATH ? { basePath: BASE_PATH, assetPrefix: BASE_PATH } : {}),
+  // Expose the base path to both server and client bundles so lib/base.ts can
+  // prefix the surfaces Next does NOT auto-prefix (plain <a>, fetch, markdown
+  // links). Always defined (empty string at root) so client reads never throw.
+  env: { NEXT_PUBLIC_BASE_PATH: BASE_PATH || "" },
   // pin the tracing root (a stray lockfile in $HOME otherwise triggers a warning)
   outputFileTracingRoot: import.meta.dirname,
 };

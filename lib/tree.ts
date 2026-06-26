@@ -2,6 +2,7 @@ import fs from "node:fs";
 import path from "node:path";
 import matter from "gray-matter";
 import MarkdownIt from "markdown-it";
+import { withBase } from "./base";
 
 export const REPO_ROOT = process.cwd();
 export const TREE_DIR = path.join(REPO_ROOT, "tree");
@@ -152,9 +153,19 @@ export function rewriteHref(href: string, fromFileAbs: string): string {
   return trimmed;
 }
 
-/** Rewrite every markdown link target in a body relative to its source file. */
+/**
+ * Rewrite every markdown link target in a body relative to its source file.
+ *
+ * The output is rendered to raw <a> tags inside dangerouslySetInnerHTML, which
+ * Next.js does NOT base-prefix — so we apply withBase() here. (rewriteHref
+ * itself stays un-prefixed because parseContentsRows feeds its result into
+ * <Link>, which Next auto-prefixes; prefixing there would double the base.)
+ */
 export function rewriteLinks(body: string, fromFileAbs: string): string {
-  return body.replace(/\]\(([^)]+)\)/g, (_m, href) => `](${rewriteHref(href, fromFileAbs)})`);
+  return body.replace(
+    /\]\(([^)]+)\)/g,
+    (_m, href) => `](${withBase(rewriteHref(href, fromFileAbs))})`
+  );
 }
 
 // ── markdown rendering ────────────────────────────────────────────────────────

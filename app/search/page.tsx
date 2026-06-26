@@ -2,6 +2,7 @@
 
 import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
+import { withBase } from "@/lib/base";
 
 type Entry = { title: string; href: string; crumb: string; tldr: string; pages: string };
 
@@ -19,7 +20,7 @@ export default function SearchPage() {
   const [q, setQ] = useState("");
 
   useEffect(() => {
-    fetch("/search-index.json")
+    fetch(withBase("/search-index.json"))
       .then((r) => r.json())
       .then(setEntries)
       .catch(() => setEntries([]));

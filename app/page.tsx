@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { getRoot, parseContentsRows, UPSTREAM_PDF_URL } from "@/lib/tree";
+import { withBase } from "@/lib/base";
 
 export default function Home() {
   const root = getRoot();
@@ -28,7 +29,7 @@ export default function Home() {
         <b>Pointing an AI agent here?</b> Start at this index and follow links down — a typical
         question reaches the right section in two or three hops while loading only a few KB. Each
         page carries an AI-written summary and links back to the exact PDF page. Machine-readable
-        map at <a href="/llms.txt">/llms.txt</a>; append <code>view raw markdown</code> on any page
+        map at <a href={withBase("/llms.txt")}>/llms.txt</a>; append <code>view raw markdown</code> on any page
         to fetch its source. Full document:{" "}
         <a href={UPSTREAM_PDF_URL} target="_blank" rel="noopener noreferrer">oregon.gov ↗</a>.
       </div>

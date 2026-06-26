@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import "./globals.css";
 import { SITE_NAME, UPSTREAM_PDF_URL } from "@/lib/tree";
+import { withBase } from "@/lib/base";
 
 export const metadata: Metadata = {
   title: {
@@ -29,7 +30,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             <nav className="site-nav">
               <Link href="/">Index</Link>
               <Link href="/search/">Search</Link>
-              <a href="/llms.txt">llms.txt</a>
+              <a href={withBase("/llms.txt")}>llms.txt</a>
               <a href={UPSTREAM_PDF_URL} target="_blank" rel="noopener noreferrer">Source PDF ↗</a>
             </nav>
           </div>
@@ -49,7 +50,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             </p>
             <p className="muted">
               Built as a progressive-disclosure tree for AI agents — start at the{" "}
-              <Link href="/">index</Link>, see <a href="/llms.txt">llms.txt</a>, or fetch any page&apos;s
+              <Link href="/">index</Link>, see <a href={withBase("/llms.txt")}>llms.txt</a>, or fetch any page&apos;s
               raw markdown.
             </p>
           </div>
