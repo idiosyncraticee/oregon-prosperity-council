@@ -9,8 +9,11 @@ export default function Home() {
   return (
     <div>
       <section className="hero">
-        <p className="eyebrow">Oregon Prosperity Council · June 2026</p>
-        <h1>Recommendations for Oregon&apos;s Long-Term Competitiveness &amp; Prosperity</h1>
+        <p className="eyebrow">Unofficial index · Oregon Prosperity Council · June 2026</p>
+        <h1>
+          An Unofficial Reader&apos;s Index to <em>Recommendations for Oregon&apos;s Long-Term
+          Competitiveness &amp; Prosperity</em>
+        </h1>
         <p className="lede">
           A navigable, summarized index of the Prosperity Council&apos;s 452-page report to Governor
           Tina Kotek — its ten priority recommendations, five policy chapters, and the full public
