@@ -4,7 +4,7 @@ Guidance for Claude Code (and other agents) working in this repo.
 
 ## What this repo is
 
-A progressive-disclosure index of the **Oregon Prosperity Council Report (June 2026)** — a 452-page PDF split into ~150 small, summarized, cross-linked Markdown sections under [`tree/`](./tree/INDEX.md), plus a static website (Next.js export) that serves the tree for browsing, search, and AI navigation. The site is meant to be self-hosted behind a Cloudflare Tunnel.
+A progressive-disclosure index of the **Oregon Prosperity Council Report (June 2026)** — a 452-page PDF split into ~150 small, summarized, cross-linked Markdown sections under [`tree/`](./tree/INDEX.md), plus a static website (Next.js export) that serves the tree for browsing, search, and AI navigation. The site is **live at [yex.ai/gov/oregon/prosperity-council](https://yex.ai/gov/oregon/prosperity-council/)**, composed into the yex.ai Atlas — see [Deploying](#deploying).
 
 The tree under `tree/` is the **source of truth** for any question about this document. Every leaf cites its exact PDF pages; every AI summary bullet has a page anchor.
 
@@ -40,8 +40,28 @@ node "$DOCTREE_SKILL/scripts/run.mjs" emit --project-root .
 node "$DOCTREE_SKILL/scripts/run.mjs" enrich --project-root . && node "$DOCTREE_SKILL/scripts/run.mjs" merge --project-root . && node "$DOCTREE_SKILL/scripts/run.mjs" rollup --project-root .
 node "$DOCTREE_SKILL/scripts/run.mjs" verify --project-root .
 
-npm install && npm run build && PORT=8788 npm run serve    # the website
+npm install && npm run build && PORT=8788 npm run serve    # local preview only
 ```
+
+## Deploying
+
+**To ship the live site, run one command — see [`DEPLOY.md`](./DEPLOY.md):**
+
+```bash
+npm run deploy:gov
+```
+
+This explorer is a standalone sibling repo **composed into yex.ai** at
+`https://yex.ai/gov/oregon/prosperity-council/`. It is served by a Cloudflare
+Worker (in the `yexai` repo, route `yex.ai/gov/*`) that proxies the mount path to
+this repo's **base-path build** hosted on the Vercel project
+`oregon-prosperity-council-gov`. `npm run deploy:gov` builds with
+`BASE_PATH=/gov/oregon/prosperity-council` and deploys `out/` to that origin.
+
+There is **no Cloudflare Tunnel and no `serve.mjs` in the live path** —
+`serve.mjs` / `npm run serve` is only for local standalone preview. Routing
+lives in `yexai/data/atlas.ts` (`status: "vercel"`) and does not change on a
+content update.
 
 ## Why the tree was reconstructed (don't undo this)
 
@@ -52,4 +72,4 @@ The PDF's embedded bookmark outline only covered Appendix D (pp.87–91) and App
 - **Scripts split across two homes.** The pipeline lives in the `pdf-doctree` plugin (`$DOCTREE_SKILL`, v1.1.0+ — it now handles sparse-leaf files, multi-part navigation, oversized-page splitting, and internal-link checking natively). Only the document-specific structure reconstruction (`scripts/build-outline.mjs`) and the web-asset generator (`scripts/gen-public-assets.mjs`) live here.
 - **`--json-schema` is a trap** for the enrich step (`claude -p`). The pipeline embeds the schema in the system prompt instead. Don't add it.
 - **Generated public/ assets** (`public/raw/`, `public/raw-page/`, `llms.txt`, etc.) are rebuilt by `scripts/gen-public-assets.mjs` on every `build`/`dev` — don't hand-edit them.
-- **`out/` is the deployable.** It's a pure static export; serve with `serve.mjs` (zero deps) or any static host.
+- **`out/` is the deployable.** It's a pure static export. Ship it with `npm run deploy:gov` (see [Deploying](#deploying)); `serve.mjs` is only for local preview.

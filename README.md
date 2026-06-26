@@ -14,34 +14,36 @@ Appendix D Facilitators' Guide · E Submissions & Feedback (47 named public subm
 ## Two layers
 
 1. **The doc tree** ([`tree/`](./tree/INDEX.md)) — the source of truth. Plain Markdown, browsable on GitHub, navigable by any agent, greppable. Built by the [`pdf-doctree`](https://github.com) pipeline plus the project-local scripts in [`scripts/`](./scripts).
-2. **The website** (this Next.js app) — a static export of the tree with a landing page, per-section pages, full-text search, raw-markdown endpoints, and an [`llms.txt`](#agents) manifest. Designed to be **self-hosted behind a Cloudflare Tunnel** (no Node runtime required at serve time).
+2. **The website** (this Next.js app) — a static export of the tree with a landing page, per-section pages, full-text search, raw-markdown endpoints, and an [`llms.txt`](#agents) manifest. **Live at [yex.ai/gov/oregon/prosperity-council](https://yex.ai/gov/oregon/prosperity-council/)**, composed into the yex.ai Atlas — see [Deploy](#deploy).
 
 ---
 
-## Run the website
+## Deploy
+
+The live site is **[yex.ai/gov/oregon/prosperity-council](https://yex.ai/gov/oregon/prosperity-council/)**. To ship an update, one command:
+
+```bash
+npm run deploy:gov
+```
+
+It builds with `BASE_PATH=/gov/oregon/prosperity-council` and deploys `out/` to
+the Vercel origin (`oregon-prosperity-council-gov`) that the yex.ai Cloudflare
+Worker proxies to. **Full details in [`DEPLOY.md`](./DEPLOY.md).** No tunnel, no
+server to keep running; routing lives in `yexai/data/atlas.ts` and doesn't change
+on a content update.
+
+## Run locally
 
 ```bash
 npm install
-npm run build          # static export → ./out  (runs prebuild: scripts/gen-public-assets.mjs)
-PORT=8788 npm run serve   # zero-dependency static server over ./out
+npm run dev                 # dev server (regenerates public assets, then next dev)
+# or preview the production static export:
+npm run build && PORT=8788 npm run serve   # local-only; serve.mjs is a zero-dep static server over ./out
 ```
 
-Then expose it:
-
-```bash
-cloudflared tunnel --url http://localhost:8788
-# or, with a named tunnel, point the ingress at http://localhost:8788
-```
-
-`out/` is a fully static folder — you can serve it with anything (`npx serve out`, nginx, Caddy, an object store). `serve.mjs` is included so there are **zero serve-time dependencies**.
-
-Set an absolute base URL so `sitemap.xml`, `robots.txt`, and `llms.txt` emit absolute links:
-
-```bash
-SITE_URL=https://prosperity.yourdomain.org npm run build
-```
-
-Dev mode: `npm run dev` (regenerates public assets, then `next dev`).
+`out/` is a fully static folder — `serve.mjs` is for local preview only (it is
+**not** in the live serving path). To preview as a standalone site at the root
+(not under /gov), build without `BASE_PATH`.
 
 <a name="agents"></a>
 ## For AI agents
@@ -109,7 +111,8 @@ tree/                 the doc tree (committed) — start at tree/INDEX.md
 .extracted/pages/     per-page raw extracted text (committed; raw-text fallback)
 scripts/              project-local pipeline helpers
 app/ lib/ components/  the Next.js static site
-serve.mjs             zero-dependency static server for self-hosting
+serve.mjs             zero-dependency static server — LOCAL PREVIEW ONLY (not the live path)
+scripts/deploy-gov.mjs  one-command deploy to yex.ai/gov (see DEPLOY.md)
 doctree.config.json   PDF path, upstream URL, enrichment prompt
 CLAUDE.md             agent navigation contract
 ```
