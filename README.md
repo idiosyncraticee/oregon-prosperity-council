@@ -118,3 +118,9 @@ CLAUDE.md             agent navigation contract
 ```
 
 Unofficial mirror. All content is derived mechanically from the source PDF; not affiliated with the State of Oregon.
+
+## License
+
+The code in this repository (`app/`, `components/`, `lib/`, `scripts/`, and the build configuration) is released under the [MIT License](./LICENSE).
+
+The report text under `tree/` and `.extracted/` is derived from the Oregon Prosperity Council Report (June 2026), published by the State of Oregon. That content belongs to its authors and is not covered by the MIT License. This is an unofficial index.

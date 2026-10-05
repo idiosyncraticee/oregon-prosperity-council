@@ -2,6 +2,7 @@
   "name": "oregon-prosperity-council-doctree",
   "version": "1.0.0",
   "private": true,
+  "license": "MIT",
   "description": "Progressive-disclosure web index for the Oregon Prosperity Council Report (June 2026), built for agent navigation.",
   "scripts": {
     "dev": "node scripts/gen-public-assets.mjs && next dev",
